@@ -1,0 +1,29 @@
+{
+    "name": "HEX",
+    "website": "https://hex.com/",
+    "description": "HEX is a blockchain-based certificate of deposit designed to preserve and grow your wealth.",
+    "explorer": "https://scan.pulsechain.box/token/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+    "type": "ERC20",
+    "symbol": "HEX",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+    "tags": [
+        "defi",
+        "staking"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/hex"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/HEXcrypto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HEXcrypto"
+        }
+    ]
+}

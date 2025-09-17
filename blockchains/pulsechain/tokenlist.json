@@ -1,0 +1,26 @@
+{
+  "name": "PulseChain",
+  "logoURI": "https://pulsechain.com/images/logo.png",
+  "keywords": [
+    "pulsechain",
+    "pls",
+    "defi"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "wrapped": {
+      "name": "Wrapped",
+      "description": "Wrapped tokens"
+    }
+  },
+  "timestamp": "2024-01-01T00:00:00.000Z",
+  "tokens": [],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
