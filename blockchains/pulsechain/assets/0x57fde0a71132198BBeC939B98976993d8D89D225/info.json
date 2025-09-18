@@ -1,0 +1,39 @@
+{
+    "name": "HEX from Ethereum",
+    "website": "https://hex.com/",
+    "description": "HEX token bridged from Ethereum to PulseChain - The original HEX certificate of deposit token.",
+    "explorer": "https://scan.pulsechain.box/token/0x57fde0a71132198BBeC939B98976993d8D89D225",
+    "type": "ERC20",
+    "symbol": "HEX",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x57fde0a71132198BBeC939B98976993d8D89D225",
+    "tags": [
+        "defi",
+        "staking",
+        "bridged",
+        "ethereum"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://hex.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/HEXcrypto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HEXcrypto"
+        },
+        {
+            "name": "ethereum",
+            "url": "https://etherscan.io/token/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}
