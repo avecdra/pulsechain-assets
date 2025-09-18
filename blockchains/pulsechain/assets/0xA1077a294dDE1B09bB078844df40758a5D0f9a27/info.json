@@ -1,0 +1,34 @@
+{
+    "name": "PulseChain",
+    "website": "https://pulsechain.com/",
+    "description": "WPLS is the native utility token of PulseChain, used for gas fees, staking, and governance.",
+    "explorer": "https://scan.pulsechain.box/token/0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+    "type": "ERC20",
+    "symbol": "WPLS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+    "tags": [
+        "native",
+        "utility",
+        "gas"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://pulsechain.com/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/pulsechaincom"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PulseChainCom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseChainCom"
+        }
+    ]
+}
