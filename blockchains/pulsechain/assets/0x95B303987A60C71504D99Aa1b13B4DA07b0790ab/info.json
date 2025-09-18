@@ -1,0 +1,38 @@
+{
+    "name": "PulseX",
+    "website": "https://pulsex.com/",
+    "description": "PLSX is the governance and utility token of PulseX, the leading decentralized exchange on PulseChain.",
+    "explorer": "https://scan.pulsechain.box/token/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+    "type": "ERC20",
+    "symbol": "PLSX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+    "tags": [
+        "dex",
+        "governance",
+        "utility"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://pulsex.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PulseXcom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseXcom"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pulsex"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}

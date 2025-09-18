@@ -1,7 +1,7 @@
 {
-    "name": "HEX",
+    "name": "HEX on PulseChain",
     "website": "https://hex.com/",
-    "description": "HEX is a blockchain-based certificate of deposit designed to preserve and grow your wealth.",
+    "description": "HEX on PulseChain - The original HEX token bridged to PulseChain network.",
     "explorer": "https://scan.pulsechain.box/token/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
     "type": "ERC20",
     "symbol": "HEX",
@@ -10,7 +10,8 @@
     "id": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
     "tags": [
         "defi",
-        "staking"
+        "staking",
+        "bridged"
     ],
     "links": [
         {
@@ -24,6 +25,10 @@
         {
             "name": "telegram",
             "url": "https://t.me/HEXcrypto"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
         }
     ]
 }
