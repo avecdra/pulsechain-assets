@@ -1,0 +1,38 @@
+{
+    "name": "Increment",
+    "website": "https://increment.fi/",
+    "description": "INC is the native utility token of PulseX, a decentralized platform on PulseChain offering various DeFi services and utilities.",
+    "explorer": "https://scan.pulsechain.box/token/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+    "type": "ERC20",
+    "symbol": "INC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+    "tags": [
+        "defi",
+        "utility",
+        "platform"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://app.pulsex.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PulseXcom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseXcom"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/pulsex"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}
