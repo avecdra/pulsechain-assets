@@ -1,0 +1,26 @@
+{
+    "name": "HOA",
+    "website": "https://tanggang.life/",
+    "description": "HOA is a community-driven token on PulseChain, representing the Hex Orange Address ecosystem with various DeFi utilities and community initiatives.",
+    "explorer": "https://scan.pulsechain.box/token/0x7901a3569679AEc3501dbeC59399F327854a70fe",
+    "type": "ERC20",
+    "symbol": "HOA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
+    "tags": [
+        "community",
+        "defi",
+        "africa"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://tanggang.life/"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}

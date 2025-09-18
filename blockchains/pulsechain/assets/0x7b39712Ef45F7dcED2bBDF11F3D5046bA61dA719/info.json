@@ -1,0 +1,26 @@
+{
+    "name": "9mm",
+    "website": "https://9mm.pro/",
+    "description": "9mm is a high-energy memecoin on PulseChain designed for the gaming and entertainment community with fast transactions and community-driven features.",
+    "explorer": "https://scan.pulsechain.box/token/0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719",
+    "type": "ERC20",
+    "symbol": "9mm",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719",
+    "tags": [
+        "memecoin",
+        "gaming",
+        "community"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://9mm.pro/"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}
