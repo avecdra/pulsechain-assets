@@ -1,0 +1,30 @@
+{
+    "name": "USD Coin on PulseChain",
+    "website": "https://www.centre.io/usdc",
+    "description": "USDC stablecoin bridged to PulseChain - A fully collateralized US dollar stablecoin.",
+    "explorer": "https://scan.pulsechain.box/token/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+    "type": "ERC20",
+    "symbol": "USDC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+    "tags": [
+        "stablecoin",
+        "defi",
+        "bridged"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://www.centre.io/usdc"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/circle"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}

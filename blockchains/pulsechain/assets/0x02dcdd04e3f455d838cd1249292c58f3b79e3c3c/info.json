@@ -1,0 +1,26 @@
+{
+    "name": "Wrapped Ether on PulseChain",
+    "website": "https://weth.io/",
+    "description": "WETH bridged to PulseChain - Wrapped Ether (WETH) is the ERC-20 compatible version of Ether.",
+    "explorer": "https://scan.pulsechain.box/token/0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+    "type": "ERC20",
+    "symbol": "WETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+    "tags": [
+        "wrapped",
+        "ethereum",
+        "bridged"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://weth.io/"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}

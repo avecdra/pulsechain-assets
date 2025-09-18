@@ -1,0 +1,30 @@
+{
+    "name": "Tether USD on PulseChain",
+    "website": "https://tether.to/",
+    "description": "USDT stablecoin bridged to PulseChain - World's largest stablecoin pegged to the US Dollar.",
+    "explorer": "https://scan.pulsechain.box/token/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+    "tags": [
+        "stablecoin",
+        "defi",
+        "bridged"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://tether.to/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tether_to"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Dai Stablecoin on PulseChain",
+    "website": "https://makerdao.com/",
+    "description": "DAI stablecoin bridged to PulseChain - A decentralized stablecoin pegged to the US Dollar.",
+    "explorer": "https://scan.pulsechain.box/token/0xefd766ccb38eaf1dfd701853bfce31359239f305",
+    "type": "ERC20",
+    "symbol": "DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xefd766ccb38eaf1dfd701853bfce31359239f305",
+    "tags": [
+        "stablecoin",
+        "defi",
+        "bridged"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://makerdao.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MakerDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/makerdaoOfficial"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}
