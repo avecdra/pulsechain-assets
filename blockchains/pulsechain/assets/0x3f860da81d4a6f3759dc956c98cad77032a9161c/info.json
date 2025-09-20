@@ -1,0 +1,25 @@
+{
+  "name": "KINO",
+  "website": "https://knowyourmeme.com/photos/2693282-absolute-cinema-kino-is-served",
+  "description": "KINO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3f860da81d4a6f3759dC956c98CAD77032A9161C",
+  "type": "ERC20",
+  "symbol": "KINO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3f860da81d4a6f3759dc956c98cad77032a9161c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://knowyourmeme.com/photos/2693282-absolute-cinema-kino-is-served"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kinopls"
+    }
+  ]
+}

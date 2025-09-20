@@ -1,0 +1,65 @@
+{
+  "name": "ETHTC",
+  "website": "https://tctrademarket.com",
+  "description": "ETHTC token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB6FDD8A5b6069De409288Bc30C69c5856Dc67aC8",
+  "type": "ERC20",
+  "symbol": "ETHTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb6fdd8a5b6069de409288bc30c69c5856dc67ac8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://tctrademarket.com"
+    },
+    {
+      "name": "website",
+      "url": "https://tcdirectory.info/all-links/"
+    },
+    {
+      "name": "website",
+      "url": "https://realtc.org"
+    },
+    {
+      "name": "website",
+      "url": "https://tcdirectory.info"
+    },
+    {
+      "name": "website",
+      "url": "https://tctrademart.com"
+    },
+    {
+      "name": "website",
+      "url": "https://c-blueresort.com"
+    },
+    {
+      "name": "website",
+      "url": "https://donaldtheguru.com"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@TCtrademartDotCom"
+    },
+    {
+      "name": "website",
+      "url": "https://tcdirectory.info/recommended"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/channel/UCnsmZ3XeUrHpUCd46N1q2Bw"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulseETHTC"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseETHTC"
+    }
+  ]
+}

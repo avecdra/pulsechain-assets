@@ -1,0 +1,16 @@
+{
+  "name": "Curve DAO Token",
+  "website": "",
+  "description": "Curve DAO Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "type": "ERC20",
+  "symbol": "CRV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Pulse Inu",
+  "website": "https://www.pulseinupuppy.com/",
+  "description": "Pulse Inu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe83034A7A78fC148c69defebD6D4C80f8Bb4f710",
+  "type": "ERC20",
+  "symbol": "PINU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe83034a7a78fc148c69defebd6d4c80f8bb4f710",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pulseinupuppy.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pulseinupuppy"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulseinupuppy"
+    }
+  ]
+}

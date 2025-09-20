@@ -1,0 +1,25 @@
+{
+  "name": "Piggy Bank",
+  "website": "https://oink-pls.com",
+  "description": "Piggy Bank token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFAaC6a85C3e123AB2CF7669B1024f146cFef0b38",
+  "type": "ERC20",
+  "symbol": "OINK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfaac6a85c3e123ab2cf7669b1024f146cfef0b38",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://oink-pls.com"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/OINKpls"
+    }
+  ]
+}

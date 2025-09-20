@@ -1,0 +1,25 @@
+{
+  "name": "ASTROCHIMP",
+  "website": "http://astrochimp.win/",
+  "description": "ASTROCHIMP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0cF2D66Cff3365Af82be02Ee34eC0d4E573b95d2",
+  "type": "ERC20",
+  "symbol": "HAM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0cf2d66cff3365af82be02ee34ec0d4e573b95d2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://astrochimp.win/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+RqhHJ4FsSV0wNjBh"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Stable Yield",
+  "website": "",
+  "description": "Stable Yield token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x26f490688B8498288a5A67235Ee12b415bfE3C68",
+  "type": "ERC20",
+  "symbol": "YIELD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x26f490688b8498288a5a67235ee12b415bfe3c68",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Project_X_Pulse?t=y9ePa3Ird99dooBDSxOVXw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PoolTokenEco"
+    }
+  ]
+}

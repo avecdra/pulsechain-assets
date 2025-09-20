@@ -1,0 +1,25 @@
+{
+  "name": "PUPPERS",
+  "website": "",
+  "description": "PUPPERS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x27246B3e508c696Af6C6F3D83286aC6D8242d3bA",
+  "type": "ERC20",
+  "symbol": "PUPPERS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x27246b3e508c696af6c6f3d83286ac6d8242d3ba",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RichardHeartsDog"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Peer to Peer (EUR)",
+  "website": "",
+  "description": "Peer to Peer (EUR) token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1ca0906FD22d8bb6EA8ae030B5A396c4A525CA3b",
+  "type": "ERC20",
+  "symbol": "EUR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1ca0906fd22d8bb6ea8ae030b5a396c4a525ca3b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

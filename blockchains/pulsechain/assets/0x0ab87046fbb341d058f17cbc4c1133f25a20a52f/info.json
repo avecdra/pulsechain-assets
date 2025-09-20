@@ -1,0 +1,16 @@
+{
+  "name": "Governance OHM",
+  "website": "",
+  "description": "Governance OHM token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",
+  "type": "ERC20",
+  "symbol": "gOHM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

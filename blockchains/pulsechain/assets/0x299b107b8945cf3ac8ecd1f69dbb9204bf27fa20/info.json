@@ -1,0 +1,33 @@
+{
+  "name": "414r",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "414r token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x299B107b8945CF3ac8ECD1f69dBb9204bf27FA20",
+  "type": "ERC20",
+  "symbol": "414r",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x299b107b8945cf3ac8ecd1f69dbb9204bf27fa20",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

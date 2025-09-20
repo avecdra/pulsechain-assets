@@ -1,0 +1,25 @@
+{
+  "name": "Bitcoin Cash",
+  "website": "https://gopulse.com/token/0xd4e685ecd1c177a5d9661cf675309e5d00c2e08a",
+  "description": "Bitcoin Cash token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD4e685ecD1C177A5D9661cF675309E5D00c2e08a",
+  "type": "ERC20",
+  "symbol": "BCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd4e685ecd1c177a5d9661cf675309e5d00c2e08a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gopulse.com/token/0xd4e685ecd1c177a5d9661cf675309e5d00c2e08a"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

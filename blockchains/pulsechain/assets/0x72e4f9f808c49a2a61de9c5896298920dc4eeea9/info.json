@@ -1,0 +1,29 @@
+{
+  "name": "HarryPotterObamaSonic10Inu",
+  "website": "https://hpos10i.com",
+  "description": "HarryPotterObamaSonic10Inu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+  "type": "ERC20",
+  "symbol": "BITCOIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hpos10i.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/hpos10ireturns"
+    },
+    {
+      "name": "telegram",
+      "url": "https://telegram.me/hpos10i"
+    }
+  ]
+}

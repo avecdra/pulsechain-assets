@@ -1,0 +1,29 @@
+{
+  "name": "Ravi",
+  "website": "https://ravionpulse.vercel.app/",
+  "description": "Ravi token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x29f94800C72b4D2f3d2692825369cFe9f3741432",
+  "type": "ERC20",
+  "symbol": "Ravi",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x29f94800c72b4d2f3d2692825369cfe9f3741432",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://ravionpulse.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RaviPulseChain"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ravionpulse"
+    }
+  ]
+}

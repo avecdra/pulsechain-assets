@@ -1,0 +1,25 @@
+{
+  "name": "CHARMANDER V2",
+  "website": "https://charmanderpulsechain.com/crypto",
+  "description": "CHARMANDER V2 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3c74B76f36F72d1F6fdd30e756ce564CA990a947",
+  "type": "ERC20",
+  "symbol": "CHARM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3c74b76f36f72d1f6fdd30e756ce564ca990a947",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://charmanderpulsechain.com/crypto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CharmPLS"
+    }
+  ]
+}

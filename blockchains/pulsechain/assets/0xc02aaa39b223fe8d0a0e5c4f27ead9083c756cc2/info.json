@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped Ether",
+  "website": "",
+  "description": "Wrapped Ether token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "type": "ERC20",
+  "symbol": "WETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

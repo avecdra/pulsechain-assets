@@ -1,0 +1,29 @@
+{
+  "name": "income0x.com",
+  "website": "https://income0x.com/",
+  "description": "income0x.com token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x29e59e5f48cA5729b73A63A231636FAA5e8d1a21",
+  "type": "ERC20",
+  "symbol": "IOX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x29e59e5f48ca5729b73a63a231636faa5e8d1a21",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://income0x.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/income0x?s=21\u0026t=iz5Z5EVhQt2Kn3M6bpk8pw"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/passive_income0x"
+    }
+  ]
+}

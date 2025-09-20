@@ -1,0 +1,29 @@
+{
+  "name": "RICH",
+  "website": "https://pls.rich",
+  "description": "RICH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3FE1aE9B80c95Ff14350e29DB4f3DfAC8cCC3307",
+  "type": "ERC20",
+  "symbol": "RICH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3fe1ae9b80c95ff14350e29db4f3dfac8ccc3307",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pls.rich"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichOnPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RichOnPulse"
+    }
+  ]
+}

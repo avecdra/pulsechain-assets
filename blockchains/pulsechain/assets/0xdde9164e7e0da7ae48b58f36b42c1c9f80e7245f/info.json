@@ -1,0 +1,25 @@
+{
+  "name": "DOGE",
+  "website": "",
+  "description": "DOGE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDDe9164E7E0DA7ae48b58F36B42c1c9f80e7245F",
+  "type": "ERC20",
+  "symbol": "DOGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdde9164e7e0da7ae48b58f36b42c1c9f80e7245f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/dogeonpls?t=l-jy3JT-f143Od0KPQyiBw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dogeonpls"
+    }
+  ]
+}

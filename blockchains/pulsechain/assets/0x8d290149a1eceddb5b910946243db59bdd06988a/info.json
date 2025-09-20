@@ -1,0 +1,25 @@
+{
+  "name": "Mewtwo ミュウツー",
+  "website": "",
+  "description": "Mewtwo ミュウツー token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8d290149A1EceDdb5b910946243DB59bdD06988a",
+  "type": "ERC20",
+  "symbol": "Mewtwo",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8d290149a1eceddb5b910946243db59bdd06988a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/mew_mew2_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsemewtwo"
+    }
+  ]
+}

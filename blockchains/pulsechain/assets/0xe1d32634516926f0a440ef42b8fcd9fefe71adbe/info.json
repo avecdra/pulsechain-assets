@@ -1,0 +1,29 @@
+{
+  "name": "Hedron S'mores Address",
+  "website": "https://lookintohedron.com/",
+  "description": "Hedron S'mores Address token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe1d32634516926F0A440ef42b8fCD9fefe71ADBE",
+  "type": "ERC20",
+  "symbol": "HSA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe1d32634516926f0a440ef42b8fcd9fefe71adbe",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://lookintohedron.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/hedronsmores?s=21\u0026t=mrSVEGU2Y0tJEb0V3sbdvg"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HedronSmoresAddress"
+    }
+  ]
+}

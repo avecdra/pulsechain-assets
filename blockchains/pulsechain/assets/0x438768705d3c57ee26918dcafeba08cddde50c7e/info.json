@@ -1,0 +1,15 @@
+{
+  "name": "FRENS",
+  "website": "",
+  "description": "FRENS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x438768705d3c57ee26918dcafeba08cddde50c7e",
+  "type": "ERC20",
+  "symbol": "FRENS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x438768705d3c57ee26918dcafeba08cddde50c7e",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

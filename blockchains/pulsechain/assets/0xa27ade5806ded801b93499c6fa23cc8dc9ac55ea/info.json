@@ -1,0 +1,33 @@
+{
+  "name": "MAFIA",
+  "website": "https://pulsemafia.io",
+  "description": "MAFIA token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa27aDe5806Ded801b93499C6fA23cc8dC9AC55EA",
+  "type": "ERC20",
+  "symbol": "MAFIA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa27ade5806ded801b93499c6fa23cc8dc9ac55ea",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsemafia.io"
+    },
+    {
+      "name": "website",
+      "url": "https://mafiagame.gitbook.io/bnb-mafia"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/plsmafiaio"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PLSmafia"
+    }
+  ]
+}

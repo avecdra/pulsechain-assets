@@ -1,0 +1,25 @@
+{
+  "name": "Laser Shark",
+  "website": "",
+  "description": "Laser Shark token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x476095b858Da2fF8893F0CEf81Da1c704035047F",
+  "type": "ERC20",
+  "symbol": "LASER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x476095b858da2ff8893f0cef81da1c704035047f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/i/communities/1954008565280121202"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/lasersharkcoin"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PooNanny",
+  "website": "https://poonanny.io/",
+  "description": "PooNanny token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE447313535F5B92DB223D63A56a3f32EB763Ca46",
+  "type": "ERC20",
+  "symbol": "PNANY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe447313535f5b92db223d63a56a3f32eb763ca46",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://poonanny.io/"
+    }
+  ]
+}

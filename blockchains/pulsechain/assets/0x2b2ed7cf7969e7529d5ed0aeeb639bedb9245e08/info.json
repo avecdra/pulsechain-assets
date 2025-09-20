@@ -1,0 +1,21 @@
+{
+  "name": "PEGGY GUY ",
+  "website": "",
+  "description": "PEGGY GUY  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2B2ED7cF7969E7529d5Ed0Aeeb639bedB9245E08",
+  "type": "ERC20",
+  "symbol": "$PEGGY ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2b2ed7cf7969e7529d5ed0aeeb639bedb9245e08",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/search?q=%24PEGGY\u0026src=typed_query"
+    }
+  ]
+}

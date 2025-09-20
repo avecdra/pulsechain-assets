@@ -1,0 +1,25 @@
+{
+  "name": "NEO",
+  "website": "",
+  "description": "NEO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x622cCAa64B9e028617B5d4D4448a05F5a9315211",
+  "type": "ERC20",
+  "symbol": "NEO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x622ccaa64b9e028617b5d4d4448a05f5a9315211",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/thematrixpls?s=21\u0026t=jUJmAgbfoBK_WJiCkJ0SKA"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/THEMATRIX_PLS"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "VIBES",
+  "website": "https://www.x-usd.net/",
+  "description": "VIBES token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x50D0DD7f2164212B6218EDe3834E39d629bd72dc",
+  "type": "ERC20",
+  "symbol": "VIBES",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x50d0dd7f2164212b6218ede3834e39d629bd72dc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.x-usd.net/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/XUSDOfficial"
+    }
+  ]
+}

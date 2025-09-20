@@ -1,0 +1,29 @@
+{
+  "name": "Stimulus Finance DAO",
+  "website": "https://stimulus-app.pages.dev/",
+  "description": "Stimulus Finance DAO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x20B46841A78946bA214ed509749C0ABcA5bc4427",
+  "type": "ERC20",
+  "symbol": "SFD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x20b46841a78946ba214ed509749c0abca5bc4427",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://stimulus-app.pages.dev/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/STIMULUSDAO"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/StimulusFinanceDao"
+    }
+  ]
+}

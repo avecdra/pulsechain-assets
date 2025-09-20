@@ -1,0 +1,16 @@
+{
+  "name": "Chinta-Mani",
+  "website": "",
+  "description": "Chinta-Mani token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBBC1F6cb4Ed8e1e32CeD17B2809739B093d4EFec",
+  "type": "ERC20",
+  "symbol": "Emerald",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbbc1f6cb4ed8e1e32ced17b2809739b093d4efec",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

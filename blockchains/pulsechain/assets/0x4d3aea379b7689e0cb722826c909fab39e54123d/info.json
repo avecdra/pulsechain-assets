@@ -1,0 +1,16 @@
+{
+  "name": "Pepe from Ethereum",
+  "website": "",
+  "description": "Pepe from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4d3AeA379b7689E0Cb722826C909Fab39E54123d",
+  "type": "ERC20",
+  "symbol": "PEPE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4d3aea379b7689e0cb722826c909fab39e54123d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

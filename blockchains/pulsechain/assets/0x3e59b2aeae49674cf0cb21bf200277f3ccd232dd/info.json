@@ -1,0 +1,29 @@
+{
+  "name": "Andy",
+  "website": "https://boysclubpls.io",
+  "description": "Andy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3E59B2aeAe49674CF0CB21bf200277f3CcD232DD",
+  "type": "ERC20",
+  "symbol": "ANDY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3e59b2aeae49674cf0cb21bf200277f3ccd232dd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://boysclubpls.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/boysclubpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+6FRkJWJtmixjODlk"
+    }
+  ]
+}

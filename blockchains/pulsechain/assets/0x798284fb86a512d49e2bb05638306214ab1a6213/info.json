@@ -1,0 +1,16 @@
+{
+  "name": "1 Unit Bias Coin",
+  "website": "",
+  "description": "1 Unit Bias Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x798284FB86a512D49e2bB05638306214Ab1A6213",
+  "type": "ERC20",
+  "symbol": "1UBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x798284fb86a512d49e2bb05638306214ab1a6213",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

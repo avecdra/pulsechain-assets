@@ -1,0 +1,29 @@
+{
+  "name": "Function Island Farm",
+  "website": "https://functionisland.com",
+  "description": "Function Island Farm token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea",
+  "type": "ERC20",
+  "symbol": "FARM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfd4d3a2fd12c7f3146428a2ebdcb489550ae9bea",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://functionisland.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/function_island"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/FunctionIsland"
+    }
+  ]
+}

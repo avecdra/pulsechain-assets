@@ -1,0 +1,16 @@
+{
+  "name": "Gemini dollar",
+  "website": "",
+  "description": "Gemini dollar token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "type": "ERC20",
+  "symbol": "GUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

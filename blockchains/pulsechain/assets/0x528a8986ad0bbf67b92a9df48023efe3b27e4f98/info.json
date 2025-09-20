@@ -1,0 +1,29 @@
+{
+  "name": "Tang Network TV",
+  "website": "http://tanggang.life/",
+  "description": "Tang Network TV token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x528A8986aD0BbF67B92A9Df48023Efe3b27e4f98",
+  "type": "ERC20",
+  "symbol": "TNT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x528a8986ad0bbf67b92a9df48023efe3b27e4f98",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://tanggang.life/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/hexoacoincom"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

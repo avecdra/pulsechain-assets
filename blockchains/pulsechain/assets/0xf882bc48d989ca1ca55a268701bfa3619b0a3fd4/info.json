@@ -1,0 +1,16 @@
+{
+  "name": "FIBOCOIN",
+  "website": "",
+  "description": "FIBOCOIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF882BC48d989Ca1cA55a268701BfA3619B0a3Fd4",
+  "type": "ERC20",
+  "symbol": "FIB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf882bc48d989ca1ca55a268701bfa3619b0a3fd4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

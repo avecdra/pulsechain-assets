@@ -1,0 +1,33 @@
+{
+  "name": "DAIr",
+  "website": "https://dair.rewardr.cash/",
+  "description": "DAIr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x47273Ee3360B936E1c9F2BC808dA76e1Df4B43c4",
+  "type": "ERC20",
+  "symbol": "DAIr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x47273ee3360b936e1c9f2bc808da76e1df4b43c4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dair.rewardr.cash/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PLS Dragon",
+  "website": "https://www.plsdragon.com",
+  "description": "PLS Dragon token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3731031CDBaE9292A26338A6498d0b379416B819",
+  "type": "ERC20",
+  "symbol": "DRAGON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3731031cdbae9292a26338a6498d0b379416b819",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.plsdragon.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PLSDragon5555"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plsdragon"
+    }
+  ]
+}

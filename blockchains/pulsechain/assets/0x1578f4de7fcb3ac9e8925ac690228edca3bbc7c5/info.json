@@ -1,0 +1,29 @@
+{
+  "name": "Dark",
+  "website": "https://agproject.io",
+  "description": "Dark token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1578F4De7fCb3Ac9e8925ac690228EDcA3BBc7c5",
+  "type": "ERC20",
+  "symbol": "DARK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1578f4de7fcb3ac9e8925ac690228edca3bbc7c5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://agproject.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/HEXrayVision"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/antigravitysaga"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Meowth ニャース",
+  "website": "https://meowthpls.com/",
+  "description": "Meowth ニャース token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7cbEd98f3679795fc8Cd8594b98bE77575eDE156",
+  "type": "ERC20",
+  "symbol": "MEOWTH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7cbed98f3679795fc8cd8594b98be77575ede156",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://meowthpls.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/meowthonpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MeowthTeamRocket/"
+    }
+  ]
+}

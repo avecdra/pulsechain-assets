@@ -1,0 +1,15 @@
+{
+  "name": "pole smoker",
+  "website": "",
+  "description": "pole smoker token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3c4c8d58a224c9386b16c6c4d5592956b7cea6dc",
+  "type": "ERC20",
+  "symbol": "SMOKE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3c4c8d58a224c9386b16c6c4d5592956b7cea6dc",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "8-Way Mirror Money",
+  "website": "https://growthdefi.com/",
+  "description": "8-Way Mirror Money token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3f881236C3E8FA27a87F1C122F938D4c31d15394",
+  "type": "ERC20",
+  "symbol": "8WMM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3f881236c3e8fa27a87f1c122f938d4c31d15394",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://growthdefi.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PerpetualDice3"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GROWTH_8WMM"
+    }
+  ]
+}

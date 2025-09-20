@@ -1,0 +1,25 @@
+{
+  "name": "Club 369",
+  "website": "",
+  "description": "Club 369 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x170e572675AC1a964fA1892B17ec2332bC982798",
+  "type": "ERC20",
+  "symbol": "0X369",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x170e572675ac1a964fa1892b17ec2332bc982798",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Clubb369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/club369DAMP"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "BURYHOUSE",
+  "website": "",
+  "description": "BURYHOUSE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF778bC868e491F87ab7e3579eDaFCe79d709f38D",
+  "type": "ERC20",
+  "symbol": "BH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf778bc868e491f87ab7e3579edafce79d709f38d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/BuryBear_PLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BurberryBear"
+    }
+  ]
+}

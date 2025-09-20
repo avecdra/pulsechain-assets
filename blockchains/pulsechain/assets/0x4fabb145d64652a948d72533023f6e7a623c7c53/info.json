@@ -1,0 +1,16 @@
+{
+  "name": "Binance USD",
+  "website": "",
+  "description": "Binance USD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+  "type": "ERC20",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

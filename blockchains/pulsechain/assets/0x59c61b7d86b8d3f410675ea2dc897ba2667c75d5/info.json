@@ -1,0 +1,25 @@
+{
+  "name": "DUMP.tires",
+  "website": "",
+  "description": "DUMP.tires token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x59c61B7d86B8d3F410675EA2dc897BA2667c75D5",
+  "type": "ERC20",
+  "symbol": "DUMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x59c61b7d86b8d3f410675ea2dc897ba2667c75d5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Dump_Tires"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dumptires"
+    }
+  ]
+}

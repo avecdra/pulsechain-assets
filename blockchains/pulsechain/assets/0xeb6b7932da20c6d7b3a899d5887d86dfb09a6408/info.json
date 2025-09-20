@@ -1,0 +1,16 @@
+{
+  "name": "PXDC Stablecoin",
+  "website": "",
+  "description": "PXDC Stablecoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xeB6b7932Da20c6D7B3a899D5887d86dfB09A6408",
+  "type": "ERC20",
+  "symbol": "PXDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeb6b7932da20c6d7b3a899d5887d86dfb09a6408",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

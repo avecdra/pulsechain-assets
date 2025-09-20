@@ -1,0 +1,25 @@
+{
+  "name": "URKID",
+  "website": "",
+  "description": "URKID token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF2ebB3839e0687B66d6D884087874E3EBB79a9a6",
+  "type": "ERC20",
+  "symbol": "URKID",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf2ebb3839e0687b66d6d884087874e3ebb79a9a6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/UrkidPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/URKIDPulse"
+    }
+  ]
+}

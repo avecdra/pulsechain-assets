@@ -1,0 +1,16 @@
+{
+  "name": "TRON",
+  "website": "",
+  "description": "TRON token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0392fBD58918E7ECBB2C68f4EBe4e2225C9a6468",
+  "type": "ERC20",
+  "symbol": "TRX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0392fbd58918e7ecbb2c68f4ebe4e2225c9a6468",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

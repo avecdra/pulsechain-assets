@@ -1,0 +1,15 @@
+{
+  "name": "Mouse",
+  "website": "",
+  "description": "Mouse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xde9f0e84d9af9ffc4796ef8398434d67509a9bca",
+  "type": "ERC20",
+  "symbol": "🐭",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde9f0e84d9af9ffc4796ef8398434d67509a9bca",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

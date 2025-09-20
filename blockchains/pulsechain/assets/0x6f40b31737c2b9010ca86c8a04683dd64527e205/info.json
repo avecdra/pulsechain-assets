@@ -1,0 +1,21 @@
+{
+  "name": "Richard Fartcoin",
+  "website": "http://richardfartcoin.com",
+  "description": "Richard Fartcoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6f40B31737c2B9010Ca86C8a04683Dd64527E205",
+  "type": "ERC20",
+  "symbol": "Fartcoin",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6f40b31737c2b9010ca86c8a04683dd64527e205",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://richardfartcoin.com"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "H2O - Pulse Drip",
+  "website": "https://www.pulsedrip.io/",
+  "description": "H2O - Pulse Drip token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc589905ef2c8892aF8eCeF36b1190cD0141E3199",
+  "type": "ERC20",
+  "symbol": "H2O",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc589905ef2c8892af8ecef36b1190cd0141e3199",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pulsedrip.io/"
+    },
+    {
+      "name": "website",
+      "url": "https://pulse-drip.gitbook.io/pulse-drip"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Pulsechaindrip"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsedripnetwork"
+    }
+  ]
+}

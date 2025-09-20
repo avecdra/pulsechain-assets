@@ -1,0 +1,25 @@
+{
+  "name": "Adamantium",
+  "website": "https://loganonpulse.com/",
+  "description": "Adamantium token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4d5b08978ba46826e4308fa443D6dFc5a1e236A8",
+  "type": "ERC20",
+  "symbol": "ADMT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4d5b08978ba46826e4308fa443d6dfc5a1e236a8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://loganonpulse.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/plswolverine"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "XGAME.IO",
+  "website": "https://xgame.io",
+  "description": "XGAME.IO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4Eb7C1c05087f98Ae617d006F48914eE73fF8D2A",
+  "type": "ERC20",
+  "symbol": "XGAME",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4eb7c1c05087f98ae617d006f48914ee73ff8d2a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://xgame.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/XGame_io"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Solidxpls"
+    }
+  ]
+}

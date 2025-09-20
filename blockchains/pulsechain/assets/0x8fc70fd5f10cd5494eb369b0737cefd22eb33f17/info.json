@@ -1,0 +1,29 @@
+{
+  "name": "PermaGIFF",
+  "website": "https://www.permagiff.win/",
+  "description": "PermaGIFF token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8fC70fd5F10Cd5494EB369b0737CefD22eB33F17",
+  "type": "ERC20",
+  "symbol": "pGIFF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8fc70fd5f10cd5494eb369b0737cefd22eb33f17",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.permagiff.win/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/GIFFORDwear"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GIFFORDwear_win"
+    }
+  ]
+}

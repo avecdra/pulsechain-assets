@@ -1,0 +1,25 @@
+{
+  "name": "BlockNG-Peg BCH Token",
+  "website": "https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/#/?outputCurrency=0xaBB4611Bc40af8aC12C8E98DcA94E7298c0cbe60",
+  "description": "BlockNG-Peg BCH Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xaBB4611Bc40af8aC12C8E98DcA94E7298c0cbe60",
+  "type": "ERC20",
+  "symbol": "bcBCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xabb4611bc40af8ac12c8e98dca94e7298c0cbe60",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/#/?outputCurrency=0xaBB4611Bc40af8aC12C8E98DcA94E7298c0cbe60"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MUSDonpulsechain"
+    }
+  ]
+}

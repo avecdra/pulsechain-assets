@@ -1,0 +1,21 @@
+{
+  "name": "SNEK",
+  "website": "",
+  "description": "SNEK token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0818B0f47F4E4CCa3BEE70d02E4AfFD972b897A8",
+  "type": "ERC20",
+  "symbol": "SNEK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0818b0f47f4e4cca3bee70d02e4affd972b897a8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/TheRealSNEK"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "COTI Token",
+  "website": "",
+  "description": "COTI Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "type": "ERC20",
+  "symbol": "COTI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xddb3422497e61e13543bea06989c0789117555c5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

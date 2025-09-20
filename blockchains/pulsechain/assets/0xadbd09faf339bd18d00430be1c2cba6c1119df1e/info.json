@@ -1,0 +1,29 @@
+{
+  "name": "SIMP",
+  "website": "https://simponpulse.com/",
+  "description": "SIMP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xADBD09Faf339BD18d00430Be1c2cba6c1119df1E",
+  "type": "ERC20",
+  "symbol": "$IMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xadbd09faf339bd18d00430be1c2cba6c1119df1e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://simponpulse.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/SIMPonPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SIMPonPLS"
+    }
+  ]
+}

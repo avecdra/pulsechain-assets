@@ -1,0 +1,16 @@
+{
+  "name": "Khufu-Giza",
+  "website": "",
+  "description": "Khufu-Giza token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x90cacFAbeCd234d91d7C10a0BD1e0F621ae35285",
+  "type": "ERC20",
+  "symbol": "Portal",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x90cacfabecd234d91d7c10a0bd1e0f621ae35285",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

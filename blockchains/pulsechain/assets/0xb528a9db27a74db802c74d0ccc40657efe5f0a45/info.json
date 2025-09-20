@@ -1,0 +1,29 @@
+{
+  "name": "Content Reward Token",
+  "website": "https://savva.app",
+  "description": "Content Reward Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb528a9DB27A74dB802C74D0CCc40657efE5F0A45",
+  "type": "ERC20",
+  "symbol": "SAVVA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb528a9db27a74db802c74d0ccc40657efe5f0a45",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://savva.app"
+    },
+    {
+      "name": "website",
+      "url": "https://savva.app/docs/en/README"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/savvaapp"
+    }
+  ]
+}

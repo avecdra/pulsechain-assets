@@ -1,0 +1,25 @@
+{
+  "name": "crypto dummy token",
+  "website": "https://dummyverse.com",
+  "description": "crypto dummy token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x50E161661f7c80c6bD1F4e72aB4ac5CE713b84d2",
+  "type": "ERC20",
+  "symbol": "CDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x50e161661f7c80c6bd1f4e72ab4ac5ce713b84d2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dummyverse.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/cyrptodummy/status/1865681526329069734"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Butt Wif Dingleberry",
+  "website": "https://buttwifdingleberry.lol",
+  "description": "Butt Wif Dingleberry token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3AeDC6b0AAE54e6dd2537B34b145B52e9dB60A1A",
+  "type": "ERC20",
+  "symbol": "BWD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3aedc6b0aae54e6dd2537b34b145b52e9db60a1a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://buttwifdingleberry.lol"
+    }
+  ]
+}

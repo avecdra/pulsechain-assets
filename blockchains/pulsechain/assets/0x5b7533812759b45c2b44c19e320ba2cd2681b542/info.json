@@ -1,0 +1,16 @@
+{
+  "name": "SingularityNET Token",
+  "website": "",
+  "description": "SingularityNET Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+  "type": "ERC20",
+  "symbol": "AGIX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

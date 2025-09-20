@@ -1,0 +1,16 @@
+{
+  "name": "SHIBA INU from Ethereum",
+  "website": "",
+  "description": "SHIBA INU from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3Ab667c153B8DD2248bb96E7A2e1575197667784",
+  "type": "ERC20",
+  "symbol": "SHIB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3ab667c153b8dd2248bb96e7a2e1575197667784",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

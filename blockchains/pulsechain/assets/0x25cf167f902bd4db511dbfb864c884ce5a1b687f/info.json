@@ -1,0 +1,33 @@
+{
+  "name": "DA GOLDY SNITCH",
+  "website": "https://youtube.com/@spiritomb-alt",
+  "description": "DA GOLDY SNITCH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x25cF167F902bd4db511dbfB864C884ce5A1b687F",
+  "type": "ERC20",
+  "symbol": "DGS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x25cf167f902bd4db511dbfb864c884ce5a1b687f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://youtube.com/@spiritomb-alt"
+    },
+    {
+      "name": "website",
+      "url": "https://www.tiktok.com/@spiritomb8"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/SPIRITOMB180336"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DGSZONE"
+    }
+  ]
+}

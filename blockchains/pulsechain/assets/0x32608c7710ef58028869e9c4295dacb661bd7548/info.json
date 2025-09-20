@@ -1,0 +1,25 @@
+{
+  "name": "Richius Maximus",
+  "website": "",
+  "description": "Richius Maximus token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x32608C7710EF58028869E9C4295DaCB661BD7548",
+  "type": "ERC20",
+  "symbol": "RICHI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x32608c7710ef58028869e9c4295dacb661bd7548",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/richimaxi_pls?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RichiusMaximus"
+    }
+  ]
+}

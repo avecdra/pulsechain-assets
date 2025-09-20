@@ -1,0 +1,15 @@
+{
+  "name": "NeckBeard Coin",
+  "website": "",
+  "description": "NeckBeard Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc9f523fce37a28893a83da68bba03835d97ae059",
+  "type": "ERC20",
+  "symbol": "NBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc9f523fce37a28893a83da68bba03835d97ae059",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

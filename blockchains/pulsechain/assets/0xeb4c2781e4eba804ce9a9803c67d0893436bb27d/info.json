@@ -1,0 +1,16 @@
+{
+  "name": "renBTC",
+  "website": "",
+  "description": "renBTC token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+  "type": "ERC20",
+  "symbol": "renBTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

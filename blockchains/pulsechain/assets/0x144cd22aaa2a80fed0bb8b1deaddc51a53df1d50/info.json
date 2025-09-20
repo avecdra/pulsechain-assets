@@ -1,0 +1,29 @@
+{
+  "name": "INC Dollar",
+  "website": "https://incprinter.com",
+  "description": "INC Dollar token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50",
+  "type": "ERC20",
+  "symbol": "INCD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x144cd22aaa2a80fed0bb8b1deaddc51a53df1d50",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://incprinter.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/FastAbdoul"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/INCPrinterChat"
+    }
+  ]
+}

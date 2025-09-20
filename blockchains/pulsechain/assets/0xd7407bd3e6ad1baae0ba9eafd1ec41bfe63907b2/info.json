@@ -1,0 +1,16 @@
+{
+  "name": "BEAN",
+  "website": "",
+  "description": "BEAN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2",
+  "type": "ERC20",
+  "symbol": "BEAN by Barista",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd7407bd3e6ad1baae0ba9eafd1ec41bfe63907b2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

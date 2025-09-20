@@ -1,0 +1,16 @@
+{
+  "name": "Tether Gold from Ethereum",
+  "website": "",
+  "description": "Tether Gold from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD31d5463991f61B6e53b9b5ca574fA731F94991e",
+  "type": "ERC20",
+  "symbol": "XAUt",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd31d5463991f61b6e53b9b5ca574fa731f94991e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

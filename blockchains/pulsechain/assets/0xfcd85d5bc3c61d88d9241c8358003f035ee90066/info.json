@@ -1,0 +1,21 @@
+{
+  "name": "Pulse DAI",
+  "website": "",
+  "description": "Pulse DAI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFCd85d5BC3c61D88d9241C8358003f035eE90066",
+  "type": "ERC20",
+  "symbol": "☲",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfcd85d5bc3c61d88d9241c8358003f035ee90066",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

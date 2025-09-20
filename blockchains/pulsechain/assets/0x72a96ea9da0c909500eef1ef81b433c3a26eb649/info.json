@@ -1,0 +1,16 @@
+{
+  "name": "sciVive",
+  "website": "",
+  "description": "sciVive token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x72a96Ea9DA0C909500eEF1Ef81B433C3A26EB649",
+  "type": "ERC20",
+  "symbol": "sciViVe",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x72a96ea9da0c909500eef1ef81b433c3a26eb649",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,33 @@
+{
+  "name": "NINTINDEL",
+  "website": "https://nintindel-site.vercel.app/",
+  "description": "NINTINDEL token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd4744e6764507425E501824583Bec8e855B6dF57",
+  "type": "ERC20",
+  "symbol": "TIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd4744e6764507425e501824583bec8e855b6df57",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://nintindel-site.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://nexionpulse.com/FluxFactory"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Tindel10"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/NINTINDEL"
+    }
+  ]
+}

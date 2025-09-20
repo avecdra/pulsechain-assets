@@ -1,0 +1,29 @@
+{
+  "name": "Ditto",
+  "website": "http://pulseditto.com/",
+  "description": "Ditto token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc438437218009EDD656d319689c902aE56b4b96F",
+  "type": "ERC20",
+  "symbol": "DTO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc438437218009edd656d319689c902ae56b4b96f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://pulseditto.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/DittoonPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DittoPLS"
+    }
+  ]
+}

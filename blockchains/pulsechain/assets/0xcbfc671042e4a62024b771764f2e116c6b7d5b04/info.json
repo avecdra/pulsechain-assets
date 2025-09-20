@@ -1,0 +1,16 @@
+{
+  "name": "KetaMon",
+  "website": "",
+  "description": "KetaMon token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCBFC671042E4a62024B771764f2E116C6b7d5B04",
+  "type": "ERC20",
+  "symbol": "KET",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcbfc671042e4a62024b771764f2e116c6b7d5b04",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

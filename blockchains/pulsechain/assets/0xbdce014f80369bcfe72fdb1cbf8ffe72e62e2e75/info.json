@@ -1,0 +1,16 @@
+{
+  "name": "Sheba-Frankincense Ω",
+  "website": "",
+  "description": "Sheba-Frankincense Ω token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBDCE014F80369BcfE72fDb1cBF8ffE72E62E2e75",
+  "type": "ERC20",
+  "symbol": "Tears",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbdce014f80369bcfe72fdb1cbf8ffe72e62e2e75",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

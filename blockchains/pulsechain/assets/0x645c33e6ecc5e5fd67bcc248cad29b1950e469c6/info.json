@@ -1,0 +1,29 @@
+{
+  "name": "BOBO",
+  "website": "https://pulsebobo.com",
+  "description": "BOBO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x645c33E6ecC5e5FD67Bcc248cAd29B1950E469C6",
+  "type": "ERC20",
+  "symbol": "BOBO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x645c33e6ecc5e5fd67bcc248cad29b1950e469c6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsebobo.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/bobocoinpulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsechainbobo"
+    }
+  ]
+}

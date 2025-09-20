@@ -1,0 +1,29 @@
+{
+  "name": "hoge.finance",
+  "website": "https://hoge.gg",
+  "description": "hoge.finance token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
+  "type": "ERC20",
+  "symbol": "HOGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hoge.gg"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/HogeFinance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/officialhogecommunity"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "ICBM",
+  "website": "https://nukethesupply.com/",
+  "description": "ICBM token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA04513C4dB80f73C8AC03aD0cDBeF3B087D57953",
+  "type": "ERC20",
+  "symbol": "ICBM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa04513c4db80f73c8ac03ad0cdbef3b087d57953",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://nukethesupply.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/NukeTheSupply"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/nukethesupply"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Cryptotree",
+  "website": "https://cryptotree.fund/",
+  "description": "Cryptotree token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6bCC0113E65BEe50C31020d684FCabba64AB8514",
+  "type": "ERC20",
+  "symbol": "CTT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6bcc0113e65bee50c31020d684fcabba64ab8514",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://cryptotree.fund/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/krilaellalv"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/cryptotree_official"
+    }
+  ]
+}

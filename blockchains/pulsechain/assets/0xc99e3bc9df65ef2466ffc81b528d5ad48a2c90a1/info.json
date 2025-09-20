@@ -1,0 +1,16 @@
+{
+  "name": "Slowpoke ヤドン",
+  "website": "",
+  "description": "Slowpoke ヤドン token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc99e3bc9Df65Ef2466fFC81B528d5aD48a2C90a1",
+  "type": "ERC20",
+  "symbol": "SLOW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc99e3bc9df65ef2466ffc81b528d5ad48a2c90a1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

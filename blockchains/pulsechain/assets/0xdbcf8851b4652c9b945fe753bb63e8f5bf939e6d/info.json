@@ -1,0 +1,29 @@
+{
+  "name": "JeDAI",
+  "website": "https://pulselorian.com/jedai",
+  "description": "JeDAI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDbcf8851b4652C9b945Fe753Bb63E8F5bF939E6d",
+  "type": "ERC20",
+  "symbol": "JeDAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdbcf8851b4652c9b945fe753bb63e8f5bf939e6d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/jedai"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ThePulseLorian"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ThePulselorian"
+    }
+  ]
+}

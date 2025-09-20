@@ -1,0 +1,21 @@
+{
+  "name": "The 5555 Club",
+  "website": "",
+  "description": "The 5555 Club token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD4259602922212Afa5f8fbC404fE4664F69f19fC",
+  "type": "ERC20",
+  "symbol": "5555",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd4259602922212afa5f8fbc404fe4664f69f19fc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Humpback_Holder?t=lHKoEUscFZlKY87Shz49MA\u0026s=09"
+    }
+  ]
+}

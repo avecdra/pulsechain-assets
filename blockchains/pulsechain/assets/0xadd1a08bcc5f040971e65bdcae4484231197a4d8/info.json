@@ -1,0 +1,25 @@
+{
+  "name": "MCKyle",
+  "website": "",
+  "description": "MCKyle token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xadD1a08BCC5f040971e65BDCAE4484231197A4D8",
+  "type": "ERC20",
+  "symbol": "MCK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xadd1a08bcc5f040971e65bdcae4484231197a4d8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/MCSOUTHPARK"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MCSouthPark"
+    }
+  ]
+}

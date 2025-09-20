@@ -1,0 +1,15 @@
+{
+  "name": "HowToPulse",
+  "website": "",
+  "description": "HowToPulse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7c7ba94b60270bc2c7d98d3498b5ce85b870a749",
+  "type": "ERC20",
+  "symbol": "HTP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7c7ba94b60270bc2c7d98d3498b5ce85b870a749",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

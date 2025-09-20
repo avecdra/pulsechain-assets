@@ -1,0 +1,21 @@
+{
+  "name": "Milady",
+  "website": "",
+  "description": "Milady token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD100ecF770dC06D407787c3a991086a6E876Cc17",
+  "type": "ERC20",
+  "symbol": "MILADY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd100ecf770dc06d407787c3a991086a6e876cc17",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/milady_pulsechain"
+    }
+  ]
+}

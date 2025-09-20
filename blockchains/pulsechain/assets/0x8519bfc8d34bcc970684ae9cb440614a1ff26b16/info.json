@@ -1,0 +1,25 @@
+{
+  "name": "Blue Shrek",
+  "website": "",
+  "description": "Blue Shrek token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8519Bfc8D34BcC970684aE9Cb440614a1ff26B16",
+  "type": "ERC20",
+  "symbol": "DREK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8519bfc8d34bcc970684ae9cb440614a1ff26b16",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Drek_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Drekpulsechain"
+    }
+  ]
+}

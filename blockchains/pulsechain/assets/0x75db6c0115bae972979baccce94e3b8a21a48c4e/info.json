@@ -1,0 +1,15 @@
+{
+  "name": "PoorPleb from Ethereum",
+  "website": "",
+  "description": "PoorPleb from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x75db6c0115bae972979baccce94e3b8a21a48c4e",
+  "type": "ERC20",
+  "symbol": "PP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x75db6c0115bae972979baccce94e3b8a21a48c4e",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "yourfriendSOYMMI",
+  "website": "",
+  "description": "yourfriendSOYMMI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1403C9BbaEF967d54a0106B305C59380414E1c5f",
+  "type": "ERC20",
+  "symbol": "SOYMMI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1403c9bbaef967d54a0106b305c59380414e1c5f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

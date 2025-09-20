@@ -1,0 +1,41 @@
+{
+  "name": "Jamaican Fruit Bat",
+  "website": "https://hexoacoin.com/",
+  "description": "Jamaican Fruit Bat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6e6B06f61E0539e0ee24a85A9bF82027e76dFEcE",
+  "type": "ERC20",
+  "symbol": "iambfruits",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6e6b06f61e0539e0ee24a85a9bf82027e76dfece",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hexoacoin.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://dickwifbutt.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://youtu.be/3po2ER3jxnI?si=U6jb2DSp1_azIHAe"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/bjSCYXdG"
+    }
+  ]
+}

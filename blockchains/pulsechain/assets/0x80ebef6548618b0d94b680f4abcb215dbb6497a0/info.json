@@ -1,0 +1,21 @@
+{
+  "name": "Dick Ass Inu",
+  "website": "",
+  "description": "Dick Ass Inu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x80ebEF6548618B0d94B680F4ABcB215DBB6497A0",
+  "type": "ERC20",
+  "symbol": "DAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x80ebef6548618b0d94b680f4abcb215dbb6497a0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/dickassinu"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Vader",
+  "website": "https://pulselorian.com/vader",
+  "description": "Vader token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc716399F8c1C8DAaCB71c4494530751eAa4Fe579",
+  "type": "ERC20",
+  "symbol": "VADER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc716399f8c1c8daacb71c4494530751eaa4fe579",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/vader"
+    },
+    {
+      "name": "website",
+      "url": "https://linktr.ee/pulselorian"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ThePulseLorian"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ThePulselorian"
+    }
+  ]
+}

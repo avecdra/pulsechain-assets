@@ -1,0 +1,29 @@
+{
+  "name": "zero",
+  "website": "https://youtube.com/@zero_fun_pulsechain?si=xlm1PQIHhmkq5658",
+  "description": "zero token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x81691D63115D7e488F29d55ABc3F9255c9e4193e",
+  "type": "ERC20",
+  "symbol": "ZRO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x81691d63115d7e488f29d55abc3f9255c9e4193e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://youtube.com/@zero_fun_pulsechain?si=xlm1PQIHhmkq5658"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/zero_pulsechain?s=21\u0026t=iz5Z5EVhQt2Kn3M6bpk8pw"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Zero_to_Midnight"
+    }
+  ]
+}

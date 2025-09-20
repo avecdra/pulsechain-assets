@@ -1,0 +1,15 @@
+{
+  "name": "Cold Beer 404",
+  "website": "",
+  "description": "Cold Beer 404 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0760f66ed7139aaa70dc21c8f9e75167e295d4ab",
+  "type": "ERC20",
+  "symbol": "BEER404",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0760f66ed7139aaa70dc21c8f9e75167e295d4ab",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

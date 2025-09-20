@@ -1,0 +1,33 @@
+{
+  "name": "CHOMP",
+  "website": "https://pulsechainshark.com/",
+  "description": "CHOMP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7a38DfA4249B5e80cf49602E50947A47bc5edC29",
+  "type": "ERC20",
+  "symbol": "CHOMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7a38dfa4249b5e80cf49602e50947a47bc5edc29",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsechainshark.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://libertyswap.finance/chomp"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsechain.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/hilartech61987"
+    }
+  ]
+}

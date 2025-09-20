@@ -1,0 +1,16 @@
+{
+  "name": "The Extractor",
+  "website": "",
+  "description": "The Extractor token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd21d5Dd79F7fDD54b24bA8e1ec74aAE4Cc597650",
+  "type": "ERC20",
+  "symbol": "Extractor",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd21d5dd79f7fdd54b24ba8e1ec74aae4cc597650",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

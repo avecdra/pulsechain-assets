@@ -1,0 +1,33 @@
+{
+  "name": "Richard's Top Hat 🎩",
+  "website": "https://richardstophat.com/",
+  "description": "Richard's Top Hat 🎩 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x386c36961149Ff797FA71F8C830D130bBE69F1B6",
+  "type": "ERC20",
+  "symbol": "RTH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x386c36961149ff797fa71f8c830d130bbe69f1b6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://richardstophat.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://hexsearch.io/r/b3kO_vkx0m/top-hat"
+    },
+    {
+      "name": "website",
+      "url": "https://hexsearch.io/r/Kzab_Xv2O/top-hat"
+    },
+    {
+      "name": "website",
+      "url": "https://hexsearch.io/r/Kzab_OozB/top-hat"
+    }
+  ]
+}

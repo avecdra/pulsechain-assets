@@ -1,0 +1,21 @@
+{
+  "name": "OpportunityOfFinance",
+  "website": "",
+  "description": "OpportunityOfFinance token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9B334c49821d36D435e684e7CB9b564b328126e5",
+  "type": "ERC20",
+  "symbol": "OOF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9b334c49821d36d435e684e7cb9b564b328126e5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/OppOfFinance"
+    }
+  ]
+}

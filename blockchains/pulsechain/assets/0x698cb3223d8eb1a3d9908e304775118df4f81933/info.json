@@ -1,0 +1,29 @@
+{
+  "name": "Peezy",
+  "website": "https://peezypls.vip",
+  "description": "Peezy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x698Cb3223D8eB1A3D9908e304775118DF4F81933",
+  "type": "ERC20",
+  "symbol": "PEEZY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x698cb3223d8eb1a3d9908e304775118df4f81933",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://peezypls.vip"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/peezycoinpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/peezycoinpls"
+    }
+  ]
+}

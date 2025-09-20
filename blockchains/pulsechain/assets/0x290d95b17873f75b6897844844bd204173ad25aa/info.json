@@ -1,0 +1,29 @@
+{
+  "name": "Vox",
+  "website": "https://vox.finance",
+  "description": "Vox token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x290D95b17873F75B6897844844BD204173ad25AA",
+  "type": "ERC20",
+  "symbol": "VOX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x290d95b17873f75b6897844844bd204173ad25aa",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://vox.finance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/VOX_DeFi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/VOX_DeFi"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped SOL from Ethereum",
+  "website": "",
+  "description": "Wrapped SOL from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1c3C50bd18E3f0C7c23666b8e8a843238A359386",
+  "type": "ERC20",
+  "symbol": "SOL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1c3c50bd18e3f0c7c23666b8e8a843238a359386",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

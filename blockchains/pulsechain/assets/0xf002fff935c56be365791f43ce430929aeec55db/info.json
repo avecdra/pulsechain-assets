@@ -1,0 +1,33 @@
+{
+  "name": "Fart",
+  "website": "https://flopcoin.win/fart",
+  "description": "Fart token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF002Fff935c56bE365791f43Ce430929AeeC55db",
+  "type": "ERC20",
+  "symbol": "FART",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf002fff935c56be365791f43ce430929aeec55db",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://flopcoin.win/fart"
+    },
+    {
+      "name": "website",
+      "url": "http://spacefartgame.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/flop9inch"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Flopcoin"
+    }
+  ]
+}

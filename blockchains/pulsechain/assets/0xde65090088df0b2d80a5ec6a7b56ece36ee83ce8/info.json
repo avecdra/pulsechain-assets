@@ -1,0 +1,16 @@
+{
+  "name": "POPPY",
+  "website": "",
+  "description": "POPPY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdE65090088Df0b2d80A5eC6A7B56ECE36ee83ce8",
+  "type": "ERC20",
+  "symbol": "POPPY ㉾",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde65090088df0b2d80a5ec6a7b56ece36ee83ce8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

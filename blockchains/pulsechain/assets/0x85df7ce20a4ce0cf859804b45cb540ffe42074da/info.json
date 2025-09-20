@@ -1,0 +1,37 @@
+{
+  "name": "Actuator",
+  "website": "https://actuator.finance",
+  "description": "Actuator token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x85DF7cE20A4CE0cF859804b45cB540FFE42074Da",
+  "type": "ERC20",
+  "symbol": "ACTR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x85df7ce20a4ce0cf859804b45cb540ffe42074da",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://actuator.finance"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.actuator.finance"
+    },
+    {
+      "name": "website",
+      "url": "https://app.actuator.finance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/actuatorfinance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/actuatorfinance"
+    }
+  ]
+}

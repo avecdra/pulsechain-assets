@@ -1,0 +1,33 @@
+{
+  "name": "AxisAlive",
+  "website": "https://axisalive.app",
+  "description": "AxisAlive token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB0eBAf9378d6E7531ba09403A12636947CC2f84b",
+  "type": "ERC20",
+  "symbol": "ALIVE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb0ebaf9378d6e7531ba09403a12636947cc2f84b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://axisalive.app"
+    },
+    {
+      "name": "website",
+      "url": "https://www.axisalive.com/post/the-axis-alive-fusion-on-pulsechain"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/axisalive"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/axisaliveapp"
+    }
+  ]
+}

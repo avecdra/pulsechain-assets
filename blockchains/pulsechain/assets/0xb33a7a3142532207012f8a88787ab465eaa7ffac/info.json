@@ -1,0 +1,37 @@
+{
+  "name": "ICE KING",
+  "website": "https://www.stdpros.com/",
+  "description": "ICE KING token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb33a7a3142532207012F8A88787aB465eAa7FfAc",
+  "type": "ERC20",
+  "symbol": "ICE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb33a7a3142532207012f8a88787ab465eaa7ffac",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.stdpros.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@patriotsway7208"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/watch?v=cILmS33quL4"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/way_patriots"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SoftTastyDonut"
+    }
+  ]
+}

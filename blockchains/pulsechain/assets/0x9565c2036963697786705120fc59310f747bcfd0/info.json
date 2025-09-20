@@ -1,0 +1,16 @@
+{
+  "name": "PoorPleb",
+  "website": "",
+  "description": "PoorPleb token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9565c2036963697786705120Fc59310F747bCfD0",
+  "type": "ERC20",
+  "symbol": "PP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9565c2036963697786705120fc59310f747bcfd0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

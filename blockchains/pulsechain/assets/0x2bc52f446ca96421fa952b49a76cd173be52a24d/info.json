@@ -1,0 +1,29 @@
+{
+  "name": "Vox Burn",
+  "website": "https://vox.finance",
+  "description": "Vox Burn token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2BC52F446Ca96421FA952b49A76Cd173BE52A24D",
+  "type": "ERC20",
+  "symbol": "VBURN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2bc52f446ca96421fa952b49a76cd173be52a24d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://vox.finance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/VOX_DeFi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/VOX_DeFi"
+    }
+  ]
+}

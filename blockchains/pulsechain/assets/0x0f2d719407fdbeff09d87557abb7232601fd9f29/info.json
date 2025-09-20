@@ -1,0 +1,16 @@
+{
+  "name": "Synapse",
+  "website": "",
+  "description": "Synapse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+  "type": "ERC20",
+  "symbol": "SYN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

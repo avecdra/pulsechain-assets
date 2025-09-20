@@ -1,0 +1,15 @@
+{
+  "name": "RH404",
+  "website": "",
+  "description": "RH404 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x749ccf4c4308490f3c395de897f58e091090b461",
+  "type": "ERC20",
+  "symbol": "RH404",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x749ccf4c4308490f3c395de897f58e091090b461",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

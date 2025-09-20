@@ -1,0 +1,16 @@
+{
+  "name": "Cult DAO",
+  "website": "",
+  "description": "Cult DAO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xf0f9D895aCa5c8678f706FB8216fa22957685A13",
+  "type": "ERC20",
+  "symbol": "CULT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

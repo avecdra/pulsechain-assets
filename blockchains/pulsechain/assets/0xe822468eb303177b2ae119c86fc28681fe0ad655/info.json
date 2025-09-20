@@ -1,0 +1,21 @@
+{
+  "name": "Madonna \u0026 Orbit",
+  "website": "",
+  "description": "Madonna \u0026 Orbit token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE822468eB303177B2AE119C86Fc28681FE0aD655",
+  "type": "ERC20",
+  "symbol": "☼",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe822468eb303177b2ae119c86fc28681fe0ad655",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/GagaFanBase"
+    }
+  ]
+}

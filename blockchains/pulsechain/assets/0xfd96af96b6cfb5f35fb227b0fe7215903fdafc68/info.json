@@ -1,0 +1,25 @@
+{
+  "name": "Teddy Claire",
+  "website": "https://pump.tires/token/0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68",
+  "description": "Teddy Claire token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68",
+  "type": "ERC20",
+  "symbol": "Teddy Claire",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfd96af96b6cfb5f35fb227b0fe7215903fdafc68",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xFd96af96B6cFb5F35Fb227b0fE7215903FdAFC68"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/TeddyClaire_"
+    }
+  ]
+}

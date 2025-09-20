@@ -1,0 +1,29 @@
+{
+  "name": "Rentomania Token",
+  "website": "https://rentomania.online",
+  "description": "Rentomania Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8dcf280e9D3f8B988Bba0000428a02C860E50bFf",
+  "type": "ERC20",
+  "symbol": "MANIA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8dcf280e9d3f8b988bba0000428a02c860e50bff",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://rentomania.online"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RentomaniaGame"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RentomaniaChat"
+    }
+  ]
+}

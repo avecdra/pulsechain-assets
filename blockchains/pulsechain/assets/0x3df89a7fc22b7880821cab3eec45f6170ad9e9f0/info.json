@@ -1,0 +1,21 @@
+{
+  "name": "Slutquake",
+  "website": "",
+  "description": "Slutquake token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3dF89a7FC22b7880821cAb3Eec45F6170AD9E9f0",
+  "type": "ERC20",
+  "symbol": "SLTQK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3df89a7fc22b7880821cab3eec45f6170ad9e9f0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/club369DAMP"
+    }
+  ]
+}

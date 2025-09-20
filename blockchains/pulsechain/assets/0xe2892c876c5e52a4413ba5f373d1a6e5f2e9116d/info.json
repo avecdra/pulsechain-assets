@@ -1,0 +1,15 @@
+{
+  "name": "The Reptilian Currency",
+  "website": "",
+  "description": "The Reptilian Currency token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe2892c876c5e52a4413ba5f373d1a6e5f2e9116d",
+  "type": "ERC20",
+  "symbol": "TRC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe2892c876c5e52a4413ba5f373d1a6e5f2e9116d",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

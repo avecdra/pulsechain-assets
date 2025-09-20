@@ -1,0 +1,16 @@
+{
+  "name": "HEX Time Token 3000",
+  "website": "",
+  "description": "HEX Time Token 3000 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE9E1340A2b31d5D2a2dB28FB854a794E106b430a",
+  "type": "ERC20",
+  "symbol": "HTT-3000",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe9e1340a2b31d5d2a2db28fb854a794e106b430a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

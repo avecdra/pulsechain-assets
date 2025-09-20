@@ -1,0 +1,15 @@
+{
+  "name": "PenPineappleApplePen",
+  "website": "",
+  "description": "PenPineappleApplePen token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8b659ddc0289ed8e5e463254b34ffc7ca3df1dec",
+  "type": "ERC20",
+  "symbol": "PPAP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8b659ddc0289ed8e5e463254b34ffc7ca3df1dec",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

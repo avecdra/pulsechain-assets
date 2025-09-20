@@ -1,0 +1,25 @@
+{
+  "name": "Kishka",
+  "website": "",
+  "description": "Kishka token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdf2eb4E30d8ca5D76C2eA9f7E246CE0a415F1db9",
+  "type": "ERC20",
+  "symbol": "KISHKA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdf2eb4e30d8ca5d76c2ea9f7e246ce0a415f1db9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1632197087105372163"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kishkaCTO"
+    }
+  ]
+}

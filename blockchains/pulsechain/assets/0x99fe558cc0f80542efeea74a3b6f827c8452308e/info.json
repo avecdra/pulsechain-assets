@@ -1,0 +1,25 @@
+{
+  "name": "LOLA HEART",
+  "website": "",
+  "description": "LOLA HEART token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x99FE558cC0f80542EFeEa74a3B6f827c8452308E",
+  "type": "ERC20",
+  "symbol": "LOLA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x99fe558cc0f80542efeea74a3b6f827c8452308e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/LOLAHEARTWIN"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/indikin/2582"
+    }
+  ]
+}

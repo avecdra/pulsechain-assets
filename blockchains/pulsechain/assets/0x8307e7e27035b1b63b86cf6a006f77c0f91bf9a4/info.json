@@ -1,0 +1,15 @@
+{
+  "name": "NightDoge",
+  "website": "",
+  "description": "NightDoge token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8307e7e27035b1b63b86cf6a006f77c0f91bf9a4",
+  "type": "ERC20",
+  "symbol": "NYTDOGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8307e7e27035b1b63b86cf6a006f77c0f91bf9a4",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

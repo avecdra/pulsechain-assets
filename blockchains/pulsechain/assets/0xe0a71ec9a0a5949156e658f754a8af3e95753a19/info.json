@@ -1,0 +1,25 @@
+{
+  "name": "Poké Ball モンスターボール",
+  "website": "",
+  "description": "Poké Ball モンスターボール token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe0A71ec9A0A5949156E658f754a8af3e95753a19",
+  "type": "ERC20",
+  "symbol": "PokéBall",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe0a71ec9a0a5949156e658f754a8af3e95753a19",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/pokeballpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pokeballpls"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Nacho Keys",
+  "website": "https://nachokeys.io",
+  "description": "Nacho Keys token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8B5C1c2cB52dfb471c3ed758f6e863364636bd75",
+  "type": "ERC20",
+  "symbol": "NACHO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8b5c1c2cb52dfb471c3ed758f6e863364636bd75",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://nachokeys.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/nachokeystoken"
+    }
+  ]
+}

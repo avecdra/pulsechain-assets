@@ -1,0 +1,21 @@
+{
+  "name": "Surgicaltrainers.com",
+  "website": "https://surgicaltrainers.com/",
+  "description": "Surgicaltrainers.com token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x62bd78d40A9FCb4D29F6fF183CFbcaf2f5ca9B52",
+  "type": "ERC20",
+  "symbol": "STM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x62bd78d40a9fcb4d29f6ff183cfbcaf2f5ca9b52",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://surgicaltrainers.com/"
+    }
+  ]
+}

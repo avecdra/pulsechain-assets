@@ -1,0 +1,16 @@
+{
+  "name": "OG.Incentive",
+  "website": "",
+  "description": "OG.Incentive token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF84b84dAAce6Ac00DbBAed26CA32Ff3570Aaf66C",
+  "type": "ERC20",
+  "symbol": "OG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf84b84daace6ac00dbbaed26ca32ff3570aaf66c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

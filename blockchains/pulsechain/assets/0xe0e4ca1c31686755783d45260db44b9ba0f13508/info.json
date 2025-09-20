@@ -1,0 +1,29 @@
+{
+  "name": "Teddy Jr",
+  "website": "http://teddybjr.io",
+  "description": "Teddy Jr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE0E4ca1c31686755783D45260db44B9Ba0f13508",
+  "type": "ERC20",
+  "symbol": "TJ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe0e4ca1c31686755783d45260db44b9ba0f13508",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://teddybjr.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/TeddyJrPRC20?s=01"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TJpulse"
+    }
+  ]
+}

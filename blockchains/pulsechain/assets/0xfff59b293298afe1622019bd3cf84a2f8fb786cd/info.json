@@ -1,0 +1,21 @@
+{
+  "name": "FATHER T.I.M.E.",
+  "website": "https://dexscreener.com/pulsechain/0xbe15d6B33EFF897C4E3cD3e867F3e5AA8675EEFe",
+  "description": "FATHER T.I.M.E. token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFFf59b293298Afe1622019bd3CF84A2F8fB786cd",
+  "type": "ERC20",
+  "symbol": "ƒ⏳",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfff59b293298afe1622019bd3cf84a2f8fb786cd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dexscreener.com/pulsechain/0xbe15d6B33EFF897C4E3cD3e867F3e5AA8675EEFe"
+    }
+  ]
+}

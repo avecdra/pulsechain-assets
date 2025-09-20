@@ -1,0 +1,16 @@
+{
+  "name": "Black-Hole",
+  "website": "",
+  "description": "Black-Hole token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDC6D73BC3fF1046844386FE0301A8C6355c3E7d3",
+  "type": "ERC20",
+  "symbol": "Zero",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdc6d73bc3ff1046844386fe0301a8c6355c3e7d3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

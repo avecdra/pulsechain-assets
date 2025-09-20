@@ -1,0 +1,29 @@
+{
+  "name": "Alien Eddie Records via Maximus Pool Party",
+  "website": "https://alieneddierecords.com",
+  "description": "Alien Eddie Records via Maximus Pool Party token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x92337f43FB462163869342E72538744E030EAF55",
+  "type": "ERC20",
+  "symbol": "AER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x92337f43fb462163869342e72538744e030eaf55",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://alieneddierecords.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/AertistOfficial"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/aertistcrypto"
+    }
+  ]
+}

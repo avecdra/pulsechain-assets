@@ -1,0 +1,21 @@
+{
+  "name": "PainChain",
+  "website": "https://pump.tires/token/0xe5e041DE1F03D3F1916d65e61c52e212e935a589",
+  "description": "PainChain token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe5e041DE1F03D3F1916d65e61c52e212e935a589",
+  "type": "ERC20",
+  "symbol": "PAIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe5e041de1f03d3f1916d65e61c52e212e935a589",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xe5e041DE1F03D3F1916d65e61c52e212e935a589"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Joachim-Silver",
+  "website": "",
+  "description": "Joachim-Silver token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFb7B367b80F80421d9d023D01cE9FB846A2aDa88",
+  "type": "ERC20",
+  "symbol": "Thaler",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfb7b367b80f80421d9d023d01ce9fb846a2ada88",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

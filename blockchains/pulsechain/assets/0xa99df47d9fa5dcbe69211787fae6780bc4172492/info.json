@@ -1,0 +1,25 @@
+{
+  "name": "Pulse Golden Ticket",
+  "website": "https://www.pulsegoldenticket.com/",
+  "description": "Pulse Golden Ticket token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA99DF47d9fA5dCbe69211787faE6780bC4172492",
+  "type": "ERC20",
+  "symbol": "GT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa99df47d9fa5dcbe69211787fae6780bc4172492",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pulsegoldenticket.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PLSGoldenTicket"
+    }
+  ]
+}

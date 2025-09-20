@@ -1,0 +1,29 @@
+{
+  "name": "Srey0x",
+  "website": "https://sreyox-pulse-forge.lovable.app",
+  "description": "Srey0x token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb6603C59D6fc79A3AEb61B7e4f89230378079CCb",
+  "type": "ERC20",
+  "symbol": "Srey0x",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb6603c59d6fc79a3aeb61b7e4f89230378079ccb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://sreyox-pulse-forge.lovable.app"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Srey0x8888"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DeFiConvergence"
+    }
+  ]
+}

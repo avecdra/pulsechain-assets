@@ -1,0 +1,21 @@
+{
+  "name": "eric wall",
+  "website": "https://pump.tires/token/0x46A7Ee9d6b921B823709cd1a2Bee7bD957B0d666",
+  "description": "eric wall token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x46A7Ee9d6b921B823709cd1a2Bee7bD957B0d666",
+  "type": "ERC20",
+  "symbol": "ercwl",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x46a7ee9d6b921b823709cd1a2bee7bd957b0d666",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0x46A7Ee9d6b921B823709cd1a2Bee7bD957B0d666"
+    }
+  ]
+}

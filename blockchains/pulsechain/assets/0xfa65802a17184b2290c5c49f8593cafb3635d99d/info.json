@@ -1,0 +1,33 @@
+{
+  "name": "NO DIDDY",
+  "website": "https://www.youtube.com/watch?v=IoOSFLy-kno\u0026t=44m",
+  "description": "NO DIDDY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfA65802A17184B2290C5C49F8593cAFb3635D99D",
+  "type": "ERC20",
+  "symbol": "ND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfa65802a17184b2290c5c49f8593cafb3635d99d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/watch?v=IoOSFLy-kno\u0026t=44m"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/watch?v=eCSOgQDUI_c\u0026t=60m01s"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/NoDiddy_PLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+toGyRYIriScyNTMx"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "HEX CAT",
+  "website": "https://gainzonpulse.com/",
+  "description": "HEX CAT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9e20fe953193725ACf489c356Dc1bf1Ab089791b",
+  "type": "ERC20",
+  "symbol": "MEOW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9e20fe953193725acf489c356dc1bf1ab089791b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gainzonpulse.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/gainzonpulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/gainzonpulse"
+    }
+  ]
+}

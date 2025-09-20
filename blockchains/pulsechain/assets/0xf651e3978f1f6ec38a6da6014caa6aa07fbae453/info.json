@@ -1,0 +1,33 @@
+{
+  "name": "PulseNet",
+  "website": "https://pulsenet.xyz",
+  "description": "PulseNet token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF651E3978f1F6ec38a6da6014caA6AA07fBae453",
+  "type": "ERC20",
+  "symbol": "PLSN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf651e3978f1f6ec38a6da6014caa6aa07fbae453",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsenet.xyz"
+    },
+    {
+      "name": "website",
+      "url": "https://plsnet369.pls.fyi/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pulsenet369?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsenet369"
+    }
+  ]
+}

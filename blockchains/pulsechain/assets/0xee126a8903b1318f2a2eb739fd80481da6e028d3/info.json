@@ -1,0 +1,33 @@
+{
+  "name": "PulseLand",
+  "website": "https://pulseland.io",
+  "description": "PulseLand token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEE126a8903b1318f2a2Eb739Fd80481da6E028D3",
+  "type": "ERC20",
+  "symbol": "PLAND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xee126a8903b1318f2a2eb739fd80481da6e028d3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulseland.io"
+    },
+    {
+      "name": "website",
+      "url": "https://medium.com/@PulseLandGame/pulseland-pulsechains-first-community-driven-metaverse-defc5b5e8eb3"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pulseland/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulselandgame"
+    }
+  ]
+}

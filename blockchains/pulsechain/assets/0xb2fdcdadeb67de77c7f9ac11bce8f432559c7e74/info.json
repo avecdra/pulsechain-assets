@@ -1,0 +1,25 @@
+{
+  "name": "PATRIOT",
+  "website": "",
+  "description": "PATRIOT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB2FDCDaDEb67de77c7f9AC11bcE8f432559C7E74",
+  "type": "ERC20",
+  "symbol": "PATRIOT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb2fdcdadeb67de77c7f9ac11bce8f432559c7e74",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/patriotonpulse?t=CDCDzWa40X-z0lYvWJq0aA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pDaiPayday"
+    }
+  ]
+}

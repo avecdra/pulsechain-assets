@@ -1,0 +1,29 @@
+{
+  "name": "Hallauween",
+  "website": "https://a1a.eco/",
+  "description": "Hallauween token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7164033eC242d3D868Fe3B2f7b00a85c229B28C8",
+  "type": "ERC20",
+  "symbol": "🎃",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7164033ec242d3d868fe3b2f7b00a85c229b28c8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://a1a.eco/"
+    },
+    {
+      "name": "website",
+      "url": "https://liquidity-pools.vercel.app/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Hallauween"
+    }
+  ]
+}

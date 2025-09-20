@@ -1,0 +1,29 @@
+{
+  "name": "Cabbage Cat",
+  "website": "https://cabcat.lovable.app/",
+  "description": "Cabbage Cat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEe3407b9fE937218288fdAB8Df18f7eA4Bd81Bac",
+  "type": "ERC20",
+  "symbol": "CABCAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xee3407b9fe937218288fdab8df18f7ea4bd81bac",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://cabcat.lovable.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/CabbageCatPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CabbageCatPLS"
+    }
+  ]
+}

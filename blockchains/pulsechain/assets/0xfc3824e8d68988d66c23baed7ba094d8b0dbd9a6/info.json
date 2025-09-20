@@ -1,0 +1,16 @@
+{
+  "name": "MAGIX",
+  "website": "",
+  "description": "MAGIX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFC3824E8d68988D66c23baeD7bA094D8B0DBd9a6",
+  "type": "ERC20",
+  "symbol": "MAGIX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfc3824e8d68988d66c23baed7ba094d8b0dbd9a6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

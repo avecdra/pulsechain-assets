@@ -1,0 +1,29 @@
+{
+  "name": "Maverick",
+  "website": "https://xprotocolpulsechain.com/",
+  "description": "Maverick token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x31cAfdf1207F1cD874fde65D7eb9eA7c0919a503",
+  "type": "ERC20",
+  "symbol": "MAV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x31cafdf1207f1cd874fde65d7eb9ea7c0919a503",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://xprotocolpulsechain.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/XArmy8888"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/XArmy8"
+    }
+  ]
+}

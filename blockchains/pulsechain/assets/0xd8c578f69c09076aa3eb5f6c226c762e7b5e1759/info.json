@@ -1,0 +1,29 @@
+{
+  "name": "PulseChain Drama",
+  "website": "https://pulsechaindrama.com/",
+  "description": "PulseChain Drama token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD8C578f69c09076aA3eB5f6C226C762E7b5e1759",
+  "type": "ERC20",
+  "symbol": "🍿",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd8c578f69c09076aa3eb5f6c226c762e7b5e1759",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsechaindrama.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pulsechaindrama?s=21\u0026t=KmR2mrrtbtBN0VCnPXoy-g"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plsdrama369"
+    }
+  ]
+}

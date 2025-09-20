@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped BNB from BSC (TokensExpress)",
+  "website": "",
+  "description": "Wrapped BNB from BSC (TokensExpress) token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x518076CCE3729eF1a3877EA3647a26e278e764FE",
+  "type": "ERC20",
+  "symbol": "WBNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x518076cce3729ef1a3877ea3647a26e278e764fe",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "VectorspaceAI",
+  "website": "",
+  "description": "VectorspaceAI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+  "type": "ERC20",
+  "symbol": "VXV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7d29a64504629172a429e64183d6673b9dacbfce",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

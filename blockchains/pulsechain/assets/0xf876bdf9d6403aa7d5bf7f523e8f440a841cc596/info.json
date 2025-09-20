@@ -1,0 +1,29 @@
+{
+  "name": "REFLUX | Interest",
+  "website": "https://pulselorian.com/reflux",
+  "description": "REFLUX | Interest token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF876BDf9D6403AA7D5bF7F523E8f440A841CC596",
+  "type": "ERC20",
+  "symbol": "RFX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf876bdf9d6403aa7d5bf7f523e8f440a841cc596",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/reflux"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/reflux_pays_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+cU2vRG5CTvIzN2Yx"
+    }
+  ]
+}

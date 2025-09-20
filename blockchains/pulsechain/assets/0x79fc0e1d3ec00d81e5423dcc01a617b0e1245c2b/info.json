@@ -1,0 +1,37 @@
+{
+  "name": "MOST WANTED",
+  "website": "https://www.truthbehindrichardheart.com/",
+  "description": "MOST WANTED token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x79FC0E1d3EC00d81E5423DcC01A617b0e1245c2B",
+  "type": "ERC20",
+  "symbol": "RICKY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x79fc0e1d3ec00d81e5423dcc01a617b0e1245c2b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.truthbehindrichardheart.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/channel/UCfNIgI7CM4QfM3EdrjHg5uw"
+    },
+    {
+      "name": "website",
+      "url": "https://www.gopulsechain.com/ecosystem/meme-coins/ricky-most-wanted"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/MOSTWANTEDRICKY"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/rickyTHEMOSTWANTED"
+    }
+  ]
+}

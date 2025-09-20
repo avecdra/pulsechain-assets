@@ -1,0 +1,15 @@
+{
+  "name": "Maximus Pool Party",
+  "website": "",
+  "description": "Maximus Pool Party token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4581af35199bbde87a89941220e04e27ce4b0099",
+  "type": "ERC20",
+  "symbol": "PARTY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4581af35199bbde87a89941220e04e27ce4b0099",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

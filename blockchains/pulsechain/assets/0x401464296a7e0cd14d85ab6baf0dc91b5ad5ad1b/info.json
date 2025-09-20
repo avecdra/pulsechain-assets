@@ -1,0 +1,29 @@
+{
+  "name": "BROmance",
+  "website": "https://app.9inch.io/?chain=pulsechain\u0026inputCurrency=0x401464296A7e0cd14D85AB6baF0Dc91B5ad5Ad1b",
+  "description": "BROmance token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x401464296A7e0cd14D85AB6baF0Dc91B5ad5Ad1b",
+  "type": "ERC20",
+  "symbol": "BRO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x401464296a7e0cd14d85ab6baf0dc91b5ad5ad1b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.9inch.io/?chain=pulsechain\u0026inputCurrency=0x401464296A7e0cd14D85AB6baF0Dc91B5ad5Ad1b"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/BenArmstrongsX"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plsBROmance"
+    }
+  ]
+}

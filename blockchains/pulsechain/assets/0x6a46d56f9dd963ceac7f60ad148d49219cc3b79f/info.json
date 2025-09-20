@@ -1,0 +1,29 @@
+{
+  "name": "Sommi Fan Token",
+  "website": "https://SommiFanToken.com",
+  "description": "Sommi Fan Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6A46d56F9Dd963cEAc7f60aD148d49219CC3b79f",
+  "type": "ERC20",
+  "symbol": "FRIENDSHIP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6a46d56f9dd963ceac7f60ad148d49219cc3b79f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://SommiFanToken.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/SommiFanToken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SommiFanToken"
+    }
+  ]
+}

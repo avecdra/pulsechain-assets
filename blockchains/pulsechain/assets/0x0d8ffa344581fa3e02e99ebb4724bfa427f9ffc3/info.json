@@ -1,0 +1,25 @@
+{
+  "name": "CAPYBARA COIN",
+  "website": "https://dexscreener.com/pulsechain/0x1A29Ef81095Ec627E53C8566464979BF67c6A7b4",
+  "description": "CAPYBARA COIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0D8FFa344581Fa3e02E99Ebb4724bfa427F9FFC3",
+  "type": "ERC20",
+  "symbol": "CAPY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0d8ffa344581fa3e02e99ebb4724bfa427f9ffc3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dexscreener.com/pulsechain/0x1A29Ef81095Ec627E53C8566464979BF67c6A7b4"
+    },
+    {
+      "name": "website",
+      "url": "https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/token/0x0D8FFa344581Fa3e02E99Ebb4724bfa427F9FFC3"
+    }
+  ]
+}

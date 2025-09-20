@@ -1,0 +1,25 @@
+{
+  "name": "Dark Pikachu ダークピカチュウ",
+  "website": "",
+  "description": "Dark Pikachu ダークピカチュウ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x807E9002A32Fdd4f317fCd1bAac3721F02D7B1f9",
+  "type": "ERC20",
+  "symbol": "dPIKA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x807e9002a32fdd4f317fcd1baac3721f02d7b1f9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/DarkPikachu_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DarkPikachu_pls"
+    }
+  ]
+}

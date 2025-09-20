@@ -1,0 +1,29 @@
+{
+  "name": "Mother Of Memes",
+  "website": "https://motherofmemes.xyz/",
+  "description": "Mother Of Memes token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x17B7e19f2208428d1Ff9096349cf870c5Dd9AF1d",
+  "type": "ERC20",
+  "symbol": "MOME",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x17b7e19f2208428d1ff9096349cf870c5dd9af1d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://motherofmemes.xyz/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MotherofMemes0x"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/motherofmemes_xyz"
+    }
+  ]
+}

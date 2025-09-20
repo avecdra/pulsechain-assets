@@ -1,0 +1,16 @@
+{
+  "name": "USD Coin",
+  "website": "",
+  "description": "USD Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "type": "ERC20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

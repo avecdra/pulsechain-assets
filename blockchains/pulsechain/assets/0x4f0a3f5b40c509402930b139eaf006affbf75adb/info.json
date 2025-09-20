@@ -1,0 +1,21 @@
+{
+  "name": "Pepechu",
+  "website": "",
+  "description": "Pepechu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4F0a3F5b40C509402930B139EaF006AFfBF75aDb",
+  "type": "ERC20",
+  "symbol": "PEPU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4f0a3f5b40c509402930b139eaf006affbf75adb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Pepechu420"
+    }
+  ]
+}

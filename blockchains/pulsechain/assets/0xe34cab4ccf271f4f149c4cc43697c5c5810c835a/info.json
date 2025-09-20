@@ -1,0 +1,25 @@
+{
+  "name": "Communis Volume",
+  "website": "http://communis.app/?r=0x08156593a6Fb8BF388A274a6a7cBCcEb456a4830",
+  "description": "Communis Volume token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe34Cab4Ccf271f4F149C4Cc43697C5C5810c835a",
+  "type": "ERC20",
+  "symbol": "COMV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe34cab4ccf271f4f149c4cc43697c5c5810c835a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://communis.app/?r=0x08156593a6Fb8BF388A274a6a7cBCcEb456a4830"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/communispro"
+    }
+  ]
+}

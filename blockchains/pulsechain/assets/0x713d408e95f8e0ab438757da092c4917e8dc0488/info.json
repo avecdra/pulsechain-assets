@@ -1,0 +1,16 @@
+{
+  "name": "Fully Croisened",
+  "website": "",
+  "description": "Fully Croisened token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x713d408e95f8E0Ab438757DA092C4917E8DC0488",
+  "type": "ERC20",
+  "symbol": "FC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x713d408e95f8e0ab438757da092c4917e8dc0488",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

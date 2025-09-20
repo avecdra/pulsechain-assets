@@ -1,0 +1,33 @@
+{
+  "name": "2PHUX Governance Token",
+  "website": "https://app.2phux.io",
+  "description": "2PHUX Governance Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x115f3Fa979a936167f9D208a7B7c4d85081e84BD",
+  "type": "ERC20",
+  "symbol": "2PHUX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x115f3fa979a936167f9d208a7b7c4d85081e84bd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.2phux.io"
+    },
+    {
+      "name": "website",
+      "url": "https://2phux-yield-aggregator.gitbook.io/2phux-whitepaper"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/prime2phux"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TwoPHUX"
+    }
+  ]
+}

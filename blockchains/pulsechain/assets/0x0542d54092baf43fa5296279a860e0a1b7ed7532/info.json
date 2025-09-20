@@ -1,0 +1,33 @@
+{
+  "name": "RADON",
+  "website": "https://radon86.xyz/",
+  "description": "RADON token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0542D54092BaF43FA5296279A860e0A1B7ED7532",
+  "type": "ERC20",
+  "symbol": "RADON☢",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0542d54092baf43fa5296279a860e0a1b7ed7532",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://radon86.xyz/"
+    },
+    {
+      "name": "website",
+      "url": "https://nexionpulse.com/Flux"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RN_Radon_10"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Radon86Greed"
+    }
+  ]
+}

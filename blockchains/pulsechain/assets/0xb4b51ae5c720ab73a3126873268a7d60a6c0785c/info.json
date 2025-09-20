@@ -1,0 +1,16 @@
+{
+  "name": "Wealth",
+  "website": "",
+  "description": "Wealth token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB4B51aE5c720aB73a3126873268a7d60a6C0785C",
+  "type": "ERC20",
+  "symbol": "WLT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb4b51ae5c720ab73a3126873268a7d60a6c0785c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Saturno",
+  "website": "https://www.saturno.fyi/",
+  "description": "Saturno token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x31EC3f16492fb6799C81D347b01c5021E1C1B41A",
+  "type": "ERC20",
+  "symbol": "SAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x31ec3f16492fb6799c81d347b01c5021e1c1b41a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.saturno.fyi/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ampleforth Governance",
+  "website": "",
+  "description": "Ampleforth Governance token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+  "type": "ERC20",
+  "symbol": "FORTH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

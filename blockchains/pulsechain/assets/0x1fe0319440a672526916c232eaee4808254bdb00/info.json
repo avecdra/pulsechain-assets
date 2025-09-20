@@ -1,0 +1,16 @@
+{
+  "name": "HEXDC Stablecoin",
+  "website": "",
+  "description": "HEXDC Stablecoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1FE0319440A672526916C232EAEe4808254Bdb00",
+  "type": "ERC20",
+  "symbol": "HEXDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1fe0319440a672526916c232eaee4808254bdb00",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Pulp Chain",
+  "website": "",
+  "description": "Pulp Chain token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfeece42559f9b539b8df1e93777bff24561c6141",
+  "type": "ERC20",
+  "symbol": "PULP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfeece42559f9b539b8df1e93777bff24561c6141",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

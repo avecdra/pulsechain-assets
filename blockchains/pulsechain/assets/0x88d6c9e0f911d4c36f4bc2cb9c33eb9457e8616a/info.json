@@ -1,0 +1,29 @@
+{
+  "name": "pDAI",
+  "website": "https://www.pdai.money",
+  "description": "pDAI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x88d6C9E0f911D4c36f4bC2cB9c33Eb9457E8616A",
+  "type": "ERC20",
+  "symbol": "pDAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x88d6c9e0f911d4c36f4bc2cb9c33eb9457e8616a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pdai.money"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pDAI_Money"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pDAI_People"
+    }
+  ]
+}

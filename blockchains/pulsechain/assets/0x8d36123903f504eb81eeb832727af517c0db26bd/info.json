@@ -1,0 +1,29 @@
+{
+  "name": "Nope",
+  "website": "https://nopermissions.com/",
+  "description": "Nope token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8D36123903f504eB81eEB832727af517c0db26bD",
+  "type": "ERC20",
+  "symbol": "NOPE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8d36123903f504eb81eeb832727af517c0db26bd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://nopermissions.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/nopeitall"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/NOPEtoken"
+    }
+  ]
+}

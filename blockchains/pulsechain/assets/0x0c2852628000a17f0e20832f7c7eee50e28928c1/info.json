@@ -1,0 +1,29 @@
+{
+  "name": "KING Junior",
+  "website": "https://www.alienking.tech",
+  "description": "KING Junior token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0c2852628000A17f0E20832F7C7EeE50e28928c1",
+  "type": "ERC20",
+  "symbol": "KINGJR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0c2852628000a17f0e20832f7c7eee50e28928c1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.alienking.tech"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/AliEnKinG369?t=xd7DSk9XWCv5ZrQEZTQg0g\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseChainAlien"
+    }
+  ]
+}

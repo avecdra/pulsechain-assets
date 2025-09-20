@@ -1,0 +1,25 @@
+{
+  "name": "Stay Slum",
+  "website": "",
+  "description": "Stay Slum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x648Ca59a499b454614A406e650433Cdc320F8239",
+  "type": "ERC20",
+  "symbol": "Slum",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x648ca59a499b454614a406e650433cdc320f8239",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/slumpulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/theslum"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Barron ",
+  "website": "https://pump.tires/token/0x711D183b1367b4707D05F43a7375DDb5e5b5b5CC",
+  "description": "Barron  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x711D183b1367b4707D05F43a7375DDb5e5b5b5CC",
+  "type": "ERC20",
+  "symbol": "BARRON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x711d183b1367b4707d05f43a7375ddb5e5b5b5cc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0x711D183b1367b4707D05F43a7375DDb5e5b5b5CC"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Barronpls"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Žižek",
+  "website": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+  "description": "Žižek token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe2e1a5d691cCB9E88b84e23A1166B4e6Bd6904Dc",
+  "type": "ERC20",
+  "symbol": "ŽIŽEK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe2e1a5d691ccb9e88b84e23a1166b4e6bd6904dc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ZIZEKPRC20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Zizek_414"
+    }
+  ]
+}

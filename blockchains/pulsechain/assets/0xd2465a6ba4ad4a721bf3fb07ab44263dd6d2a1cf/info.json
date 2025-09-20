@@ -1,0 +1,25 @@
+{
+  "name": "DARKMATTER",
+  "website": "https://www.facebook.com/groups/531289032744354/?ref=share_group_link",
+  "description": "DARKMATTER token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd2465a6ba4ad4a721bf3FB07ab44263Dd6d2A1cf",
+  "type": "ERC20",
+  "symbol": "DARK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd2465a6ba4ad4a721bf3fb07ab44263dd6d2a1cf",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.facebook.com/groups/531289032744354/?ref=share_group_link"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/groups/375911081949036/?ref=share_group_link"
+    }
+  ]
+}

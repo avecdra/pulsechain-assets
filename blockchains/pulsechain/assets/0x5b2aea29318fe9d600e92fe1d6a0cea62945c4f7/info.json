@@ -1,0 +1,16 @@
+{
+  "name": "Increase",
+  "website": "",
+  "description": "Increase token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5b2AEa29318Fe9D600E92Fe1D6A0CEa62945c4f7",
+  "type": "ERC20",
+  "symbol": "INCREASE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5b2aea29318fe9d600e92fe1d6a0cea62945c4f7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

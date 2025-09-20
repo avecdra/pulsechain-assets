@@ -1,0 +1,29 @@
+{
+  "name": "Hyperion",
+  "website": "https://vox.finance/farmHype",
+  "description": "Hyperion token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB96877e03cda04A1f8e96104Eb1a0273424DcAD6",
+  "type": "ERC20",
+  "symbol": "HYPE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb96877e03cda04a1f8e96104eb1a0273424dcad6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://vox.finance/farmHype"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/VOX_DeFi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/VOX_DeFi"
+    }
+  ]
+}

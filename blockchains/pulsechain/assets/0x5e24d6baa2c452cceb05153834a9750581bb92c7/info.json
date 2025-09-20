@@ -1,0 +1,25 @@
+{
+  "name": "AURA",
+  "website": "https://pulselorian.com/",
+  "description": "AURA token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5E24d6bAA2c452CCEB05153834a9750581BB92c7",
+  "type": "ERC20",
+  "symbol": "AURA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5e24d6baa2c452cceb05153834a9750581bb92c7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseAURA"
+    }
+  ]
+}

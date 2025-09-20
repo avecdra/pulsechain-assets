@@ -1,0 +1,21 @@
+{
+  "name": "Mellow Man",
+  "website": "",
+  "description": "Mellow Man token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfAdC236C03F072212BC733C84B9D66D63F72F37e",
+  "type": "ERC20",
+  "symbol": "MELLOW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfadc236c03f072212bc733c84b9d66d63f72f37e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/burnyourego"
+    }
+  ]
+}

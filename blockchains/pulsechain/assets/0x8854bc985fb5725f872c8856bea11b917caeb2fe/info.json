@@ -1,0 +1,15 @@
+{
+  "name": "PHAME",
+  "website": "",
+  "description": "PHAME token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8854bc985fb5725f872c8856bea11b917caeb2fe",
+  "type": "ERC20",
+  "symbol": "PHAME",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8854bc985fb5725f872c8856bea11b917caeb2fe",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

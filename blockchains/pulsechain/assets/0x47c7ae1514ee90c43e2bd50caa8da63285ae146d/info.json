@@ -1,0 +1,25 @@
+{
+  "name": "pDONG",
+  "website": "",
+  "description": "pDONG token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x47C7Ae1514Ee90c43e2bD50CAa8DA63285ae146d",
+  "type": "ERC20",
+  "symbol": "pDONG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x47c7ae1514ee90c43e2bd50caa8da63285ae146d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseBull33"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pdongCHAT"
+    }
+  ]
+}

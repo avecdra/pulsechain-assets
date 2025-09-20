@@ -1,0 +1,29 @@
+{
+  "name": "Pulsedoge",
+  "website": "https://pulsedoge.win",
+  "description": "Pulsedoge token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x52Ada28F70BC8EBe5dd4381120d3CD76863919A8",
+  "type": "ERC20",
+  "symbol": "PLD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x52ada28f70bc8ebe5dd4381120d3cd76863919a8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsedoge.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulsedogeWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsedoge"
+    }
+  ]
+}

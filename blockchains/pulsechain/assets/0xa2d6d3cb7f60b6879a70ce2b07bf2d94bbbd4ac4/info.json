@@ -1,0 +1,25 @@
+{
+  "name": "Wobbuffet ソーナンス",
+  "website": "",
+  "description": "Wobbuffet ソーナンス token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA2d6d3cb7F60B6879a70CE2B07bf2d94BbBD4aC4",
+  "type": "ERC20",
+  "symbol": "WOBB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa2d6d3cb7f60b6879a70ce2b07bf2d94bbbd4ac4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/WobbuffetPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/WobbuffetPLS"
+    }
+  ]
+}

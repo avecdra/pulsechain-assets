@@ -1,0 +1,29 @@
+{
+  "name": "Pulsar from Ethereum",
+  "website": "https://pulsar.giffordwear.win/",
+  "description": "Pulsar from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x69C96Bb512A386a538ab52C87F34aCAf9c76D05a",
+  "type": "ERC20",
+  "symbol": "PULSAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x69c96bb512a386a538ab52c87f34acaf9c76d05a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsar.giffordwear.win/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Pulsar_Crypto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Pulsar_Crypto"
+    }
+  ]
+}

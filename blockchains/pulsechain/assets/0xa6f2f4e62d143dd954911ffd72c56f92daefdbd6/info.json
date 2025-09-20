@@ -1,0 +1,29 @@
+{
+  "name": "NoBull$hit",
+  "website": "https://NoBSPLS.net",
+  "description": "NoBull$hit token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA6F2f4E62d143dd954911FFd72c56F92DaEFDBD6",
+  "type": "ERC20",
+  "symbol": "🚫🐮💩💯",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa6f2f4e62d143dd954911ffd72c56f92daefdbd6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://NoBSPLS.net"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/NOBSPLS369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/NOBSPLS369"
+    }
+  ]
+}

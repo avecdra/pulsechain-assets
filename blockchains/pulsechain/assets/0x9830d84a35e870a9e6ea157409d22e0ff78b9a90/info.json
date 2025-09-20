@@ -1,0 +1,21 @@
+{
+  "name": "allKIPnoKAP",
+  "website": "",
+  "description": "allKIPnoKAP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9830d84a35e870A9E6eA157409d22E0fF78B9a90",
+  "type": "ERC20",
+  "symbol": "KIPPAH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9830d84a35e870a9e6ea157409d22e0ff78b9a90",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/Disco_Stu414"
+    }
+  ]
+}

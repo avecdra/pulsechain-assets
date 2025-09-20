@@ -1,0 +1,29 @@
+{
+  "name": "Pulse TV",
+  "website": "https://www.pulsetvcrypto.com/",
+  "description": "Pulse TV token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA5AC6346077aa95095D34AEBFbcd61C367A08B2f",
+  "type": "ERC20",
+  "symbol": "PTV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa5ac6346077aa95095d34aebfbcd61c367a08b2f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pulsetvcrypto.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseTvShow"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsetvshow"
+    }
+  ]
+}

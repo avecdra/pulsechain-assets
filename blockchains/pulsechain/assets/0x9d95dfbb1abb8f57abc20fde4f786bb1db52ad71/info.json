@@ -1,0 +1,33 @@
+{
+  "name": "DrDoge",
+  "website": "https://drdoge.net/",
+  "description": "DrDoge token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9d95DFBB1aBb8F57abc20FDE4F786BB1Db52ad71",
+  "type": "ERC20",
+  "symbol": "DRDOGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9d95dfbb1abb8f57abc20fde4f786bb1db52ad71",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://drdoge.net/"
+    },
+    {
+      "name": "website",
+      "url": "https://hashlock.com/audits/drdoge"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/DrDoge_PLS"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/etQckZgu74"
+    }
+  ]
+}

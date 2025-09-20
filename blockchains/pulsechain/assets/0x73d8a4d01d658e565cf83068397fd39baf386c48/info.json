@@ -1,0 +1,29 @@
+{
+  "name": "VRX",
+  "website": "https://Pulselorian.com/vortex",
+  "description": "VRX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x73d8a4D01d658E565cF83068397FD39Baf386C48",
+  "type": "ERC20",
+  "symbol": "Vortex",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x73d8a4d01d658e565cf83068397fd39baf386c48",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://Pulselorian.com/vortex"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ThePulseLorian"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ThePulselorian"
+    }
+  ]
+}

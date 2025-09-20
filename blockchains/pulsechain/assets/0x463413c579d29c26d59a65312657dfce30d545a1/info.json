@@ -1,0 +1,16 @@
+{
+  "name": "TREASURY BILL",
+  "website": "",
+  "description": "TREASURY BILL token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x463413c579D29c26D59a65312657DFCe30D545A1",
+  "type": "ERC20",
+  "symbol": "TREASURY BILL ㉾",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x463413c579d29c26d59a65312657dfce30d545a1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

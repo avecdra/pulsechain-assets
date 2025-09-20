@@ -1,0 +1,25 @@
+{
+  "name": "Aspire",
+  "website": "",
+  "description": "Aspire token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb4b92152fbbfc9915525A52D805D248f3b43b56b",
+  "type": "ERC20",
+  "symbol": "Aspire",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb4b92152fbbfc9915525a52d805d248f3b43b56b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/AspirePulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Aspire_Pulsechain"
+    }
+  ]
+}

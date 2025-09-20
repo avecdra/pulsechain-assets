@@ -1,0 +1,25 @@
+{
+  "name": "WOLVERINE",
+  "website": "",
+  "description": "WOLVERINE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1a1b13fFccB91594F2BcD75F5E3bEbd54D73784c",
+  "type": "ERC20",
+  "symbol": "LOGAN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1a1b13ffccb91594f2bcd75f5e3bebd54d73784c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/plswolverine"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plswolverine"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "pLemonade",
+  "website": "https://p-lemonade.fun",
+  "description": "pLemonade token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfA23FB624036D523f9Aa419c10B47a645Bd8FBF4",
+  "type": "ERC20",
+  "symbol": "LEMON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfa23fb624036d523f9aa419c10b47a645bd8fbf4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://p-lemonade.fun"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pLemonade_PLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/p_lemonade"
+    }
+  ]
+}

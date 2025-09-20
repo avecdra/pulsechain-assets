@@ -1,0 +1,16 @@
+{
+  "name": "HEX Time Token 5000",
+  "website": "",
+  "description": "HEX Time Token 5000 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE2D03779147A32064511dd2b9D37F66f3EeFAd7C",
+  "type": "ERC20",
+  "symbol": "HTT-5000",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe2d03779147a32064511dd2b9d37f66f3eefad7c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

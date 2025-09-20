@@ -1,0 +1,29 @@
+{
+  "name": "8-Way Double Dip",
+  "website": "https://app.growthdefi.com/vdc/8WDD-8WMM",
+  "description": "8-Way Double Dip token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x24F97CE670b8Ab29b357E748d08996aCf4594aD8",
+  "type": "ERC20",
+  "symbol": "8WDD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x24f97ce670b8ab29b357e748d08996acf4594ad8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.growthdefi.com/vdc/8WDD-8WMM"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PerpetualDice3"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GBTCpWBTCxxHMINE"
+    }
+  ]
+}

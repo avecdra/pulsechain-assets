@@ -1,0 +1,21 @@
+{
+  "name": "BOOST",
+  "website": "",
+  "description": "BOOST token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1AAba3E349F81b03eC68E57eE5443f1E6aac6000",
+  "type": "ERC20",
+  "symbol": "BOOST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1aaba3e349f81b03ec68e57ee5443f1e6aac6000",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/boostwpls"
+    }
+  ]
+}

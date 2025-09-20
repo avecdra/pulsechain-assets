@@ -1,0 +1,29 @@
+{
+  "name": "ZKZX",
+  "website": "https://zkzx.cash/",
+  "description": "ZKZX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x319e55Be473C77C35316651995C048a415219604",
+  "type": "ERC20",
+  "symbol": "ZKZX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x319e55be473c77c35316651995c048a415219604",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://zkzx.cash/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ZKZXcash"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ZKZXcash"
+    }
+  ]
+}

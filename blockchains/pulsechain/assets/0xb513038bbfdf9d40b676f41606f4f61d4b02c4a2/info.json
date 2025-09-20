@@ -1,0 +1,16 @@
+{
+  "name": "EARN",
+  "website": "",
+  "description": "EARN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb513038BbFdF9D40B676F41606f4F61D4b02c4A2",
+  "type": "ERC20",
+  "symbol": "EARN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb513038bbfdf9d40b676f41606f4f61d4b02c4a2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

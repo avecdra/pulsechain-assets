@@ -1,0 +1,16 @@
+{
+  "name": "FLEX",
+  "website": "",
+  "description": "FLEX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9c6fA17D92898B684676993828143596894AA2A6",
+  "type": "ERC20",
+  "symbol": "FLEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9c6fa17d92898b684676993828143596894aa2a6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

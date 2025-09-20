@@ -1,0 +1,21 @@
+{
+  "name": "BRRR Protocol",
+  "website": "",
+  "description": "BRRR Protocol token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa4257aFeA2845EB1db130d8C0335932450176fD7",
+  "type": "ERC20",
+  "symbol": "🐻‍❄️",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa4257afea2845eb1db130d8c0335932450176fd7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/BrrrProtocol"
+    }
+  ]
+}

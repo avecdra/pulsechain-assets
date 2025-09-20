@@ -1,0 +1,29 @@
+{
+  "name": "SCUBA STEVE",
+  "website": "https://scubasteve.io/",
+  "description": "SCUBA STEVE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5FE90464eD06B809D3f8888aD12e98346E409d4D",
+  "type": "ERC20",
+  "symbol": "TEVE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5fe90464ed06b809d3f8888ad12e98346e409d4d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://scubasteve.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/scubasteveio"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ScubaSteveToken"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "JADE",
+  "website": "https://www.facebook.com/share/iPdvKAQgFuLk4mjw/?mibextid=K35XfP",
+  "description": "JADE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x847Df32De2CCE5827fa914dC79C74deC6CE7ddB9",
+  "type": "ERC20",
+  "symbol": "JADE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x847df32de2cce5827fa914dc79c74dec6ce7ddb9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.facebook.com/share/iPdvKAQgFuLk4mjw/?mibextid=K35XfP"
+    }
+  ]
+}

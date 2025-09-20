@@ -1,0 +1,29 @@
+{
+  "name": "ZEUS",
+  "website": "https://pulsezeus.net/",
+  "description": "ZEUS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb25E20C9097f6C17CcFEe0f67b4394a486f68367",
+  "type": "ERC20",
+  "symbol": "ZEUS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb25e20c9097f6c17ccfee0f67b4394a486f68367",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsezeus.net/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseZEUS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseZEUS"
+    }
+  ]
+}

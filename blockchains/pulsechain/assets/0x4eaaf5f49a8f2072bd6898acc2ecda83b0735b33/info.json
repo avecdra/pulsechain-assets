@@ -1,0 +1,25 @@
+{
+  "name": "Serbia Strong",
+  "website": "",
+  "description": "Serbia Strong token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4eaAF5f49A8f2072BD6898ACc2eCDA83b0735b33",
+  "type": "ERC20",
+  "symbol": "SRB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4eaaf5f49a8f2072bd6898acc2ecda83b0735b33",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/SRBstrong"
+    },
+    {
+      "name": "telegram",
+      "url": "http://t.me/SRBstrong"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Future T.I.M.E. Dividend from Ethereum",
+  "website": "https://internetmoney.io",
+  "description": "Future T.I.M.E. Dividend from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371",
+  "type": "ERC20",
+  "symbol": "FUTURE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xae0303f244a3e9c74ee8d373af0bd637643dd371",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://internetmoney.io"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/opensource"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/ios"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/android"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/chrome"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/internetmoneyio"
+    },
+    {
+      "name": "website",
+      "url": "https://www.reddit.com/r/internetmoneyio/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/internetmoneyio"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/internetmoneyio"
+    }
+  ]
+}

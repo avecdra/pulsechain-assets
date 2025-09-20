@@ -1,0 +1,21 @@
+{
+  "name": "USDT",
+  "website": "https://pump.tires/token/0x279d6564A78Cc9f126eC630e8a826DD55294f875",
+  "description": "USDT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x279d6564A78Cc9f126eC630e8a826DD55294f875",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x279d6564a78cc9f126ec630e8a826dd55294f875",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0x279d6564A78Cc9f126eC630e8a826DD55294f875"
+    }
+  ]
+}

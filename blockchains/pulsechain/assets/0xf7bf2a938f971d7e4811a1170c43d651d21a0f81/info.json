@@ -1,0 +1,29 @@
+{
+  "name": "BITCOIN",
+  "website": "https://gopulse.com/token/0xf7bf2a938f971d7e4811a1170c43d651d21a0f81",
+  "description": "BITCOIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF7bf2A938f971D7e4811A1170C43d651d21A0F81",
+  "type": "ERC20",
+  "symbol": "BTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf7bf2a938f971d7e4811a1170c43d651d21a0f81",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gopulse.com/token/0xf7bf2a938f971d7e4811a1170c43d651d21a0f81"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/rhBitcoin369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseWBTC"
+    }
+  ]
+}

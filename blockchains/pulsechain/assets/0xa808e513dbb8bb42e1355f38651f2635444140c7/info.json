@@ -1,0 +1,29 @@
+{
+  "name": "28 Margueritas",
+  "website": "https://28margueritascrypto.com/",
+  "description": "28 Margueritas token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa808e513Dbb8Bb42e1355f38651F2635444140c7",
+  "type": "ERC20",
+  "symbol": "28M🐞",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa808e513dbb8bb42e1355f38651f2635444140c7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://28margueritascrypto.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/28MargueritaPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TwentyEightMargueritas"
+    }
+  ]
+}

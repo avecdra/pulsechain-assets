@@ -1,0 +1,33 @@
+{
+  "name": "Synthesis DeFi",
+  "website": "https://synthesisdefi.com/",
+  "description": "Synthesis DeFi token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa2E63bD24999C5aa06089Cf69413462e0c12c774",
+  "type": "ERC20",
+  "symbol": "SYDE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa2e63bd24999c5aa06089cf69413462e0c12c774",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://synthesisdefi.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@OliverFujimori"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/OliverFujimori"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/synthesisdefi"
+    }
+  ]
+}

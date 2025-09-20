@@ -1,0 +1,29 @@
+{
+  "name": "AussieGold",
+  "website": "https://aussigold.io",
+  "description": "AussieGold token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc11d7E8b3E8aAf9023c4b0Fa616dFA56cB2a8d61",
+  "type": "ERC20",
+  "symbol": "AUAU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc11d7e8b3e8aaf9023c4b0fa616dfa56cb2a8d61",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://aussigold.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/GoldAussie196"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AussieGold"
+    }
+  ]
+}

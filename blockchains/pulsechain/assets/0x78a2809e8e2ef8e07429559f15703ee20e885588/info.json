@@ -1,0 +1,16 @@
+{
+  "name": "Meme Coin Mafia",
+  "website": "",
+  "description": "Meme Coin Mafia token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x78a2809e8e2ef8e07429559f15703Ee20E885588",
+  "type": "ERC20",
+  "symbol": "M3M3",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x78a2809e8e2ef8e07429559f15703ee20e885588",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

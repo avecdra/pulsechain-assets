@@ -1,0 +1,29 @@
+{
+  "name": "Larry The Cabal Guy",
+  "website": "https://larrythecabalguy.com/",
+  "description": "Larry The Cabal Guy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1C2206cD188ccF3FdfA29001f936ef6f3e8decf9",
+  "type": "ERC20",
+  "symbol": "LTCG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1c2206cd188ccf3fdfa29001f936ef6f3e8decf9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://larrythecabalguy.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/CabalGuyPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/LarryTheCabalGuy"
+    }
+  ]
+}

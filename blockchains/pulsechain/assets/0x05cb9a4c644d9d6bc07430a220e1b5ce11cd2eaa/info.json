@@ -1,0 +1,29 @@
+{
+  "name": "Brett",
+  "website": "https://boysclubpls.io/",
+  "description": "Brett token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x05cb9A4C644d9d6bc07430a220E1B5CE11Cd2eaa",
+  "type": "ERC20",
+  "symbol": "BRETT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x05cb9a4c644d9d6bc07430a220e1b5ce11cd2eaa",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://boysclubpls.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/boysclubpls"
+    },
+    {
+      "name": "telegram",
+      "url": "http://t.me/boysclubpulse"
+    }
+  ]
+}

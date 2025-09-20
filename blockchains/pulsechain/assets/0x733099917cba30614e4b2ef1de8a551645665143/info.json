@@ -1,0 +1,16 @@
+{
+  "name": "PussyCat",
+  "website": "",
+  "description": "PussyCat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x733099917CbA30614e4b2ef1de8A551645665143",
+  "type": "ERC20",
+  "symbol": "PUSSY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x733099917cba30614e4b2ef1de8a551645665143",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

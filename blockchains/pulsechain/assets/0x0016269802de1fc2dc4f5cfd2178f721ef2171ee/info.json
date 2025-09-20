@@ -1,0 +1,29 @@
+{
+  "name": "NO EXPECTATION",
+  "website": "https://noexpectationsprc20.com/",
+  "description": "NO EXPECTATION token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0016269802dE1FC2dC4F5Cfd2178f721EF2171EE",
+  "type": "ERC20",
+  "symbol": "NOEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0016269802de1fc2dc4f5cfd2178f721ef2171ee",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://noexpectationsprc20.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/TheUnexpected0x"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/NoExpectationsPRC20"
+    }
+  ]
+}

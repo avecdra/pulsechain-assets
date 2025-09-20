@@ -1,0 +1,21 @@
+{
+  "name": "Mudkip ミズゴロウ",
+  "website": "",
+  "description": "Mudkip ミズゴロウ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x95032Be41FfD6fea41781447332B5F7b1542D03d",
+  "type": "ERC20",
+  "symbol": "Mudkip ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x95032be41ffd6fea41781447332b5f7b1542d03d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/MudkipOnPulsechain"
+    }
+  ]
+}

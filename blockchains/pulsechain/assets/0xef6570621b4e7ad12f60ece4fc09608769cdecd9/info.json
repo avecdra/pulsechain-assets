@@ -1,0 +1,16 @@
+{
+  "name": "QUESO from Burritos.Cash",
+  "website": "",
+  "description": "QUESO from Burritos.Cash token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xef6570621B4E7aD12F60ECE4FC09608769cDecD9",
+  "type": "ERC20",
+  "symbol": "QUESO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xef6570621b4e7ad12f60ece4fc09608769cdecd9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

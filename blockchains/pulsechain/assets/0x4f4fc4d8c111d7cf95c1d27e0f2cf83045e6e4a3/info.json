@@ -1,0 +1,15 @@
+{
+  "name": "BILLY COIN",
+  "website": "",
+  "description": "BILLY COIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4f4fc4d8c111d7cf95c1d27e0f2cf83045e6e4a3",
+  "type": "ERC20",
+  "symbol": "BILLY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4f4fc4d8c111d7cf95c1d27e0f2cf83045e6e4a3",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

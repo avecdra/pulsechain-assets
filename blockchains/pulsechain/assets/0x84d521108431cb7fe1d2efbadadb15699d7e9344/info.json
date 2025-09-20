@@ -1,0 +1,29 @@
+{
+  "name": "DODO",
+  "website": "https://dodo-pulse.com/",
+  "description": "DODO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x84D521108431cb7Fe1D2efBadAdB15699D7E9344",
+  "type": "ERC20",
+  "symbol": "DODO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x84d521108431cb7fe1d2efbadadb15699d7e9344",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dodo-pulse.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/dodopulsecoin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dodopulse"
+    }
+  ]
+}

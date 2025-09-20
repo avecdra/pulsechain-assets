@@ -1,0 +1,29 @@
+{
+  "name": "Hex Of The Dragon",
+  "website": "http://hexofthedragon.xyz",
+  "description": "Hex Of The Dragon token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x99C958582E6283b44EcfC760fA6c9aE0c995151F",
+  "type": "ERC20",
+  "symbol": "DRAGON 🐲 ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x99c958582e6283b44ecfc760fa6c9ae0c995151f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://hexofthedragon.xyz"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/HexOf67233?t=mSNna7PaiFbQzuRSIdZ5_g\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseDragon1"
+    }
+  ]
+}

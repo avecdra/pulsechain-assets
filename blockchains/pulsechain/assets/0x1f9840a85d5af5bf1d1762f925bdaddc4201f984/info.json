@@ -1,0 +1,16 @@
+{
+  "name": "Uniswap",
+  "website": "",
+  "description": "Uniswap token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+  "type": "ERC20",
+  "symbol": "UNI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

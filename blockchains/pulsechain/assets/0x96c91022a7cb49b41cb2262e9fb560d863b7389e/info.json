@@ -1,0 +1,25 @@
+{
+  "name": "Pool Token",
+  "website": "",
+  "description": "Pool Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x96c91022A7CB49B41Cb2262E9fB560D863b7389e",
+  "type": "ERC20",
+  "symbol": "POOL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x96c91022a7cb49b41cb2262e9fb560d863b7389e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Project_X_Pulse?t=AabZMwO53pe9PFbTgNrKaw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PoolTokenEco"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mp3",
+  "website": "",
+  "description": "mp3 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x018fb5af9d015af25592a014c4266a84143de7a0",
+  "type": "ERC20",
+  "symbol": "MP3",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x018fb5af9d015af25592a014c4266a84143de7a0",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

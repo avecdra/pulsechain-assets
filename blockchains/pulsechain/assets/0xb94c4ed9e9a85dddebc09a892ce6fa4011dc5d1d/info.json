@@ -1,0 +1,21 @@
+{
+  "name": "Rally",
+  "website": "",
+  "description": "Rally token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB94c4eD9E9A85DDDEBC09a892cE6fa4011DC5D1D",
+  "type": "ERC20",
+  "symbol": "RLY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb94c4ed9e9a85dddebc09a892ce6fa4011dc5d1d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/fdm849/status/1777011229157982455"
+    }
+  ]
+}

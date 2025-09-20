@@ -1,0 +1,15 @@
+{
+  "name": "Glory",
+  "website": "",
+  "description": "Glory token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3cdb1d65915d7d1ab2e0bffefde88e47a7cae2bd",
+  "type": "ERC20",
+  "symbol": "GLORY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3cdb1d65915d7d1ab2e0bffefde88e47a7cae2bd",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

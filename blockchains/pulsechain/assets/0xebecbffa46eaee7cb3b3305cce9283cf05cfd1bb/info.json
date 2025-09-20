@@ -1,0 +1,29 @@
+{
+  "name": "ZENDAWG",
+  "website": "https://zendawg.io/",
+  "description": "ZENDAWG token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xebeCbffA46Eaee7CB3B3305cCE9283cf05CfD1BB",
+  "type": "ERC20",
+  "symbol": "ZEN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xebecbffa46eaee7cb3b3305cce9283cf05cfd1bb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://zendawg.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/zendawg_records?t=MDTmI25pMr55jAnlbWa0dA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/the_zen_hub"
+    }
+  ]
+}

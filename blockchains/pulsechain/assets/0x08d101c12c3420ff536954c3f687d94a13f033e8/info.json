@@ -1,0 +1,25 @@
+{
+  "name": "HoW🖨️",
+  "website": "",
+  "description": "HoW🖨️ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x08D101C12C3420fF536954C3F687d94a13F033e8",
+  "type": "ERC20",
+  "symbol": "HoW🖨️",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x08d101c12c3420ff536954c3f687d94a13f033e8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/HouseOfWarlord"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/houseofwarlords"
+    }
+  ]
+}

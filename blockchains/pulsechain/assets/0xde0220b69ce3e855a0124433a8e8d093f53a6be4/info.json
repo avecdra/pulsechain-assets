@@ -1,0 +1,16 @@
+{
+  "name": "Where Did The ETH Go?",
+  "website": "",
+  "description": "Where Did The ETH Go? token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4",
+  "type": "ERC20",
+  "symbol": "WHETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde0220b69ce3e855a0124433a8e8d093f53a6be4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "IGNORE",
+  "website": "",
+  "description": "IGNORE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x68756F4BCf21da3ab1C810ed6E2c755D4042Cb2F",
+  "type": "ERC20",
+  "symbol": "IGNO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x68756f4bcf21da3ab1c810ed6e2c755d4042cb2f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ignoreart"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ignoretoken"
+    }
+  ]
+}

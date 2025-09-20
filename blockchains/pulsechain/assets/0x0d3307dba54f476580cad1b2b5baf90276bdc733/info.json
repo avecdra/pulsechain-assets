@@ -1,0 +1,16 @@
+{
+  "name": "Collab Coin",
+  "website": "",
+  "description": "Collab Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0d3307DBa54f476580Cad1b2B5baf90276BDc733",
+  "type": "ERC20",
+  "symbol": "$COLLAB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0d3307dba54f476580cad1b2b5baf90276bdc733",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

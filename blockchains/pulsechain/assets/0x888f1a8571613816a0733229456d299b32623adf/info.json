@@ -1,0 +1,25 @@
+{
+  "name": "BRICS Pay",
+  "website": "https://www.brics-pay.com/###",
+  "description": "BRICS Pay token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x888F1a8571613816a0733229456d299B32623adf",
+  "type": "ERC20",
+  "symbol": "BRICS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x888f1a8571613816a0733229456d299b32623adf",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.brics-pay.com/###"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BRICSPulseChain"
+    }
+  ]
+}

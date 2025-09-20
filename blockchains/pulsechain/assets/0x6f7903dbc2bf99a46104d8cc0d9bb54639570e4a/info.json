@@ -1,0 +1,29 @@
+{
+  "name": "7-Way Mirror Money",
+  "website": "https://growthdefi.com/",
+  "description": "7-Way Mirror Money token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6F7903DBc2bf99a46104D8cc0d9bB54639570e4a",
+  "type": "ERC20",
+  "symbol": "7WMM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6f7903dbc2bf99a46104d8cc0d9bb54639570e4a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://growthdefi.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PerpetualDice3"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GBTCpWBTCxxHMINE"
+    }
+  ]
+}

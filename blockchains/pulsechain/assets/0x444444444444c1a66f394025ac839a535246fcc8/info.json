@@ -1,0 +1,41 @@
+{
+  "name": "Genius",
+  "website": "https://geni.app",
+  "description": "Genius token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x444444444444C1a66F394025Ac839A535246FCc8",
+  "type": "ERC20",
+  "symbol": "GENI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x444444444444c1a66f394025ac839a535246fcc8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://geni.app"
+    },
+    {
+      "name": "website",
+      "url": "https://geni.to/whitepaper"
+    },
+    {
+      "name": "website",
+      "url": "https://geni.to/litepaper"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Genicrypto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/genicrypto"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/genicrypto"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "King",
+  "website": "https://www.kingdomcrypto.net",
+  "description": "King token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC5b0157047067D3F9Ba565Df7ebae7E6d58F0F27",
+  "type": "ERC20",
+  "symbol": "KING",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc5b0157047067d3f9ba565df7ebae7e6d58f0f27",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.kingdomcrypto.net"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kingdom_crypto_pls"
+    }
+  ]
+}

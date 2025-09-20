@@ -1,0 +1,29 @@
+{
+  "name": "10x That Shit",
+  "website": "https://www.10xthatshit.com/",
+  "description": "10x That Shit token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdA1dAfB686959F1410e8A0863ebCEA02Fa605933",
+  "type": "ERC20",
+  "symbol": "10x",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xda1dafb686959f1410e8a0863ebcea02fa605933",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.10xthatshit.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/10xthatshit/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/tenxthatshit"
+    }
+  ]
+}

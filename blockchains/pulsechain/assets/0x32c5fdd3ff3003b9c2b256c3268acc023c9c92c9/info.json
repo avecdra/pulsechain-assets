@@ -1,0 +1,25 @@
+{
+  "name": "ONLY UP",
+  "website": "",
+  "description": "ONLY UP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x32c5FdD3Ff3003B9C2b256c3268aCc023C9C92C9",
+  "type": "ERC20",
+  "symbol": "Only Up",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x32c5fdd3ff3003b9c2b256c3268acc023c9c92c9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/onlyupcto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CTOonlyup"
+    }
+  ]
+}

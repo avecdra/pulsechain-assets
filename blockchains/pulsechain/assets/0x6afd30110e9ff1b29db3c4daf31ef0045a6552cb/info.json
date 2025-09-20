@@ -1,0 +1,29 @@
+{
+  "name": "YEET",
+  "website": "https://houseofyeet.com",
+  "description": "YEET token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6Afd30110e9fF1b29dB3c4DAf31EF0045a6552cB",
+  "type": "ERC20",
+  "symbol": "YEET",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6afd30110e9ff1b29db3c4daf31ef0045a6552cb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://houseofyeet.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/yeetonpulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/YeetArmyPls"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "𝒥𝓊𝓅𝒾𝓉ℯ𝓇",
+  "website": "",
+  "description": "𝒥𝓊𝓅𝒾𝓉ℯ𝓇 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9Dc1684Fa60458faf59Af2a7538FF9bd59a62BD6",
+  "type": "ERC20",
+  "symbol": "༄",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9dc1684fa60458faf59af2a7538ff9bd59a62bd6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

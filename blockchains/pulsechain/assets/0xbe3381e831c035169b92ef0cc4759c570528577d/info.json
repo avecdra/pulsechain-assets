@@ -1,0 +1,16 @@
+{
+  "name": "TITAN X from Ethereum",
+  "website": "",
+  "description": "TITAN X from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBE3381E831C035169B92EF0Cc4759C570528577d",
+  "type": "ERC20",
+  "symbol": "TITANX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbe3381e831c035169b92ef0cc4759c570528577d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

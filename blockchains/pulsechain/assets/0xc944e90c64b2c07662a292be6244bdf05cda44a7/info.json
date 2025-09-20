@@ -1,0 +1,16 @@
+{
+  "name": "Graph Token",
+  "website": "",
+  "description": "Graph Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+  "type": "ERC20",
+  "symbol": "GRT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

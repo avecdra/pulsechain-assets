@@ -1,0 +1,29 @@
+{
+  "name": "HELGO",
+  "website": "https://helgo.io",
+  "description": "HELGO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0567CA0dE35606E9C260CC2358404B11DE21DB44",
+  "type": "ERC20",
+  "symbol": "HELGO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0567ca0de35606e9c260cc2358404b11de21db44",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://helgo.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/helgoio"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/helgoio"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "OneSwap",
+  "website": "https://www.oneswap.io/",
+  "description": "OneSwap token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEb14f3192A37ad2501F3BF6627C565e6799aD661",
+  "type": "ERC20",
+  "symbol": "1SWAP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeb14f3192a37ad2501f3bf6627c565e6799ad661",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.oneswap.io/"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.x-usd.net/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/oneswappulse"
+    }
+  ]
+}

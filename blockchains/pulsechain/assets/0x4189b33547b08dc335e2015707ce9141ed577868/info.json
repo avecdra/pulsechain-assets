@@ -1,0 +1,21 @@
+{
+  "name": "Pepeku",
+  "website": "",
+  "description": "Pepeku token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4189b33547B08dC335e2015707Ce9141ED577868",
+  "type": "ERC20",
+  "symbol": "PEPEKU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4189b33547b08dc335e2015707ce9141ed577868",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/pepekupls"
+    }
+  ]
+}

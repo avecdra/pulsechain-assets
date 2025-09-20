@@ -1,0 +1,25 @@
+{
+  "name": "Alexandria Ocasio Cortez",
+  "website": "",
+  "description": "Alexandria Ocasio Cortez token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8d3D1299AD082983cDf72bEA5596AFCE1a35D247",
+  "type": "ERC20",
+  "symbol": "AOC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8d3d1299ad082983cdf72bea5596afce1a35d247",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/aoc_on_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AOC_On_PLS"
+    }
+  ]
+}

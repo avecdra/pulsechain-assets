@@ -1,0 +1,15 @@
+{
+  "name": "Timmy",
+  "website": "",
+  "description": "Timmy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x827db5c46b3cc1b6488eb6040af735f464b47eea",
+  "type": "ERC20",
+  "symbol": "TIMMY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x827db5c46b3cc1b6488eb6040af735f464b47eea",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

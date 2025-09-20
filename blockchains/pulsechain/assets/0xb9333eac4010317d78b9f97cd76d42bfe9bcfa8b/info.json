@@ -1,0 +1,16 @@
+{
+  "name": "KIRBY",
+  "website": "",
+  "description": "KIRBY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb9333eaC4010317d78B9F97cd76D42bFE9BCFa8b",
+  "type": "ERC20",
+  "symbol": "KIRBY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb9333eac4010317d78b9f97cd76d42bfe9bcfa8b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

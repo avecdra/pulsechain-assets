@@ -1,0 +1,37 @@
+{
+  "name": "EAGLE",
+  "website": "https://www.stdpros.com/",
+  "description": "EAGLE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3018D3D987BD4b4D8b70b75DD270aBf2034f2979",
+  "type": "ERC20",
+  "symbol": "EAGLE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3018d3d987bd4b4d8b70b75dd270abf2034f2979",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.stdpros.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/watch?v=3QNzmI6j7eY"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@patriotsway7208"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/way_patriots"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SoftTastyDonut"
+    }
+  ]
+}

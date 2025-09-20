@@ -1,0 +1,16 @@
+{
+  "name": "Bitcoin",
+  "website": "",
+  "description": "Bitcoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x43C43EE798eE6707CE09311D0e22a415385e6D29",
+  "type": "ERC20",
+  "symbol": "₿",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x43c43ee798ee6707ce09311d0e22a415385e6d29",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

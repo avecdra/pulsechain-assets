@@ -1,0 +1,33 @@
+{
+  "name": "HEX1 Token",
+  "website": "https://hex1.club",
+  "description": "HEX1 Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x298978f9B59A4BF9c08C114Fb6848fade7Be7E18",
+  "type": "ERC20",
+  "symbol": "HEX1",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x298978f9b59a4bf9c08c114fb6848fade7be7e18",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hex1.club"
+    },
+    {
+      "name": "website",
+      "url": "https://learn.hex1.club"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Hex1crypto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/hex1protocol"
+    }
+  ]
+}

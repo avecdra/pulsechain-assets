@@ -1,0 +1,16 @@
+{
+  "name": "Basketball",
+  "website": "",
+  "description": "Basketball token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x35F525BEe58624b89879CDAfAdA040F5840D4460",
+  "type": "ERC20",
+  "symbol": "NBA™",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x35f525bee58624b89879cdafada040f5840d4460",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

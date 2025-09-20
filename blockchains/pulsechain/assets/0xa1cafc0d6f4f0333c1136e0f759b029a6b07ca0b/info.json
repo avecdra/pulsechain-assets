@@ -1,0 +1,21 @@
+{
+  "name": "Kelo",
+  "website": "",
+  "description": "Kelo token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA1cAFc0d6F4F0333c1136e0f759b029a6b07ca0B",
+  "type": "ERC20",
+  "symbol": "KELO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa1cafc0d6f4f0333c1136e0f759b029a6b07ca0b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/KELO_DAO"
+    }
+  ]
+}

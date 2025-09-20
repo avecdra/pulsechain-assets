@@ -1,0 +1,29 @@
+{
+  "name": "HEX5555",
+  "website": "https://hex5555.win",
+  "description": "HEX5555 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x04A3f80869eDD465B79bD8868Bde1a843c521b80",
+  "type": "ERC20",
+  "symbol": "HEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x04a3f80869edd465b79bd8868bde1a843c521b80",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hex5555.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/hex5555token"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HEX_5555"
+    }
+  ]
+}

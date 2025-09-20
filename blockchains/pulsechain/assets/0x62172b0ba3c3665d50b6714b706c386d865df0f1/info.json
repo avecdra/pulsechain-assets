@@ -1,0 +1,29 @@
+{
+  "name": "HEX MASCOT",
+  "website": "https://gainzonpulse.com/",
+  "description": "HEX MASCOT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x62172B0Ba3C3665d50b6714B706C386D865dF0f1",
+  "type": "ERC20",
+  "symbol": "GAINZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x62172b0ba3c3665d50b6714b706c386d865df0f1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gainzonpulse.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/GainzOnPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/gainzonpulse"
+    }
+  ]
+}

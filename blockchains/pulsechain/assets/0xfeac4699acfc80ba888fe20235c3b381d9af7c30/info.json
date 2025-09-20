@@ -1,0 +1,33 @@
+{
+  "name": "WIN",
+  "website": "https://winwin.finance",
+  "description": "WIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFeAC4699AcFC80BA888FE20235c3B381d9af7C30",
+  "type": "ERC20",
+  "symbol": "WIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfeac4699acfc80ba888fe20235c3b381d9af7c30",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://winwin.finance"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.winwin.finance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/winwindefi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/winwindefi"
+    }
+  ]
+}

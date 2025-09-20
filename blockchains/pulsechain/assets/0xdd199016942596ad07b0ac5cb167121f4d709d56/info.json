@@ -1,0 +1,29 @@
+{
+  "name": "GameStop",
+  "website": "https://www.gmepulsechain.com/",
+  "description": "GameStop token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDd199016942596Ad07B0aC5Cb167121F4D709d56",
+  "type": "ERC20",
+  "symbol": "GME",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdd199016942596ad07b0ac5cb167121f4d709d56",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.gmepulsechain.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulseGameStop"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GameStopPulse"
+    }
+  ]
+}

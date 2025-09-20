@@ -1,0 +1,29 @@
+{
+  "name": "Groyper",
+  "website": "https://furieverse.co/",
+  "description": "Groyper token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3E856dD07E6E55C5b156c0ade156EcC18C7ef6b7",
+  "type": "ERC20",
+  "symbol": "GROYP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3e856dd07e6e55c5b156c0ade156ecc18c7ef6b7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://furieverse.co/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/furieverseco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/furieverse"
+    }
+  ]
+}

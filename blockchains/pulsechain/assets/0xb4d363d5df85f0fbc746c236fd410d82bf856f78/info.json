@@ -1,0 +1,16 @@
+{
+  "name": "Icosa from Ethereum",
+  "website": "",
+  "description": "Icosa from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb4d363D5dF85f0fBc746c236Fd410d82BF856f78",
+  "type": "ERC20",
+  "symbol": "ICSA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb4d363d5df85f0fbc746c236fd410d82bf856f78",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

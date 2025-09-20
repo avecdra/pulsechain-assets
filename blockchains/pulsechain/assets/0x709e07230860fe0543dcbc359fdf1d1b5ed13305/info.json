@@ -1,0 +1,25 @@
+{
+  "name": "MARS",
+  "website": "",
+  "description": "MARS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x709e07230860FE0543DCBC359Fdf1D1b5eD13305",
+  "type": "ERC20",
+  "symbol": "MARS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x709e07230860fe0543dcbc359fdf1d1b5ed13305",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/marspulse"
+    }
+  ]
+}

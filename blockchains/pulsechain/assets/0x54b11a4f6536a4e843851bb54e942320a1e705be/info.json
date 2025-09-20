@@ -1,0 +1,21 @@
+{
+  "name": "UnStable Dick Coin ",
+  "website": "",
+  "description": "UnStable Dick Coin  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x54b11a4f6536a4e843851bb54e942320a1e705be",
+  "type": "ERC20",
+  "symbol": "$USDC ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x54b11a4f6536a4e843851bb54e942320a1e705be",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/search?q=%24USDC\u0026src=typed_query"
+    }
+  ]
+}

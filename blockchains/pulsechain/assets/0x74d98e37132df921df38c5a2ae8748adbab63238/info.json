@@ -1,0 +1,33 @@
+{
+  "name": "ナナナ Banana Republic",
+  "website": "https://chiitan.club/",
+  "description": "ナナナ Banana Republic token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x74D98E37132dF921dF38c5A2Ae8748aDbab63238",
+  "type": "ERC20",
+  "symbol": "Nanana",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x74d98e37132df921df38c5a2ae8748adbab63238",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://chiitan.club/"
+    },
+    {
+      "name": "website",
+      "url": "https://dickwifbutt.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky?t=TdfEXcEMi6NDX17jzoPJZQ\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

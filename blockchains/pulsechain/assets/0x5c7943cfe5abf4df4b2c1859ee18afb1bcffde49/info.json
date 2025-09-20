@@ -1,0 +1,25 @@
+{
+  "name": "Entei エンテイ",
+  "website": "",
+  "description": "Entei エンテイ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5C7943cFe5abF4Df4b2c1859eE18AFb1BcFFdE49",
+  "type": "ERC20",
+  "symbol": "ENTEI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5c7943cfe5abf4df4b2c1859ee18afb1bcffde49",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/EnteiPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/EnteiPLS"
+    }
+  ]
+}

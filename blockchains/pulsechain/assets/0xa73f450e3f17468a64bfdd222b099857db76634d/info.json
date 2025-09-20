@@ -1,0 +1,16 @@
+{
+  "name": "LiquidHEX",
+  "website": "",
+  "description": "LiquidHEX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa73f450E3f17468A64BFdD222b099857Db76634d",
+  "type": "ERC20",
+  "symbol": "LHEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa73f450e3f17468a64bfdd222b099857db76634d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

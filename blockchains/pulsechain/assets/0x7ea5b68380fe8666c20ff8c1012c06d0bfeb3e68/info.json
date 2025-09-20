@@ -1,0 +1,16 @@
+{
+  "name": "SALAD FINGERS",
+  "website": "",
+  "description": "SALAD FINGERS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7eA5B68380fE8666C20ff8C1012C06d0BFeb3e68",
+  "type": "ERC20",
+  "symbol": "SALAD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7ea5b68380fe8666c20ff8c1012c06d0bfeb3e68",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

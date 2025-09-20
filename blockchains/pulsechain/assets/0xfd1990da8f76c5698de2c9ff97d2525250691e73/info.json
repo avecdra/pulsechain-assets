@@ -1,0 +1,25 @@
+{
+  "name": "Cosmic Pulse",
+  "website": "https://cosmiccoin.xyz/",
+  "description": "Cosmic Pulse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFd1990dA8F76c5698DE2C9FF97D2525250691e73",
+  "type": "ERC20",
+  "symbol": "COSPLS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfd1990da8f76c5698de2c9ff97d2525250691e73",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://cosmiccoin.xyz/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/cosmicpulsecoin"
+    }
+  ]
+}

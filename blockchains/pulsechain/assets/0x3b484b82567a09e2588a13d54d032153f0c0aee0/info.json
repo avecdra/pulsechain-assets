@@ -1,0 +1,16 @@
+{
+  "name": "SOS",
+  "website": "",
+  "description": "SOS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
+  "type": "ERC20",
+  "symbol": "SOS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "SIGNAL",
+  "website": "https://signal.secretinitiative.com/",
+  "description": "SIGNAL token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB1E49415720059b97F00426ba873E089271d1b7D",
+  "type": "ERC20",
+  "symbol": "UNSEEN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb1e49415720059b97f00426ba873e089271d1b7d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://signal.secretinitiative.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/UNSEENTOKENPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/secretresidents"
+    }
+  ]
+}

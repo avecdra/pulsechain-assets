@@ -1,0 +1,29 @@
+{
+  "name": "2 Cent Club",
+  "website": "https://2cent.club",
+  "description": "2 Cent Club token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6293373BF0DAE2050641973D49b7b2f71adC91a1",
+  "type": "ERC20",
+  "symbol": "2CC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6293373bf0dae2050641973d49b7b2f71adc91a1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://2cent.club"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/2CentClub"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TwoCentsClubAtropa"
+    }
+  ]
+}

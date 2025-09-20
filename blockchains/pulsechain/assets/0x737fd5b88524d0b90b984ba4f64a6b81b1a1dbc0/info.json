@@ -1,0 +1,29 @@
+{
+  "name": "USDPr",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "USDPr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x737Fd5b88524D0B90B984ba4F64A6b81B1A1Dbc0",
+  "type": "ERC20",
+  "symbol": "USDPr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x737fd5b88524d0b90b984ba4f64a6b81b1a1dbc0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

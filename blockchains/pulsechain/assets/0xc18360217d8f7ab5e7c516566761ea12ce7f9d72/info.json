@@ -1,0 +1,16 @@
+{
+  "name": "Ethereum Name Service",
+  "website": "",
+  "description": "Ethereum Name Service token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "type": "ERC20",
+  "symbol": "ENS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

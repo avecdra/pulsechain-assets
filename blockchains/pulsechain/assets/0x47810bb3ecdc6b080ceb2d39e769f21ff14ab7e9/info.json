@@ -1,0 +1,16 @@
+{
+  "name": "HEX Time Token 7000",
+  "website": "",
+  "description": "HEX Time Token 7000 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x47810bb3ECDc6b080CeB2d39E769F21Ff14AB7E9",
+  "type": "ERC20",
+  "symbol": "HTT-7000",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x47810bb3ecdc6b080ceb2d39e769f21ff14ab7e9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

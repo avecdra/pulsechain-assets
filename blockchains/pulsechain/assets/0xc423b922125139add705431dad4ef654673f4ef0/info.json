@@ -1,0 +1,29 @@
+{
+  "name": "Save The Manuals",
+  "website": "https://second-daily.myshopify.com/",
+  "description": "Save The Manuals token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC423B922125139aDD705431Dad4ef654673f4EF0",
+  "type": "ERC20",
+  "symbol": "STM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc423b922125139add705431dad4ef654673f4ef0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://second-daily.myshopify.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/SecondDailyLLC"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/seconddailystm"
+    }
+  ]
+}

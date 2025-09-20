@@ -1,0 +1,16 @@
+{
+  "name": "HEXIT Token",
+  "website": "",
+  "description": "HEXIT Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8d4D6aa8339dB0252dc92957544fe6931e0826Db",
+  "type": "ERC20",
+  "symbol": "HEXIT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8d4d6aa8339db0252dc92957544fe6931e0826db",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

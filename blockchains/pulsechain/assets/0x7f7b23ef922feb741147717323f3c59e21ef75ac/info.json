@@ -1,0 +1,25 @@
+{
+  "name": "BUTCH",
+  "website": "",
+  "description": "BUTCH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7f7B23ef922FeB741147717323F3c59E21eF75aC",
+  "type": "ERC20",
+  "symbol": "BUF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7f7b23ef922feb741147717323f3c59e21ef75ac",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/BUFBUTCH"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/bufbutch"
+    }
+  ]
+}

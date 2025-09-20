@@ -1,0 +1,15 @@
+{
+  "name": "Florida Fruit Rat",
+  "website": "",
+  "description": "Florida Fruit Rat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x14b02aff4b105d18c90472ef574acc58d9994d1d",
+  "type": "ERC20",
+  "symbol": "FRUIT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x14b02aff4b105d18c90472ef574acc58d9994d1d",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Maximus Decimus",
+  "website": "",
+  "description": "Maximus Decimus token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
+  "type": "ERC20",
+  "symbol": "DECI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6b32022693210cd2cfc466b9ac0085de8fc34ea6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

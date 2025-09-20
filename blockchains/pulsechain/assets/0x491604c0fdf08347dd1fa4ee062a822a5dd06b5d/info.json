@@ -1,0 +1,16 @@
+{
+  "name": "Cartesi Token",
+  "website": "",
+  "description": "Cartesi Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+  "type": "ERC20",
+  "symbol": "CTSI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

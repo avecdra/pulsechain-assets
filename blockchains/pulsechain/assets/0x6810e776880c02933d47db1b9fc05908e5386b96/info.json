@@ -1,0 +1,16 @@
+{
+  "name": "Gnosis Token",
+  "website": "",
+  "description": "Gnosis Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6810e776880C02933D47DB1b9fc05908e5386b96",
+  "type": "ERC20",
+  "symbol": "GNO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

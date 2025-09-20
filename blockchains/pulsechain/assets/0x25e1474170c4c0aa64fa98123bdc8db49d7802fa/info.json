@@ -1,0 +1,16 @@
+{
+  "name": "Bidao",
+  "website": "",
+  "description": "Bidao token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
+  "type": "ERC20",
+  "symbol": "BID",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PULSE LOTTO",
+  "website": "https://pulselotto.com/",
+  "description": "PULSE LOTTO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7774453F50187d65Ef39ca0b053ffFdD7b4EDA02",
+  "type": "ERC20",
+  "symbol": "LOTTO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7774453f50187d65ef39ca0b053fffdd7b4eda02",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselotto.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pulselotto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plslotto"
+    }
+  ]
+}

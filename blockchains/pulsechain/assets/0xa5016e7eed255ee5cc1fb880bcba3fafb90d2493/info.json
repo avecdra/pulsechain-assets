@@ -1,0 +1,29 @@
+{
+  "name": "Reptilian",
+  "website": "https://pulselorian.com/rep",
+  "description": "Reptilian token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA5016E7eED255Ee5CC1FB880bcba3FAfB90D2493",
+  "type": "ERC20",
+  "symbol": "REP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa5016e7eed255ee5cc1fb880bcba3fafb90d2493",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/rep"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ThePulseLorian"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ThePulselorian"
+    }
+  ]
+}

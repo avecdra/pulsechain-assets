@@ -1,0 +1,21 @@
+{
+  "name": "CHOOSE RICH",
+  "website": "",
+  "description": "CHOOSE RICH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x88970E6F210a25C27cfD24829eDd994CB44F51C7",
+  "type": "ERC20",
+  "symbol": "RICH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x88970e6f210a25c27cfd24829edd994cb44f51c7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/invertedspears?s=21"
+    }
+  ]
+}

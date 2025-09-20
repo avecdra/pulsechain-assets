@@ -1,0 +1,33 @@
+{
+  "name": "toospooky",
+  "website": "https://hexoacoin.com/",
+  "description": "toospooky token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4Aeb2D80f7A3d310072F0fCAf13B1E943B49b138",
+  "type": "ERC20",
+  "symbol": "SPKY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4aeb2d80f7a3d310072f0fcaf13b1e943b49b138",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hexoacoin.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://dickwifbutt.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky?t=wyV2xIg5rx6qMozKdNqPzA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

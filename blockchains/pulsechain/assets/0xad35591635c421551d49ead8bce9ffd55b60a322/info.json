@@ -1,0 +1,21 @@
+{
+  "name": "PROFIT",
+  "website": "",
+  "description": "PROFIT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xaD35591635c421551d49eAd8bCe9FFd55B60a322",
+  "type": "ERC20",
+  "symbol": "PRO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xad35591635c421551d49ead8bce9ffd55b60a322",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/PROFITonPLS"
+    }
+  ]
+}

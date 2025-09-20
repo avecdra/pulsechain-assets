@@ -1,0 +1,25 @@
+{
+  "name": "$table Coin",
+  "website": "",
+  "description": "$table Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD79EFD83A5109B3a01e9Ee140221ef1a3EbD1aa8",
+  "type": "ERC20",
+  "symbol": "TABLE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd79efd83a5109b3a01e9ee140221ef1a3ebd1aa8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/bigbraindefi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BigBrainAcademy"
+    }
+  ]
+}

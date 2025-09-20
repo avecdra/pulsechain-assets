@@ -1,0 +1,53 @@
+{
+  "name": "GillespieCoin",
+  "website": "https://gdaytoken.com/",
+  "description": "GillespieCoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3981920A82d95A117A8747eCF9A11e105Ca38B62",
+  "type": "ERC20",
+  "symbol": "GDAY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3981920a82d95a117a8747ecf9a11e105ca38b62",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gdaytoken.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.tiktok.com/@tomgillespieofficial"
+    },
+    {
+      "name": "website",
+      "url": "https://www.facebook.com/tom.gillespie.739326"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/channel/UCa0ItVSVbh1HEL9nqxTFdiA"
+    },
+    {
+      "name": "website",
+      "url": "https://www.instagram.com/tompetergillespie/"
+    },
+    {
+      "name": "website",
+      "url": "https://degendocumentary.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://bitjoinstudios.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/GdayGillespie"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Gday_GillespieCoin"
+    }
+  ]
+}

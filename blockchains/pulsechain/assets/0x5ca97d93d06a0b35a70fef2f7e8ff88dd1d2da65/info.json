@@ -1,0 +1,25 @@
+{
+  "name": "AMIRITE?",
+  "website": "https://pulsechain.com/",
+  "description": "AMIRITE? token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5ca97D93D06A0B35a70FEf2F7E8fF88dD1d2DA65",
+  "type": "ERC20",
+  "symbol": "ERECTION",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5ca97d93d06a0b35a70fef2f7e8ff88dd1d2da65",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsechain.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ErectionPLS"
+    }
+  ]
+}

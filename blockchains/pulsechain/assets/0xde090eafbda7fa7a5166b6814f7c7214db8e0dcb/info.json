@@ -1,0 +1,16 @@
+{
+  "name": "LEMON PARTY",
+  "website": "",
+  "description": "LEMON PARTY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDe090eafBda7Fa7A5166b6814f7c7214dB8E0DCB",
+  "type": "ERC20",
+  "symbol": "LEMON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde090eafbda7fa7a5166b6814f7c7214db8e0dcb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

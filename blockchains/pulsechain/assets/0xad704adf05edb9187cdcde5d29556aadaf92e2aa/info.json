@@ -1,0 +1,29 @@
+{
+  "name": "HexLP",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "HexLP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xAD704ADf05edB9187cdCDE5d29556aAdaf92e2AA",
+  "type": "ERC20",
+  "symbol": "HexLP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xad704adf05edb9187cdcde5d29556aadaf92e2aa",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

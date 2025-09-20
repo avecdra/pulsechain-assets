@@ -1,0 +1,25 @@
+{
+  "name": "MCAFEE",
+  "website": "",
+  "description": "MCAFEE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x83a7722b431062a39154201F331344dccFa678FB",
+  "type": "ERC20",
+  "symbol": "JOHN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x83a7722b431062a39154201f331344dccfa678fb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/JOHNonPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/JOHNonPulseChain"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ChainLink Token from Ethereum",
+  "website": "",
+  "description": "ChainLink Token from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1",
+  "type": "ERC20",
+  "symbol": "LINK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xee2d275dbb79c7871f8c6eb2a4d0687dd85409d1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

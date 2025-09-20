@@ -1,0 +1,16 @@
+{
+  "name": "Republic Token",
+  "website": "",
+  "description": "Republic Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x408e41876cCCDC0F92210600ef50372656052a38",
+  "type": "ERC20",
+  "symbol": "REN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x408e41876cccdc0f92210600ef50372656052a38",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

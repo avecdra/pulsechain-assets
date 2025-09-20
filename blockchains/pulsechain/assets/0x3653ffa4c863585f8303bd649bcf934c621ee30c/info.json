@@ -1,0 +1,33 @@
+{
+  "name": "KING POOIE",
+  "website": "https://trade.kingpooie.com/",
+  "description": "KING POOIE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3653FFa4c863585F8303BD649BcF934C621EE30C",
+  "type": "ERC20",
+  "symbol": "KING2",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3653ffa4c863585f8303bd649bcf934c621ee30c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://trade.kingpooie.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/kingqueenpooie"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KingPooie"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/hBw7pBZTnf"
+    }
+  ]
+}

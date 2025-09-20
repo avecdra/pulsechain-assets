@@ -1,0 +1,16 @@
+{
+  "name": "Pulse \u0026 Hex Investor Allocation Tools",
+  "website": "",
+  "description": "Pulse \u0026 Hex Investor Allocation Tools token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x96E035ae0905EFaC8F733f133462f971Cfa45dB1",
+  "type": "ERC20",
+  "symbol": "PHIAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x96e035ae0905efac8f733f133462f971cfa45db1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

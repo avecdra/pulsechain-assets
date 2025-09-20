@@ -1,0 +1,16 @@
+{
+  "name": "Incentive ",
+  "website": "",
+  "description": "Incentive  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4589c9772fAe741B3148aF488299D7A3b5efFccD",
+  "type": "ERC20",
+  "symbol": "INC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4589c9772fae741b3148af488299d7a3b5effccd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

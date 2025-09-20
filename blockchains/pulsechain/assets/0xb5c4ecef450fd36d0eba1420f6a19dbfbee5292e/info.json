@@ -1,0 +1,41 @@
+{
+  "name": "SuperStake: pHEX",
+  "website": "https://superstake.win",
+  "description": "SuperStake: pHEX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB5C4ecEF450fd36d0eBa1420F6A19DBfBeE5292e",
+  "type": "ERC20",
+  "symbol": "pSSH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb5c4ecef450fd36d0eba1420f6a19dbfbee5292e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://superstake.win"
+    },
+    {
+      "name": "website",
+      "url": "https://superstake.win/white-paper/#dearflip-df_529/1/"
+    },
+    {
+      "name": "website",
+      "url": "https://psshdashboard.vercel.app/dashboard"
+    },
+    {
+      "name": "website",
+      "url": "https://www.instagram.com/superstakewin"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/superstakewin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/superstakehex"
+    }
+  ]
+}

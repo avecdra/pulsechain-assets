@@ -1,0 +1,16 @@
+{
+  "name": "Bridged Stable Pool",
+  "website": "",
+  "description": "Bridged Stable Pool token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF96d60e9444f19Fe5126888BD53BdE80e58c2851",
+  "type": "ERC20",
+  "symbol": "Bridged Stable Pool",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf96d60e9444f19fe5126888bd53bde80e58c2851",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mall Cops Unite",
+  "website": "",
+  "description": "Mall Cops Unite token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x97E2BBD2A8EB2b8fe120B77b4849419e448562B9",
+  "type": "ERC20",
+  "symbol": "MCOP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x97e2bbd2a8eb2b8fe120b77b4849419e448562b9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

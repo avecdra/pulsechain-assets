@@ -1,0 +1,16 @@
+{
+  "name": "Gala",
+  "website": "",
+  "description": "Gala token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+  "type": "ERC20",
+  "symbol": "GALA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

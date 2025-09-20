@@ -1,0 +1,25 @@
+{
+  "name": "STU",
+  "website": "",
+  "description": "STU token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xED507a390F53f30cD6A0b995885AAAfFF3d9174e",
+  "type": "ERC20",
+  "symbol": "STU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xed507a390f53f30cd6a0b995885aaafff3d9174e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Disco_Stu414"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Disco_Stu414"
+    }
+  ]
+}

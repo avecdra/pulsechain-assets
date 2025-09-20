@@ -1,0 +1,16 @@
+{
+  "name": "Hocus Pocus Finance",
+  "website": "",
+  "description": "Hocus Pocus Finance token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd22E78C22D7E77229d60cc9fC57b0E294F54488E",
+  "type": "ERC20",
+  "symbol": "HOC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd22e78c22d7e77229d60cc9fc57b0e294f54488e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

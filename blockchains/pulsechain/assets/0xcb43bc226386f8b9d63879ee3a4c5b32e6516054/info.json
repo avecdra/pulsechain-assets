@@ -1,0 +1,29 @@
+{
+  "name": "GIGA CHAD",
+  "website": "https://gigachad.work/",
+  "description": "GIGA CHAD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCB43bc226386f8b9d63879ee3A4C5b32E6516054",
+  "type": "ERC20",
+  "symbol": "CHAD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcb43bc226386f8b9d63879ee3a4c5b32e6516054",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gigachad.work/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/GIGACHAD_PLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/gigachadpulse"
+    }
+  ]
+}

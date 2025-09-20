@@ -1,0 +1,29 @@
+{
+  "name": "UR FREN",
+  "website": "https://www.stdpros.com/",
+  "description": "UR FREN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA6D07Ee81F3386Bc8E2A63eB38CF96186cC7c6eB",
+  "type": "ERC20",
+  "symbol": "FREN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa6d07ee81f3386bc8e2a63eb38cf96186cc7c6eb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.stdpros.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/way_patriots"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DMTonPulsechain"
+    }
+  ]
+}

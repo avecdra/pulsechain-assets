@@ -1,0 +1,25 @@
+{
+  "name": "PulseLN",
+  "website": "https://pump.tires/token/0xEec698D744c6D695690985000f08870574D139b9",
+  "description": "PulseLN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEec698D744c6D695690985000f08870574D139b9",
+  "type": "ERC20",
+  "symbol": "PLN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeec698d744c6d695690985000f08870574d139b9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xEec698D744c6D695690985000f08870574D139b9"
+    },
+    {
+      "name": "website",
+      "url": "https://pump.tires/how-it-works"
+    }
+  ]
+}

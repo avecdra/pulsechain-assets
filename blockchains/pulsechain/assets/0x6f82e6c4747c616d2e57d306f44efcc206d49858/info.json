@@ -1,0 +1,21 @@
+{
+  "name": "Eli Porter",
+  "website": "https://www.youtube.com/watch?v=tKKxPtP6XjQ",
+  "description": "Eli Porter token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6f82e6c4747c616d2e57D306f44EFCc206D49858",
+  "type": "ERC20",
+  "symbol": "ELI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6f82e6c4747c616d2e57d306f44efcc206d49858",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/watch?v=tKKxPtP6XjQ"
+    }
+  ]
+}

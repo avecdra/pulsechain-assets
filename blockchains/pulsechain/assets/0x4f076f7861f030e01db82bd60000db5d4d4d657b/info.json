@@ -1,0 +1,33 @@
+{
+  "name": "💀DeaDY BeaR🐻",
+  "website": "https://DeaDYBeaR.rip",
+  "description": "💀DeaDY BeaR🐻 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4F076f7861f030e01db82bD60000db5d4D4D657B",
+  "type": "ERC20",
+  "symbol": "DE🐻DY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4f076f7861f030e01db82bd60000db5d4d4d657b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://DeaDYBeaR.rip"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DeadyBear_rip"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DeaDYBeaR_rip"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/ERmheukwua"
+    }
+  ]
+}

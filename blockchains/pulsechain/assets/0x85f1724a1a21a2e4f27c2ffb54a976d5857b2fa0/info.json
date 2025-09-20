@@ -1,0 +1,29 @@
+{
+  "name": "The Enigma",
+  "website": "https://mine.rentomania.online",
+  "description": "The Enigma token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x85F1724A1a21a2e4F27C2ffb54a976D5857b2FA0",
+  "type": "ERC20",
+  "symbol": "ENIGMA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x85f1724a1a21a2e4f27c2ffb54a976d5857b2fa0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://mine.rentomania.online"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RentomaniaGame"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RentomaniaChat"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Green Wick",
+  "website": "",
+  "description": "Green Wick token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8CDaf3d630Da9E1450832924D5701CC0500E9cfC",
+  "type": "ERC20",
+  "symbol": "WICK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8cdaf3d630da9e1450832924d5701cc0500e9cfc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/mr_green_wick?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/JKpepeverse"
+    }
+  ]
+}

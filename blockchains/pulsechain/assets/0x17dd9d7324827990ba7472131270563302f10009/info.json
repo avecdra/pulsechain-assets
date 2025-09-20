@@ -1,0 +1,21 @@
+{
+  "name": "The Humpback Holders Club",
+  "website": "",
+  "description": "The Humpback Holders Club token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x17dD9d7324827990ba7472131270563302F10009",
+  "type": "ERC20",
+  "symbol": "HOLD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x17dd9d7324827990ba7472131270563302f10009",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Humpback_Holder?t=w8bLepqTv8fP9mClr5cxsw\u0026s=09"
+    }
+  ]
+}

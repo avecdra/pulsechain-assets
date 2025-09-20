@@ -1,0 +1,25 @@
+{
+  "name": "INFINITY FINANCE ",
+  "website": "",
+  "description": "INFINITY FINANCE  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x71E43b94EC663755B58B0DcA11c7a9B69432d5e0",
+  "type": "ERC20",
+  "symbol": "INFINITY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x71e43b94ec663755b58b0dca11c7a9b69432d5e0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/MrDarkHorsePls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DarkOnPulse"
+    }
+  ]
+}

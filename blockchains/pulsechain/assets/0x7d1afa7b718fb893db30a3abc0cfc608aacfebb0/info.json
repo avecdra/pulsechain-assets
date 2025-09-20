@@ -1,0 +1,16 @@
+{
+  "name": "Matic Token",
+  "website": "",
+  "description": "Matic Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+  "type": "ERC20",
+  "symbol": "MATIC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

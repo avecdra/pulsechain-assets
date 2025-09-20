@@ -1,0 +1,16 @@
+{
+  "name": "TETRA",
+  "website": "",
+  "description": "TETRA token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xAeC4C07537B03E3E62fc066EC62401Aed5Fdd361",
+  "type": "ERC20",
+  "symbol": "TETRAp",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xaec4c07537b03e3e62fc066ec62401aed5fdd361",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

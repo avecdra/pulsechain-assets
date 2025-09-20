@@ -1,0 +1,37 @@
+{
+  "name": "Molerat",
+  "website": "https://hexoacoin.com/",
+  "description": "Molerat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x887326E8E567aE8E8dd49aCDd0aAE967A3B6DE51",
+  "type": "ERC20",
+  "symbol": "RAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x887326e8e567ae8e8dd49acdd0aae967a3b6de51",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hexoacoin.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://dickwifbutt.com"
+    },
+    {
+      "name": "website",
+      "url": "https://linktr.ee/tanggang"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky?t=QgecRdL3qUYZ4BlLSXz19A\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

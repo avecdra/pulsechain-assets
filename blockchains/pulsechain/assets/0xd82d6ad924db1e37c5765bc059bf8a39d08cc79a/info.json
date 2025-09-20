@@ -1,0 +1,21 @@
+{
+  "name": "SEC Case Dismissed",
+  "website": "",
+  "description": "SEC Case Dismissed token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD82d6ad924Db1E37C5765bC059bf8A39d08cC79A",
+  "type": "ERC20",
+  "symbol": "SEC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd82d6ad924db1e37c5765bc059bf8a39d08cc79a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/SECCaseDismissed"
+    }
+  ]
+}

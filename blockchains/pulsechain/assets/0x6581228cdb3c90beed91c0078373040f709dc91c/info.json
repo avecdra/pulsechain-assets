@@ -1,0 +1,25 @@
+{
+  "name": "Young Most Wanted",
+  "website": "https://cointelegraph.com/news/hex-founder-richard-heart-interpol-wanted-list-red-notice",
+  "description": "Young Most Wanted token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6581228CDB3c90BeED91c0078373040f709dc91C",
+  "type": "ERC20",
+  "symbol": "YMW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6581228cdb3c90beed91c0078373040f709dc91c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://cointelegraph.com/news/hex-founder-richard-heart-interpol-wanted-list-red-notice"
+    },
+    {
+      "name": "website",
+      "url": "https://www.interpol.int/en/How-we-work/Notices/Red-Notices/View-Red-Notices#2024-65212"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mona-Lisa Ω",
+  "website": "",
+  "description": "Mona-Lisa Ω token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x03dBe411E19436FE79Ce79DFf09B3E5f7F64644f",
+  "type": "ERC20",
+  "symbol": "Moony",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03dbe411e19436fe79ce79dff09b3e5f7f64644f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

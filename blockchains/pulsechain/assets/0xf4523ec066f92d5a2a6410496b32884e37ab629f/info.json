@@ -1,0 +1,21 @@
+{
+  "name": "Quattro Rico",
+  "website": "https://www.rochelleprivateequity.com/",
+  "description": "Quattro Rico token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xf4523Ec066F92d5A2A6410496B32884E37aB629f",
+  "type": "ERC20",
+  "symbol": "QR4",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf4523ec066f92d5a2a6410496b32884e37ab629f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.rochelleprivateequity.com/"
+    }
+  ]
+}

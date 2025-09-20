@@ -1,0 +1,15 @@
+{
+  "name": "PAPER",
+  "website": "",
+  "description": "PAPER token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x18f0cf904adaeac2e6bfe573d61f51d4699de72d",
+  "type": "ERC20",
+  "symbol": "PAPER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x18f0cf904adaeac2e6bfe573d61f51d4699de72d",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

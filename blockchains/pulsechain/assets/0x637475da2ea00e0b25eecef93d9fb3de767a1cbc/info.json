@@ -1,0 +1,21 @@
+{
+  "name": "Firefly",
+  "website": "",
+  "description": "Firefly token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x637475dA2Ea00E0B25EEceF93d9fB3de767a1CBc",
+  "type": "ERC20",
+  "symbol": "Fly",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x637475da2ea00e0b25eecef93d9fb3de767a1cbc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/Flyer_Fi"
+    }
+  ]
+}

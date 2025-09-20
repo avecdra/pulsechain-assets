@@ -1,0 +1,21 @@
+{
+  "name": "VETERANS",
+  "website": "",
+  "description": "VETERANS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4013abBf94A745EfA7cc848989Ee83424A770060",
+  "type": "ERC20",
+  "symbol": "VETS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4013abbf94a745efa7cc848989ee83424a770060",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/VETSINKRYPTO1"
+    }
+  ]
+}

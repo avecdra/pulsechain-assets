@@ -1,0 +1,16 @@
+{
+  "name": "StorjToken",
+  "website": "",
+  "description": "StorjToken token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+  "type": "ERC20",
+  "symbol": "STORJ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

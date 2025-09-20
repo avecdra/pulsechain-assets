@@ -1,0 +1,29 @@
+{
+  "name": "Every KING needs a CROWN",
+  "website": "https://www.alienking.tech",
+  "description": "Every KING needs a CROWN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x91eeE7342955f5866140DA1FAa50AF1990F381Bc",
+  "type": "ERC20",
+  "symbol": "CROWN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x91eee7342955f5866140da1faa50af1990f381bc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.alienking.tech"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/AliEnKinG369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseChainAlien"
+    }
+  ]
+}

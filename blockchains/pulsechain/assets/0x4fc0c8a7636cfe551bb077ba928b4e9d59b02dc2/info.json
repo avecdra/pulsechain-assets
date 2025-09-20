@@ -1,0 +1,16 @@
+{
+  "name": "6 Tons of Digital Gold",
+  "website": "",
+  "description": "6 Tons of Digital Gold token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4FC0C8a7636cfE551bb077BA928b4E9d59b02DC2",
+  "type": "ERC20",
+  "symbol": "GOLD 6T",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4fc0c8a7636cfe551bb077ba928b4e9d59b02dc2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

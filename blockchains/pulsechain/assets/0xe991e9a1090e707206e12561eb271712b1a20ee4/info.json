@@ -1,0 +1,33 @@
+{
+  "name": "WINGS",
+  "website": "https://icaruscoin.io",
+  "description": "WINGS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe991E9A1090E707206e12561eB271712B1A20Ee4",
+  "type": "ERC20",
+  "symbol": "WINGS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe991e9a1090e707206e12561eb271712b1a20ee4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://icaruscoin.io"
+    },
+    {
+      "name": "website",
+      "url": "https://repo.sourcify.dev/contracts/partial_match/369/0xe991E9A1090E707206e12561eB271712B1A20Ee4/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/IcarusPRC20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/icarusprc20"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "plsXmas",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "plsXmas token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x708130C48511942B1488118BBDF5Ca68f0b5C6fe",
+  "type": "ERC20",
+  "symbol": "PLSXm",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x708130c48511942b1488118bbdf5ca68f0b5c6fe",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plsXmas"
+    }
+  ]
+}

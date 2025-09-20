@@ -1,0 +1,33 @@
+{
+  "name": "Janus",
+  "website": "https://app.helios.win/janus",
+  "description": "Janus token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd5A96B6ACa28302CF1B0F860673851705D25667e",
+  "type": "ERC20",
+  "symbol": "JNS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd5a96b6aca28302cf1b0f860673851705d25667e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.helios.win/janus"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.helios-hlx.win/helios/additional-projects/janus"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Helios_HLX"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Helios_HLX"
+    }
+  ]
+}

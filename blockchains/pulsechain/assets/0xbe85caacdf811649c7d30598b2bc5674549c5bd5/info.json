@@ -1,0 +1,33 @@
+{
+  "name": "mBNB",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "mBNB token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBe85cAAcDF811649C7d30598B2bc5674549c5BD5",
+  "type": "ERC20",
+  "symbol": "mBNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbe85caacdf811649c7d30598b2bc5674549c5bd5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MiniEthLaB"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MiniEthLab"
+    }
+  ]
+}

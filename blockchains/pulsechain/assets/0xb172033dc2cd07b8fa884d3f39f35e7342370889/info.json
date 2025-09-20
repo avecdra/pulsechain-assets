@@ -1,0 +1,15 @@
+{
+  "name": "PulseChainBubbles",
+  "website": "",
+  "description": "PulseChainBubbles token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb172033dc2cd07b8fa884d3f39f35e7342370889",
+  "type": "ERC20",
+  "symbol": "PCB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb172033dc2cd07b8fa884d3f39f35e7342370889",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

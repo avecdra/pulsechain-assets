@@ -1,0 +1,33 @@
+{
+  "name": "CRO",
+  "website": "https://cronos-pos.org/",
+  "description": "CRO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+  "type": "ERC20",
+  "symbol": "CRO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://cronos-pos.org/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/cronos_chain"
+    },
+    {
+      "name": "telegram",
+      "url": "https://telegram.me/Cronos_POS_Announcements"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/cronos"
+    }
+  ]
+}

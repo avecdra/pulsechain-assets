@@ -1,0 +1,15 @@
+{
+  "name": "pls.farm",
+  "website": "",
+  "description": "pls.farm token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x90732c0abc7b44f6e00c4cc90d29293d1dd01d8b",
+  "type": "ERC20",
+  "symbol": "COWTIP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x90732c0abc7b44f6e00c4cc90d29293d1dd01d8b",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

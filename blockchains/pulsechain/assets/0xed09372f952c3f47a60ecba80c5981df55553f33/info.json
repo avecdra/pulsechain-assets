@@ -1,0 +1,25 @@
+{
+  "name": "Zapdos",
+  "website": "",
+  "description": "Zapdos token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEd09372F952c3f47a60EcBa80C5981Df55553f33",
+  "type": "ERC20",
+  "symbol": "ZAP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xed09372f952c3f47a60ecba80c5981df55553f33",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/ZapdosFan"
+    },
+    {
+      "name": "telegram",
+      "url": "http://t.me/ZapdosPLS"
+    }
+  ]
+}

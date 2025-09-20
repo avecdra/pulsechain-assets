@@ -1,0 +1,25 @@
+{
+  "name": "Bitconnect",
+  "website": "",
+  "description": "Bitconnect token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3839c7bFEE292a8Cd17C1d1B741F3886024663DA",
+  "type": "ERC20",
+  "symbol": "BCC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3839c7bfee292a8cd17c1d1b741f3886024663da",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/TrVon"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+toGyRYIriScyNTMx"
+    }
+  ]
+}

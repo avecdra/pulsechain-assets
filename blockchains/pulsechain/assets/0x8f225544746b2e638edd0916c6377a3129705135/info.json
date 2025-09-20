@@ -1,0 +1,15 @@
+{
+  "name": "PulseChain Police",
+  "website": "",
+  "description": "PulseChain Police token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8f225544746b2e638edd0916c6377a3129705135",
+  "type": "ERC20",
+  "symbol": "PCP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8f225544746b2e638edd0916c6377a3129705135",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

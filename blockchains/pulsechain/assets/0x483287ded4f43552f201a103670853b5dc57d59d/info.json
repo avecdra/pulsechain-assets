@@ -1,0 +1,29 @@
+{
+  "name": "The CVRE Token",
+  "website": "https://www.cvrecrypto.com",
+  "description": "The CVRE Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x483287DEd4F43552f201a103670853b5dc57D59d",
+  "type": "ERC20",
+  "symbol": "CVRE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x483287ded4f43552f201a103670853b5dc57d59d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.cvrecrypto.com"
+    },
+    {
+      "name": "website",
+      "url": "https://drive.google.com/file/d/1DUIkY0dZGQBaSpqIVSrCGV702rIJabe-/view?usp=drivesdk"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/cvretoken?s=21\u0026t=SEaI14u9Ii35brC1GkyWIA"
+    }
+  ]
+}

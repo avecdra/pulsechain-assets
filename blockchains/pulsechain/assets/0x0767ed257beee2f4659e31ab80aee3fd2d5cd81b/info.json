@@ -1,0 +1,29 @@
+{
+  "name": "Hammer Time",
+  "website": "https://atropaeco.vercel.app/",
+  "description": "Hammer Time token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0767ed257BeEE2F4659e31Ab80AEE3FD2D5Cd81b",
+  "type": "ERC20",
+  "symbol": "DISCOVERY™",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0767ed257beee2f4659e31ab80aee3fd2d5cd81b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://atropaeco.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/discovery414"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DISCOVERY_414"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TSFi",
+  "website": "",
+  "description": "TSFi token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4243568Fa2bbad327ee36e06c16824cAd8B37819",
+  "type": "ERC20",
+  "symbol": "TSFi",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4243568fa2bbad327ee36e06c16824cad8b37819",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

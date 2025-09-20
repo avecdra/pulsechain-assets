@@ -1,0 +1,16 @@
+{
+  "name": "Lattice Token",
+  "website": "",
+  "description": "Lattice Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa393473d64d2F9F026B60b6Df7859A689715d092",
+  "type": "ERC20",
+  "symbol": "LTX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

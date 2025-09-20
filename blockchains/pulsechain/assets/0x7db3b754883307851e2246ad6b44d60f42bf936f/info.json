@@ -1,0 +1,16 @@
+{
+  "name": "INT3RC3PTOR",
+  "website": "",
+  "description": "INT3RC3PTOR token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7dB3b754883307851e2246Ad6B44D60f42Bf936F",
+  "type": "ERC20",
+  "symbol": "INTR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7db3b754883307851e2246ad6b44d60f42bf936f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

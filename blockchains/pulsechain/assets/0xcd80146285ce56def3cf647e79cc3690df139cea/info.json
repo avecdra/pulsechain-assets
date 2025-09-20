@@ -1,0 +1,33 @@
+{
+  "name": "BtcLP",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "BtcLP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCd80146285Ce56dEf3Cf647e79cC3690dF139CeA",
+  "type": "ERC20",
+  "symbol": "BtcLP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcd80146285ce56def3cf647e79cc3690df139cea",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

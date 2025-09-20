@@ -1,0 +1,33 @@
+{
+  "name": "Rick Ross Pear of Salamanca LOLWUT",
+  "website": "https://hexoacoin.com/",
+  "description": "Rick Ross Pear of Salamanca LOLWUT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA5beB85e5F82419Ab6BD0C13f6C3F66bb95C79DA",
+  "type": "ERC20",
+  "symbol": "PEAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa5beb85e5f82419ab6bd0c13f6c3f66bb95c79da",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hexoacoin.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://dickwifbutt.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky?t=ueojwcXzJHJlvBf35Se0WQ\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

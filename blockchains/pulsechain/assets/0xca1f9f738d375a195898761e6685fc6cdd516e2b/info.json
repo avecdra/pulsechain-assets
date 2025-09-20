@@ -1,0 +1,16 @@
+{
+  "name": "Pulse OG",
+  "website": "",
+  "description": "Pulse OG token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCa1f9F738d375a195898761e6685fC6CDd516e2b",
+  "type": "ERC20",
+  "symbol": "POG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xca1f9f738d375a195898761e6685fc6cdd516e2b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

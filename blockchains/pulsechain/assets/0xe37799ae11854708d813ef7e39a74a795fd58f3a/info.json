@@ -1,0 +1,29 @@
+{
+  "name": "42 Keys",
+  "website": "https://daytona.finance/",
+  "description": "42 Keys token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe37799aE11854708D813Ef7E39a74A795fD58f3A",
+  "type": "ERC20",
+  "symbol": "YAYO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe37799ae11854708d813ef7e39a74a795fd58f3a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://daytona.finance/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/DaytonaFinance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/daytona_finance"
+    }
+  ]
+}

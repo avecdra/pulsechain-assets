@@ -1,0 +1,29 @@
+{
+  "name": "Giga Cock",
+  "website": "https://gigacock.xyz",
+  "description": "Giga Cock token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x14aED785b3F951Eb5aC98250E8f4f530A2F83177",
+  "type": "ERC20",
+  "symbol": "GIGACOCK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x14aed785b3f951eb5ac98250e8f4f530a2f83177",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gigacock.xyz"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/gigacock25464"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/gigacock_cto"
+    }
+  ]
+}

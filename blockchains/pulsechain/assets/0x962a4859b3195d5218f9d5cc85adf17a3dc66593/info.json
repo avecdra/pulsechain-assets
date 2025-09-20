@@ -1,0 +1,16 @@
+{
+  "name": "Peel Ⅱ Peel Cash",
+  "website": "",
+  "description": "Peel Ⅱ Peel Cash token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x962A4859B3195D5218f9D5cC85adF17a3DC66593",
+  "type": "ERC20",
+  "symbol": "PⅡP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x962a4859b3195d5218f9d5cc85adf17a3dc66593",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

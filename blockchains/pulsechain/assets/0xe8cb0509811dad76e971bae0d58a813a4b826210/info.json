@@ -1,0 +1,16 @@
+{
+  "name": "PulseDogElon",
+  "website": "",
+  "description": "PulseDogElon token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe8CB0509811dAd76e971bAe0D58a813A4B826210",
+  "type": "ERC20",
+  "symbol": "PELON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe8cb0509811dad76e971bae0d58a813a4b826210",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

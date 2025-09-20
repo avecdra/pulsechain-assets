@@ -1,0 +1,29 @@
+{
+  "name": "KUMAMON",
+  "website": "https://kumamon.club",
+  "description": "KUMAMON token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4eF90d0a9b107DFf6E916102C4DaF3d0A564b577",
+  "type": "ERC20",
+  "symbol": "KUMAMON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4ef90d0a9b107dff6e916102c4daf3d0a564b577",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://kumamon.club"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/KumamonOnPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KumamonOnPLS"
+    }
+  ]
+}

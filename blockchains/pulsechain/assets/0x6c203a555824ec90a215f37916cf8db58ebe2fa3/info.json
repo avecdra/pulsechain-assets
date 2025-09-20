@@ -1,0 +1,29 @@
+{
+  "name": "INC Printer",
+  "website": "https://incprinter.com",
+  "description": "INC Printer token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6C203A555824ec90a215f37916cf8Db58EBe2fA3",
+  "type": "ERC20",
+  "symbol": "PRINT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6c203a555824ec90a215f37916cf8db58ebe2fa3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://incprinter.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/FastAbdoul"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/INCPrinterChat"
+    }
+  ]
+}

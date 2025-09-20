@@ -1,0 +1,29 @@
+{
+  "name": "PYX INDEX",
+  "website": "https://www.pyxindex.com",
+  "description": "PYX INDEX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3A5382530335e86B9bb9795AEAF8eD8De27c0531",
+  "type": "ERC20",
+  "symbol": "PYX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3a5382530335e86b9bb9795aeaf8ed8de27c0531",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pyxindex.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PYXINDEX"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PYXPORTAL"
+    }
+  ]
+}

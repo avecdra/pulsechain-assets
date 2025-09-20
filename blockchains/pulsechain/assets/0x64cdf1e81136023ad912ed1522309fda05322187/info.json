@@ -1,0 +1,15 @@
+{
+  "name": "Bird Dog",
+  "website": "",
+  "description": "Bird Dog token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x64cdf1e81136023ad912ed1522309fda05322187",
+  "type": "ERC20",
+  "symbol": "BDOG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x64cdf1e81136023ad912ed1522309fda05322187",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

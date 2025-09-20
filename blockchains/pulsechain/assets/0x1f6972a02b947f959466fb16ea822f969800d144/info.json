@@ -1,0 +1,15 @@
+{
+  "name": "The Bannatyne Club",
+  "website": "",
+  "description": "The Bannatyne Club token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1f6972a02b947f959466fb16ea822f969800d144",
+  "type": "ERC20",
+  "symbol": "PETIT CRUS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1f6972a02b947f959466fb16ea822f969800d144",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

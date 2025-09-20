@@ -1,0 +1,25 @@
+{
+  "name": "LQTY",
+  "website": "https://gopulse.com/token/0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+  "description": "LQTY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+  "type": "ERC20",
+  "symbol": "LQTY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gopulse.com/token/0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseLQTY"
+    }
+  ]
+}

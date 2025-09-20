@@ -1,0 +1,15 @@
+{
+  "name": "FUCK BROOTS",
+  "website": "",
+  "description": "FUCK BROOTS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3b5a5e2f98744b78b447960f7e8e08fbf5a16ce2",
+  "type": "ERC20",
+  "symbol": "FUCKU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3b5a5e2f98744b78b447960f7e8e08fbf5a16ce2",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

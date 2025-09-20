@@ -1,0 +1,16 @@
+{
+  "name": "MatiAllin",
+  "website": "",
+  "description": "MatiAllin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC697E0bB8ac6D1CFd928bca3E43CC64e2190e828",
+  "type": "ERC20",
+  "symbol": "MATI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc697e0bb8ac6d1cfd928bca3e43cc64e2190e828",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

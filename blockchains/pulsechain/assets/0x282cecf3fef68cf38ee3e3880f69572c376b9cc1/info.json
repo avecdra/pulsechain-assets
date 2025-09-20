@@ -1,0 +1,29 @@
+{
+  "name": "USDCr",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "USDCr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x282Cecf3FeF68cf38eE3e3880F69572C376b9Cc1",
+  "type": "ERC20",
+  "symbol": "USDCr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x282cecf3fef68cf38ee3e3880f69572c376b9cc1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

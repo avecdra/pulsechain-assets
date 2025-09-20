@@ -1,0 +1,29 @@
+{
+  "name": "Peanut Brain Unification Token",
+  "website": "https://pnutbut.com",
+  "description": "Peanut Brain Unification Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD9e265B409BD8eb924cc97A0aA8C29765cf9E581",
+  "type": "ERC20",
+  "symbol": "$PNUTBUT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd9e265b409bd8eb924cc97a0aa8c29765cf9e581",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pnutbut.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/P_NUT_BUT"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/peanutbrainunificationtoken"
+    }
+  ]
+}

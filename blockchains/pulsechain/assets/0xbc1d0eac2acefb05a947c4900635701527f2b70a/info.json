@@ -1,0 +1,29 @@
+{
+  "name": "pFLANNY",
+  "website": "https://getpflanny.com",
+  "description": "pFLANNY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBC1D0EaC2acEfB05A947c4900635701527F2B70a",
+  "type": "ERC20",
+  "symbol": "PFLAN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbc1d0eac2acefb05a947c4900635701527f2b70a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://getpflanny.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pFLANNY_?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pflannyTG"
+    }
+  ]
+}

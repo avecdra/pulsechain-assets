@@ -1,0 +1,25 @@
+{
+  "name": "Extractor",
+  "website": "https://dex.9mm.pro/swap?chain=pulsechain\u0026inputCurrency=0xB6a3Af5d5198E19ABf5EaBa0fa074C881fdC970A",
+  "description": "Extractor token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB6a3Af5d5198E19ABf5EaBa0fa074C881fdC970A",
+  "type": "ERC20",
+  "symbol": "Extractor",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb6a3af5d5198e19abf5eaba0fa074c881fdc970a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dex.9mm.pro/swap?chain=pulsechain\u0026inputCurrency=0xB6a3Af5d5198E19ABf5EaBa0fa074C881fdC970A"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/richardheartwin/status/1904938733218275382?s=46\u0026t=gK01uKWVN64u5gKae7wPIw"
+    }
+  ]
+}

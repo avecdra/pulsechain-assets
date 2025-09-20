@@ -1,0 +1,15 @@
+{
+  "name": "PULSE CATDOG TOKEN",
+  "website": "",
+  "description": "PULSE CATDOG TOKEN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7c9480e1eb6b0a6f2ab39a396723fc47b8d5b52a",
+  "type": "ERC20",
+  "symbol": "PCDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7c9480e1eb6b0a6f2ab39a396723fc47b8d5b52a",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Blastoise カメックス",
+  "website": "",
+  "description": "Blastoise カメックス token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x31A4ffe71bFEADBDa769d4a3E03Bf4aE5c28EE31",
+  "type": "ERC20",
+  "symbol": "Blastoise",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x31a4ffe71bfeadbda769d4a3e03bf4ae5c28ee31",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/BigBrainAcademy"
+    }
+  ]
+}

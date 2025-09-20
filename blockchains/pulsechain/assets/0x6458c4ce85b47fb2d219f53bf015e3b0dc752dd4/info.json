@@ -1,0 +1,29 @@
+{
+  "name": "Pulse Stomp",
+  "website": "https://pulsestomp.win",
+  "description": "Pulse Stomp token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6458c4ce85b47fB2D219F53bF015e3b0Dc752Dd4",
+  "type": "ERC20",
+  "symbol": "STOMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6458c4ce85b47fb2d219f53bf015e3b0dc752dd4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsestomp.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/StompOnPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseStomp"
+    }
+  ]
+}

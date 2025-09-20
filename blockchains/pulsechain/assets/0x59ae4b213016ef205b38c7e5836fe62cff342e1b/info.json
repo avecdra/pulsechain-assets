@@ -1,0 +1,15 @@
+{
+  "name": "SteamBoat Shilly",
+  "website": "",
+  "description": "SteamBoat Shilly token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x59ae4b213016ef205b38c7e5836fe62cff342e1b",
+  "type": "ERC20",
+  "symbol": "STEAM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x59ae4b213016ef205b38c7e5836fe62cff342e1b",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

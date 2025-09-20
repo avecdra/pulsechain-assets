@@ -1,0 +1,16 @@
+{
+  "name": "Quetzal-Coatl",
+  "website": "",
+  "description": "Quetzal-Coatl token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xacd0108FA393982d9098Bb5e2C723EaF327994e0",
+  "type": "ERC20",
+  "symbol": "Amaruca",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xacd0108fa393982d9098bb5e2c723eaf327994e0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

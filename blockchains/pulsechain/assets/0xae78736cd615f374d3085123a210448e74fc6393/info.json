@@ -1,0 +1,25 @@
+{
+  "name": "Rocket Pool ETH",
+  "website": "https://pulsechainreth.com/",
+  "description": "Rocket Pool ETH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xae78736Cd615f374D3085123A210448E74Fc6393",
+  "type": "ERC20",
+  "symbol": "rETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xae78736cd615f374d3085123a210448e74fc6393",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsechainreth.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/prc20rETH"
+    }
+  ]
+}

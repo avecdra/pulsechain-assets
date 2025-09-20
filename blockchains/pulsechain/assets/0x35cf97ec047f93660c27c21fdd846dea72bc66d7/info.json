@@ -1,0 +1,29 @@
+{
+  "name": "XRP",
+  "website": "https://ripple.com/xrp/",
+  "description": "XRP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x35Cf97eC047F93660C27c21FdD846dEa72bc66D7",
+  "type": "ERC20",
+  "symbol": "XRP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x35cf97ec047f93660c27c21fdd846dea72bc66d7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://ripple.com/xrp/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mostwantedpls"
+    }
+  ]
+}

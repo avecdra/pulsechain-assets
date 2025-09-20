@@ -1,0 +1,21 @@
+{
+  "name": "CTO",
+  "website": "",
+  "description": "CTO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x018eDECc388650C1Af0441907e49fE2c75cdbABD",
+  "type": "ERC20",
+  "symbol": "ETH TAKEOVER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x018edecc388650c1af0441907e49fe2c75cdbabd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/ETH_TAKEOVER"
+    }
+  ]
+}

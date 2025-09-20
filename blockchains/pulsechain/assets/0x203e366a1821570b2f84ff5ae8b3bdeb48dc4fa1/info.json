@@ -1,0 +1,16 @@
+{
+  "name": "CROWS ㉫",
+  "website": "",
+  "description": "CROWS ㉫ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x203e366A1821570b2f84Ff5ae8B3BdeB48Dc4fa1",
+  "type": "ERC20",
+  "symbol": "CROWS ㉫",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x203e366a1821570b2f84ff5ae8b3bdeb48dc4fa1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

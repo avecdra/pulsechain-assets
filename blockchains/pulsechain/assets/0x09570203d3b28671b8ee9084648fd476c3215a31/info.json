@@ -1,0 +1,25 @@
+{
+  "name": "RHdeplorablesinu",
+  "website": "",
+  "description": "RHdeplorablesinu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x09570203d3b28671b8Ee9084648fD476C3215a31",
+  "type": "ERC20",
+  "symbol": "HIGHER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x09570203d3b28671b8ee9084648fd476c3215a31",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/HIGHERinu"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RHdeplorablesinu"
+    }
+  ]
+}

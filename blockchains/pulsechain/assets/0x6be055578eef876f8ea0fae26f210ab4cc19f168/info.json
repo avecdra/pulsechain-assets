@@ -1,0 +1,21 @@
+{
+  "name": "Antares",
+  "website": "",
+  "description": "Antares token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6Be055578EEF876F8ea0FAe26F210aB4CC19F168",
+  "type": "ERC20",
+  "symbol": "α Scorpii",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6be055578eef876f8ea0fae26f210ab4cc19f168",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

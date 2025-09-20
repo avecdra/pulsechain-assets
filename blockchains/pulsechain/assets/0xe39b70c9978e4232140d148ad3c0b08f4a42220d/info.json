@@ -1,0 +1,45 @@
+{
+  "name": "Fetch",
+  "website": "https://fetchoracle.com/",
+  "description": "Fetch token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe39B70c9978E4232140d148Ad3C0b08f4A42220D",
+  "type": "ERC20",
+  "symbol": "FETCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe39b70c9978e4232140d148ad3c0b08f4a42220d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://fetchoracle.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.fetchoracle.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://go.fetchoracle.com/"
+    },
+    {
+      "name": "website",
+      "url": "http://fetchoracle.com/whitepaper.pdf"
+    },
+    {
+      "name": "website",
+      "url": "https://www.fetchoracle.com/audit.pdf"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/fetchoracle"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/fetchoracle"
+    }
+  ]
+}

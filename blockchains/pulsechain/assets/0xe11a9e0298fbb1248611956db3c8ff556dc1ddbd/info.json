@@ -1,0 +1,29 @@
+{
+  "name": "Twerk",
+  "website": "https://pulsetwerk.com/",
+  "description": "Twerk token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe11a9e0298fBB1248611956db3C8FF556DC1DdbD",
+  "type": "ERC20",
+  "symbol": "TWERK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe11a9e0298fbb1248611956db3c8ff556dc1ddbd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsetwerk.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulseTwerk"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsetwerk"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Ninetales",
+  "website": "https://app.9inch.io/",
+  "description": "Ninetales token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc07b238A96306C64A4C3852751f66a4Cd2cabbA8",
+  "type": "ERC20",
+  "symbol": "NINE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc07b238a96306c64a4c3852751f66a4cd2cabba8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.9inch.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pokemon_9inch"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pokemon_9inch"
+    }
+  ]
+}

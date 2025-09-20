@@ -1,0 +1,29 @@
+{
+  "name": "HeadHunters",
+  "website": "https://hhstoken.xyz/",
+  "description": "HeadHunters token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc4bdA2F680f57f3F15B771994dE1C63221f3340C",
+  "type": "ERC20",
+  "symbol": "HHS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc4bda2f680f57f3f15b771994de1c63221f3340c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hhstoken.xyz/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/HeadHuntersHHS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+e0MpVjtMfy0wMjRh"
+    }
+  ]
+}

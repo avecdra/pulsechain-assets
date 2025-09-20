@@ -1,0 +1,16 @@
+{
+  "name": "Render Token",
+  "website": "",
+  "description": "Render Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+  "type": "ERC20",
+  "symbol": "RNDR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

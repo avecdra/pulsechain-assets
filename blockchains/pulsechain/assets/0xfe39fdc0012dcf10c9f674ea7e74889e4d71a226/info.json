@@ -1,0 +1,15 @@
+{
+  "name": "ePhiat from Ethereum",
+  "website": "",
+  "description": "ePhiat from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfe39fdc0012dcf10c9f674ea7e74889e4d71a226",
+  "type": "ERC20",
+  "symbol": "ePhiat",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfe39fdc0012dcf10c9f674ea7e74889e4d71a226",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

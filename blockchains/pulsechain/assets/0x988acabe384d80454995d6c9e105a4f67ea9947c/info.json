@@ -1,0 +1,29 @@
+{
+  "name": "Solid X",
+  "website": "https://xgame.io/",
+  "description": "Solid X token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x988aCabE384d80454995D6c9e105a4f67eA9947C",
+  "type": "ERC20",
+  "symbol": "SOLIDX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x988acabe384d80454995d6c9e105a4f67ea9947c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://xgame.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Solidx_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Solidxpls"
+    }
+  ]
+}

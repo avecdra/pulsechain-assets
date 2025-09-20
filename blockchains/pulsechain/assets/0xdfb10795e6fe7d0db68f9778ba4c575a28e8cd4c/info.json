@@ -1,0 +1,33 @@
+{
+  "name": "Function Island",
+  "website": "https://functionisland.com/",
+  "description": "Function Island token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c",
+  "type": "ERC20",
+  "symbol": "ISLAND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdfb10795e6fe7d0db68f9778ba4c575a28e8cd4c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://functionisland.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.functionisland.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/function_island"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/FunctionIsland"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "❤️",
+  "website": "",
+  "description": "❤️ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x188AF8fc22cAa0521991DbaD6b4c5D2EB5a0B15b",
+  "type": "ERC20",
+  "symbol": "❤️",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x188af8fc22caa0521991dbad6b4c5d2eb5a0b15b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

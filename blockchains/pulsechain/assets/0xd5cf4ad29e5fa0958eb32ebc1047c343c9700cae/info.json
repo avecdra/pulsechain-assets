@@ -1,0 +1,21 @@
+{
+  "name": "Proof Of Volume",
+  "website": "",
+  "description": "Proof Of Volume token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD5cf4AD29e5fA0958Eb32Ebc1047C343C9700Cae",
+  "type": "ERC20",
+  "symbol": "POV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd5cf4ad29e5fa0958eb32ebc1047c343c9700cae",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/cdaiprc20"
+    }
+  ]
+}

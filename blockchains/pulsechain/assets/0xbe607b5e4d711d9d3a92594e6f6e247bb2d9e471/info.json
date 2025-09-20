@@ -1,0 +1,16 @@
+{
+  "name": "369",
+  "website": "",
+  "description": "369 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xbe607B5e4d711d9d3a92594E6f6E247bB2d9e471",
+  "type": "ERC20",
+  "symbol": "三六九",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbe607b5e4d711d9d3a92594e6f6e247bb2d9e471",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

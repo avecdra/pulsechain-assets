@@ -1,0 +1,29 @@
+{
+  "name": "Osiris Reborn",
+  "website": "https://knightsoforion.com/",
+  "description": "Osiris Reborn token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6125b1bE99A2241618cD7093FD2c49f918e75795",
+  "type": "ERC20",
+  "symbol": "OSIR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6125b1be99a2241618cd7093fd2c49f918e75795",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://knightsoforion.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/KnightsOfOrion"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KnightsOfTheOrionDirective"
+    }
+  ]
+}

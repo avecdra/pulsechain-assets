@@ -1,0 +1,21 @@
+{
+  "name": "Mastercoin",
+  "website": "",
+  "description": "Mastercoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x803DAAB5E8B81dA704f1Ac93b56Cfd70AA883B0e",
+  "type": "ERC20",
+  "symbol": "MASTER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x803daab5e8b81da704f1ac93b56cfd70aa883b0e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/DAMP_INC"
+    }
+  ]
+}

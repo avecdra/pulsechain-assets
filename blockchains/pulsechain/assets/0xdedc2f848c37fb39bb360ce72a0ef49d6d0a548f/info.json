@@ -1,0 +1,15 @@
+{
+  "name": "FLIGHT",
+  "website": "",
+  "description": "FLIGHT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdedc2f848c37fb39bb360ce72a0ef49d6d0a548f",
+  "type": "ERC20",
+  "symbol": "FLIGHT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdedc2f848c37fb39bb360ce72a0ef49d6d0a548f",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

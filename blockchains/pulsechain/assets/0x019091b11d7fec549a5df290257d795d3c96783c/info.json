@@ -1,0 +1,16 @@
+{
+  "name": "Queen-Bee Ω",
+  "website": "",
+  "description": "Queen-Bee Ω token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x019091B11d7FeC549a5DF290257d795d3C96783C",
+  "type": "ERC20",
+  "symbol": "Honey",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x019091b11d7fec549a5df290257d795d3c96783c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

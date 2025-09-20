@@ -1,0 +1,33 @@
+{
+  "name": "Prime2PHUX",
+  "website": "https://app.2phux.io/pools",
+  "description": "Prime2PHUX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6d358129Df7Ae10ee925D52e16F71A76D424990B",
+  "type": "ERC20",
+  "symbol": "Prime2PHUX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6d358129df7ae10ee925d52e16f71a76d424990b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.2phux.io/pools"
+    },
+    {
+      "name": "website",
+      "url": "https://2phux-yield-aggregator.gitbook.io/2phux-whitepaper/for-usdprime2phux-stakers"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/prime2phux"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TwoPHUX"
+    }
+  ]
+}

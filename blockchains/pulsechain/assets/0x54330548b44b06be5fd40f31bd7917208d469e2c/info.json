@@ -1,0 +1,25 @@
+{
+  "name": "Flying Tigers",
+  "website": "https://grogan.blog/",
+  "description": "Flying Tigers token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x54330548b44B06Be5fd40F31bd7917208D469e2c",
+  "type": "ERC20",
+  "symbol": "FTGRS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x54330548b44b06be5fd40f31bd7917208d469e2c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://grogan.blog/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/fdm849/status/1781099743881375894"
+    }
+  ]
+}

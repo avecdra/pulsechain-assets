@@ -1,0 +1,16 @@
+{
+  "name": "Civilization",
+  "website": "",
+  "description": "Civilization token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+  "type": "ERC20",
+  "symbol": "CIV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Turtle X",
+  "website": "https://turtleXtreasure.eu",
+  "description": "Turtle X token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0Eff8c6cB45Ad4eF6121242256D112bAEd576808",
+  "type": "ERC20",
+  "symbol": "TURTLEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0eff8c6cb45ad4ef6121242256d112baed576808",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://turtleXtreasure.eu"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/turtleXPLS"
+    }
+  ]
+}

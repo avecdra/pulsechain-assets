@@ -1,0 +1,21 @@
+{
+  "name": "Lady Gaga",
+  "website": "",
+  "description": "Lady Gaga token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9fC97f73A610318FEe90a8BdfcC2AD08e2E884DD",
+  "type": "ERC20",
+  "symbol": "(GAGA) ♩",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9fc97f73a610318fee90a8bdfcc2ad08e2e884dd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

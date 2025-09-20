@@ -1,0 +1,29 @@
+{
+  "name": "FREE PALESTINE",
+  "website": "https://www.kindforthesoul.com/",
+  "description": "FREE PALESTINE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xde3bab90cA73D22C77050153f0bDab4c516C5552",
+  "type": "ERC20",
+  "symbol": "FREE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde3bab90ca73d22c77050153f0bdab4c516c5552",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.kindforthesoul.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/FREEprc20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/freepalestinecrypto"
+    }
+  ]
+}

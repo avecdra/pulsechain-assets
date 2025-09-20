@@ -1,0 +1,29 @@
+{
+  "name": "PLSMiami",
+  "website": "https://plsmiami.io/",
+  "description": "PLSMiami token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc59C67101B9A0e7a2aE61cD11E12685Bd5e9263a",
+  "type": "ERC20",
+  "symbol": "PLSMiami",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc59c67101b9a0e7a2ae61cd11e12685bd5e9263a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://plsmiami.io/"
+    },
+    {
+      "name": "website",
+      "url": "https://nftonpulse.io/collectionDetail/43fe5514-b362-46d6-8bad-5927b04ed1ab"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseChainMiami"
+    }
+  ]
+}

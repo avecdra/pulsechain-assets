@@ -1,0 +1,16 @@
+{
+  "name": "The Alamo",
+  "website": "",
+  "description": "The Alamo token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5e01BBc8944D3e10141B1Dabc626d9D37bc9Ad41",
+  "type": "ERC20",
+  "symbol": "ALAMO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5e01bbc8944d3e10141b1dabc626d9d37bc9ad41",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

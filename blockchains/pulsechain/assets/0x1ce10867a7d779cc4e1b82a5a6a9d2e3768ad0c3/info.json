@@ -1,0 +1,33 @@
+{
+  "name": "CENTr",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "CENTr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1Ce10867a7D779CC4E1B82A5a6A9D2E3768ad0C3",
+  "type": "ERC20",
+  "symbol": "CENTr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1ce10867a7d779cc4e1b82a5a6a9d2e3768ad0c3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

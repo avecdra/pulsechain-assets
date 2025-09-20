@@ -1,0 +1,29 @@
+{
+  "name": "OG HEART",
+  "website": "https://www.ogheartdefi.com/",
+  "description": "OG HEART token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBAf90E4440427C2dD7767b881d4e2cF68Dbf632b",
+  "type": "ERC20",
+  "symbol": "OG 🎩",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbaf90e4440427c2dd7767b881d4e2cf68dbf632b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.ogheartdefi.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/OGHeart369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/OGHeart369"
+    }
+  ]
+}

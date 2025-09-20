@@ -1,0 +1,25 @@
+{
+  "name": "BABY HACKER",
+  "website": "https://pump.tires",
+  "description": "BABY HACKER token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x253d5EcaE52B6AFEE9aC4C50e6b51FA9e7E6A8Da",
+  "type": "ERC20",
+  "symbol": "BABYHACKER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x253d5ecae52b6afee9ac4c50e6b51fa9e7e6a8da",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ogwebchef888_community"
+    }
+  ]
+}

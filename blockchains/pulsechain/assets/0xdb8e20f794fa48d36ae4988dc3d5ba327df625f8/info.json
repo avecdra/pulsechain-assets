@@ -1,0 +1,16 @@
+{
+  "name": "TANGent Golden Yacht",
+  "website": "",
+  "description": "TANGent Golden Yacht token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdB8E20f794Fa48d36Ae4988dC3D5Ba327df625f8",
+  "type": "ERC20",
+  "symbol": "YACHT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdb8e20f794fa48d36ae4988dc3d5ba327df625f8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "RH Louis Vuitton Bag",
+  "website": "https://rhlouisvuitton.com/",
+  "description": "RH Louis Vuitton Bag token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9966bDcbe018540A974B44CEcCD61E369aD6640D",
+  "type": "ERC20",
+  "symbol": "BAG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9966bdcbe018540a974b44ceccd61e369ad6640d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://rhlouisvuitton.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RHLouisBag?s=20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RHLouisVuittonBag"
+    }
+  ]
+}

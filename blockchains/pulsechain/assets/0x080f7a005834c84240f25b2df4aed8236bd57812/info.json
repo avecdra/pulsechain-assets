@@ -1,0 +1,21 @@
+{
+  "name": "USDC",
+  "website": "",
+  "description": "USDC token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x080f7A005834c84240F25B2Df4AED8236bd57812",
+  "type": "ERC20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x080f7a005834c84240f25b2df4aed8236bd57812",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    }
+  ]
+}

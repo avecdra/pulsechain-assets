@@ -1,0 +1,33 @@
+{
+  "name": "Size Matters ",
+  "website": "https://pulsechain.com/",
+  "description": "Size Matters  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8b615cB592f7c2addAFBFaf4A3fEf5E2323b88D7",
+  "type": "ERC20",
+  "symbol": "RULER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8b615cb592f7c2addafbfaf4a3fef5e2323b88d7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsechain.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsex.mypinata.cloud/ipfs/bafybeibzu7nje2o2tufb3ifitjrto3n3xcwon7fghq2igtcupulfubnrim/#/"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsechain.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RedBullCanRuler"
+    }
+  ]
+}

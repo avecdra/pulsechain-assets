@@ -1,0 +1,29 @@
+{
+  "name": "ASMONGOLD",
+  "website": "https://www.youtube.com/@AsmonTV",
+  "description": "ASMONGOLD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD62dAcCF0A240B779955460Ee63F20b28a960faF",
+  "type": "ERC20",
+  "symbol": "ASMON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd62daccf0a240b779955460ee63f20b28a960faf",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@AsmonTV"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Asmongold"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AsmonPulse"
+    }
+  ]
+}

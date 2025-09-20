@@ -1,0 +1,33 @@
+{
+  "name": "MOJO",
+  "website": "https://pulselorian.com/mojo",
+  "description": "MOJO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x33cC4d4E0F55880e4E36B326BBbCa3c18A524B8D",
+  "type": "ERC20",
+  "symbol": "MOJO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x33cc4d4e0f55880e4e36b326bbbca3c18a524b8d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/mojo"
+    },
+    {
+      "name": "website",
+      "url": "https://mojoyeti.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/mojoyetipulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mojoyeti"
+    }
+  ]
+}

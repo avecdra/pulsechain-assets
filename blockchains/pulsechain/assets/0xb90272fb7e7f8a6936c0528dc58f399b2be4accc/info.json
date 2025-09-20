@@ -1,0 +1,29 @@
+{
+  "name": "DogWifCat",
+  "website": "https://dogwifcat.com/",
+  "description": "DogWifCat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB90272fb7E7F8a6936C0528dC58f399B2bE4ACCc",
+  "type": "ERC20",
+  "symbol": "WIFU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb90272fb7e7f8a6936c0528dc58f399b2be4accc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dogwifcat.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/dog_wif_cat"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dogwifcatofficial"
+    }
+  ]
+}

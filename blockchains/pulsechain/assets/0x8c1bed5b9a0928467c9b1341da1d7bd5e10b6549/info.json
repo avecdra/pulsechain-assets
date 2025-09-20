@@ -1,0 +1,25 @@
+{
+  "name": "Liquid Staked ETH",
+  "website": "",
+  "description": "Liquid Staked ETH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+  "type": "ERC20",
+  "symbol": "LsETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseChainLsETH"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseLsETH"
+    }
+  ]
+}

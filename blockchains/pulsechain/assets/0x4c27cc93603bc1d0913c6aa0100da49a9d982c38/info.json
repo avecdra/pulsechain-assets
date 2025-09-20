@@ -1,0 +1,29 @@
+{
+  "name": "Michi",
+  "website": "https://michi-pulsechain.framer.ai/",
+  "description": "Michi token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4c27CC93603bC1d0913C6aA0100Da49A9D982c38",
+  "type": "ERC20",
+  "symbol": "Michi",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4c27cc93603bc1d0913c6aa0100da49a9d982c38",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://michi-pulsechain.framer.ai/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/michi_pulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/michi_pulsechain"
+    }
+  ]
+}

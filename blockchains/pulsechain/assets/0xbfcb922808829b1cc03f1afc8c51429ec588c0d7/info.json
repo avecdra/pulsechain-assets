@@ -1,0 +1,16 @@
+{
+  "name": "Elon's First City On Mars",
+  "website": "",
+  "description": "Elon's First City On Mars token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBfcB922808829B1cC03F1aFc8c51429EC588c0D7",
+  "type": "ERC20",
+  "symbol": "TERMINUS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbfcb922808829b1cc03f1afc8c51429ec588c0d7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

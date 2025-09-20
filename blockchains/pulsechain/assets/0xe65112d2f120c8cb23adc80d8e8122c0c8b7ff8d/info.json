@@ -1,0 +1,29 @@
+{
+  "name": "DumbMoney",
+  "website": "https://www.dumbmoney.win/",
+  "description": "DumbMoney token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe65112d2f120c8cb23ADC80D8E8122c0c8b7fF8D",
+  "type": "ERC20",
+  "symbol": "DUMB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe65112d2f120c8cb23adc80d8e8122c0c8b7ff8d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.dumbmoney.win/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.dumbmoney.win/docs/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dumbmoneydotwin"
+    }
+  ]
+}

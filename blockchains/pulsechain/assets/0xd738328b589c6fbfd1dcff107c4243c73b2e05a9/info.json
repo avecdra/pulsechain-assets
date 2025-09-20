@@ -1,0 +1,15 @@
+{
+  "name": "Bastard Token",
+  "website": "",
+  "description": "Bastard Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd738328b589c6fbfd1dcff107c4243c73b2e05a9",
+  "type": "ERC20",
+  "symbol": "BSTRD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd738328b589c6fbfd1dcff107c4243c73b2e05a9",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

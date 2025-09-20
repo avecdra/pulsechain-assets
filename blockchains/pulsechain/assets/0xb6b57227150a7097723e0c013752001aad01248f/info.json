@@ -1,0 +1,16 @@
+{
+  "name": "PulseReflections",
+  "website": "",
+  "description": "PulseReflections token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb6B57227150a7097723e0C013752001AaD01248F",
+  "type": "ERC20",
+  "symbol": "PRS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb6b57227150a7097723e0c013752001aad01248f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

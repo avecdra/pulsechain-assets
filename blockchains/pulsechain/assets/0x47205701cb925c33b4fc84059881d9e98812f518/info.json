@@ -1,0 +1,33 @@
+{
+  "name": "Dimethyltryptamine",
+  "website": "https://www.stdpros.com/",
+  "description": "Dimethyltryptamine token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x47205701cB925C33b4fc84059881D9e98812F518",
+  "type": "ERC20",
+  "symbol": "DMT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x47205701cb925c33b4fc84059881d9e98812f518",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.stdpros.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/watch?v=w9bQTdJ73k0"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/way_patriots"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DMTonPulsechain"
+    }
+  ]
+}

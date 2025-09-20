@@ -1,0 +1,21 @@
+{
+  "name": "Prestige Club",
+  "website": "",
+  "description": "Prestige Club token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x743cd5288FdC4d8de1eE1C767C4D0A495D8cA2a3",
+  "type": "ERC20",
+  "symbol": "⚓",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x743cd5288fdc4d8de1ee1c767c4d0a495d8ca2a3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LeonidasArmy"
+    }
+  ]
+}

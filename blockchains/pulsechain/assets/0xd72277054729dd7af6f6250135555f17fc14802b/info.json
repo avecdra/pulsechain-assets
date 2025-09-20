@@ -1,0 +1,15 @@
+{
+  "name": "Pulse Street Bets",
+  "website": "",
+  "description": "Pulse Street Bets token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd72277054729dd7af6f6250135555f17fc14802b",
+  "type": "ERC20",
+  "symbol": "PSB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd72277054729dd7af6f6250135555f17fc14802b",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

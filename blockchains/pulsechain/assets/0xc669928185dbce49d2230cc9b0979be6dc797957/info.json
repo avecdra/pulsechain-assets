@@ -1,0 +1,33 @@
+{
+  "name": "BitTorrent",
+  "website": "https://pulsebtt.com",
+  "description": "BitTorrent token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC669928185DbCE49d2230CC9B0979BE6DC797957",
+  "type": "ERC20",
+  "symbol": "BTT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsebtt.com"
+    },
+    {
+      "name": "website",
+      "url": "https://medium.com/@celtechdesign/pulse-bittorrent-pbtt-the-bullish-future-of-prc20-tokens-on-pulsechain-c2d7993ea8eb"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pulsebtt"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseBTT"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MOON",
+  "website": "",
+  "description": "MOON token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8E64f0fCa8f0219cEF329ae593Ad6490BE122Ecb",
+  "type": "ERC20",
+  "symbol": "MOON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8e64f0fca8f0219cef329ae593ad6490be122ecb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/MOON_MISSION_1?t=5BM__fqO6fpG-OLBpV1aAw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RealBIGMoon"
+    }
+  ]
+}

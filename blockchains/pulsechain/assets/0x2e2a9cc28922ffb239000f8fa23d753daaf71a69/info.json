@@ -1,0 +1,29 @@
+{
+  "name": "⏃⌰⟟⟒⋏ ⏁⟒☊⊑",
+  "website": "https://www.babyx.win/",
+  "description": "⏃⌰⟟⟒⋏ ⏁⟒☊⊑ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2E2A9Cc28922FfB239000F8fa23D753DAAf71A69",
+  "type": "ERC20",
+  "symbol": "x",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2e2a9cc28922ffb239000f8fa23d753daaf71a69",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.babyx.win/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/babyx_888?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/babyx_ALIEN_TECH"
+    }
+  ]
+}

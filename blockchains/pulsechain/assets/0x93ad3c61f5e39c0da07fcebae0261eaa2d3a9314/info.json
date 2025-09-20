@@ -1,0 +1,16 @@
+{
+  "name": "Never Broke Again",
+  "website": "",
+  "description": "Never Broke Again token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x93Ad3C61f5e39c0DA07fCEbAe0261eAA2d3A9314",
+  "type": "ERC20",
+  "symbol": "NBA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x93ad3c61f5e39c0da07fcebae0261eaa2d3a9314",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

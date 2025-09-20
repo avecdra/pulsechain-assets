@@ -1,0 +1,16 @@
+{
+  "name": "Ampleforth",
+  "website": "",
+  "description": "Ampleforth token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+  "type": "ERC20",
+  "symbol": "AMPL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

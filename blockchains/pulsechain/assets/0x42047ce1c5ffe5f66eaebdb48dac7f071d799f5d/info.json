@@ -1,0 +1,29 @@
+{
+  "name": "MUMU",
+  "website": "https://mumu.keklabz.fun/",
+  "description": "MUMU token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x42047Ce1C5ffE5f66EAeBDb48dac7F071D799F5D",
+  "type": "ERC20",
+  "symbol": "MUMU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x42047ce1c5ffe5f66eaebdb48dac7f071d799f5d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://mumu.keklabz.fun/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/mumucoinpulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsemumu"
+    }
+  ]
+}

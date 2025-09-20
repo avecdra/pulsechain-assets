@@ -1,0 +1,25 @@
+{
+  "name": "Baaana Massik",
+  "website": "https://baaanamassik.com/",
+  "description": "Baaana Massik token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x637Ecd6b33BD8d5A550939A2e6058Dd7Dc52812e",
+  "type": "ERC20",
+  "symbol": "BAANA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x637ecd6b33bd8d5a550939a2e6058dd7dc52812e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://baaanamassik.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/BaaanaMassik"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lil Cryptita",
+  "website": "",
+  "description": "Lil Cryptita token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5cC40A332BaDfEE9c9612eCDA01F93c904c880e9",
+  "type": "ERC20",
+  "symbol": "TITA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5cc40a332badfee9c9612ecda01f93c904c880e9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/lCryptita/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/lil_cryptita"
+    }
+  ]
+}

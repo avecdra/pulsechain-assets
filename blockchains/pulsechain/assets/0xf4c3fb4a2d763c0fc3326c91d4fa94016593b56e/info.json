@@ -1,0 +1,25 @@
+{
+  "name": "IamPooler",
+  "website": "",
+  "description": "IamPooler token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF4C3fB4a2D763c0fC3326C91D4fA94016593B56E",
+  "type": "ERC20",
+  "symbol": "IAP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf4c3fb4a2d763c0fc3326c91d4fa94016593b56e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PoolerTokens?t=SNjxSPmt94tvG3yS3cQ1dA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PoolTokenEco"
+    }
+  ]
+}

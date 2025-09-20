@@ -1,0 +1,33 @@
+{
+  "name": "Glass",
+  "website": "https://glasstoken.site/",
+  "description": "Glass token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd687FF2C9C5294f4A2bC0300B46eA921dB312063",
+  "type": "ERC20",
+  "symbol": "GLASS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd687ff2c9c5294f4a2bc0300b46ea921db312063",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://glasstoken.site/"
+    },
+    {
+      "name": "website",
+      "url": "https://medium.com/@will94bond/glass-13b2370643f7?postPublishedType=initial"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PRC20Glass"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/prc20GLASS"
+    }
+  ]
+}

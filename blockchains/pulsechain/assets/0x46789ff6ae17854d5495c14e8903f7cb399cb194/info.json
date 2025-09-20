@@ -1,0 +1,21 @@
+{
+  "name": "Pepe But Blue",
+  "website": "",
+  "description": "Pepe But Blue token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x46789ff6AE17854D5495c14E8903f7Cb399Cb194",
+  "type": "ERC20",
+  "symbol": "PPBB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x46789ff6ae17854d5495c14e8903f7cb399cb194",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/PPBBpls"
+    }
+  ]
+}

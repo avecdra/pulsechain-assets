@@ -1,0 +1,33 @@
+{
+  "name": "Dysnomia Genesis Rewards Token",
+  "website": "https://dysnomia.icu",
+  "description": "Dysnomia Genesis Rewards Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd2A048eF4e018348EEbC245a4402DB7b46c8E223",
+  "type": "ERC20",
+  "symbol": "dGENESIS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd2a048ef4e018348eebc245a4402db7b46c8e223",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dysnomia.icu"
+    },
+    {
+      "name": "website",
+      "url": "https://dysnomia.gitbook.io/docs"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/dysnomia_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dysnomia_pls"
+    }
+  ]
+}

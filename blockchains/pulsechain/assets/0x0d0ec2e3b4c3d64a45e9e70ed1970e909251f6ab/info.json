@@ -1,0 +1,29 @@
+{
+  "name": "ZeroCool",
+  "website": "https://www.zr00k00l.com/",
+  "description": "ZeroCool token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0d0ec2E3B4c3D64a45E9e70ED1970e909251F6aB",
+  "type": "ERC20",
+  "symbol": "ZOC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0d0ec2e3b4c3d64a45e9e70ed1970e909251f6ab",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.zr00k00l.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Zr00k00L"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Zr00k00L"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "TYRH",
+  "website": "",
+  "description": "TYRH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc91562626b9a697af683555da9946986278ac9a5",
+  "type": "ERC20",
+  "symbol": "TYRH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc91562626b9a697af683555da9946986278ac9a5",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

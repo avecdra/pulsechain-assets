@@ -1,0 +1,21 @@
+{
+  "name": "DICKBUTT",
+  "website": "",
+  "description": "DICKBUTT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe0847CBedf3C64886547be9B6031225dEfcCfBeD",
+  "type": "ERC20",
+  "symbol": "DKT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe0847cbedf3c64886547be9b6031225defccfbed",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1588163267561771012"
+    }
+  ]
+}

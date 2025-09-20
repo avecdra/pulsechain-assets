@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "website": "",
+  "description": "Tether USD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "type": "ERC20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

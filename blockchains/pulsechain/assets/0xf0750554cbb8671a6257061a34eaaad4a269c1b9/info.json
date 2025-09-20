@@ -1,0 +1,25 @@
+{
+  "name": "BEEF",
+  "website": "",
+  "description": "BEEF token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF0750554CBB8671a6257061A34EAaAd4a269C1b9",
+  "type": "ERC20",
+  "symbol": "BEEF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf0750554cbb8671a6257061a34eaaad4a269c1b9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/BeefworldOrder"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Beefonpulse"
+    }
+  ]
+}

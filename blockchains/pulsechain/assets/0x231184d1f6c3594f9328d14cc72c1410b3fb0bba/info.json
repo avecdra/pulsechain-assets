@@ -1,0 +1,29 @@
+{
+  "name": "HEARTS TREASURY ",
+  "website": "https://www.ogheartdefi.com/",
+  "description": "HEARTS TREASURY  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x231184d1F6c3594f9328d14Cc72c1410b3Fb0BBA",
+  "type": "ERC20",
+  "symbol": "TREASURY ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x231184d1f6c3594f9328d14cc72c1410b3fb0bba",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.ogheartdefi.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/OGHeart369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/OGHeart369"
+    }
+  ]
+}

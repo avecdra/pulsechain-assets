@@ -1,0 +1,21 @@
+{
+  "name": "Trollface",
+  "website": "",
+  "description": "Trollface token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa25a57c08553980f8E162131C547F66d9F566664",
+  "type": "ERC20",
+  "symbol": "Troll",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa25a57c08553980f8e162131c547f66d9f566664",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/thetrollsofpulse"
+    }
+  ]
+}

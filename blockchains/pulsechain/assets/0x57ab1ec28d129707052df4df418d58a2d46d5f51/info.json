@@ -1,0 +1,16 @@
+{
+  "name": "Synth sUSD",
+  "website": "",
+  "description": "Synth sUSD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+  "type": "ERC20",
+  "symbol": "sUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

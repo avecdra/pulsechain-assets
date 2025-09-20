@@ -1,0 +1,25 @@
+{
+  "name": "PLSX",
+  "website": "https://pump.tires/token/0xd73731bDA87C3464e76268c094D959c1B35b9bF1",
+  "description": "PLSX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd73731bDA87C3464e76268c094D959c1B35b9bF1",
+  "type": "ERC20",
+  "symbol": "PLSX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd73731bda87c3464e76268c094d959c1b35b9bf1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xd73731bDA87C3464e76268c094D959c1B35b9bF1"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    }
+  ]
+}

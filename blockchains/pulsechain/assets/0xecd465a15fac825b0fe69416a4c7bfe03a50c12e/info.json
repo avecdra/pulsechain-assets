@@ -1,0 +1,29 @@
+{
+  "name": "Elixir Token",
+  "website": "https://pulselorian.com/yieldFarm",
+  "description": "Elixir Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xeCd465A15fac825B0Fe69416A4c7BfE03A50c12E",
+  "type": "ERC20",
+  "symbol": "Elixir",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xecd465a15fac825b0fe69416a4c7bfe03a50c12e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/yieldFarm"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ThePulseLorian"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ThePulselorian"
+    }
+  ]
+}

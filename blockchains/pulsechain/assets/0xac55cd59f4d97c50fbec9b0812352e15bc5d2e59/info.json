@@ -1,0 +1,29 @@
+{
+  "name": "KILOBYTE",
+  "website": "https://kilobyte.farm/",
+  "description": "KILOBYTE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xaC55cd59F4d97c50FBeC9b0812352e15BC5d2e59",
+  "type": "ERC20",
+  "symbol": "KB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xac55cd59f4d97c50fbec9b0812352e15bc5d2e59",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://kilobyte.farm/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/KILOBYTEonPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KILOBYTEfarm"
+    }
+  ]
+}

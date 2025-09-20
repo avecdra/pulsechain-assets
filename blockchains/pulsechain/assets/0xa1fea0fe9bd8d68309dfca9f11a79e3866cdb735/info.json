@@ -1,0 +1,25 @@
+{
+  "name": "BLAZE",
+  "website": "https://app.mintra.ai/profile/0x6865f08e95983d3ba400da44557b1a64be68c315?fbclid=IwZXh0bgNhZW0CMTEAAR0xsxnqMAT0yPCxHFdzIMct6gU6SBJgmHnn7WDbC1GubajNNuamzmq7fQ0_aem_F7M_ux7wwpdcb_T4AjQ6SA\u0026state=%7B%22category%22%3A%22Portfolio%22%2C%22Portfolio%22%3A%7B%22tab%22%3A%22Collections%22%7D%7D\u0026filters=%7B%7D",
+  "description": "BLAZE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa1fEa0fe9bD8D68309dFCa9f11a79E3866Cdb735",
+  "type": "ERC20",
+  "symbol": "BLAZE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa1fea0fe9bd8d68309dfca9f11a79e3866cdb735",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.mintra.ai/profile/0x6865f08e95983d3ba400da44557b1a64be68c315?fbclid=IwZXh0bgNhZW0CMTEAAR0xsxnqMAT0yPCxHFdzIMct6gU6SBJgmHnn7WDbC1GubajNNuamzmq7fQ0_aem_F7M_ux7wwpdcb_T4AjQ6SA\u0026state=%7B%22category%22%3A%22Portfolio%22%2C%22Portfolio%22%3A%7B%22tab%22%3A%22Collections%22%7D%7D\u0026filters=%7B%7D"
+    },
+    {
+      "name": "website",
+      "url": "https://www.facebook.com/groups/531289032744354/?ref=share_group_link"
+    }
+  ]
+}

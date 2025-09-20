@@ -1,0 +1,25 @@
+{
+  "name": "LEVEL",
+  "website": "",
+  "description": "LEVEL token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x569D4018E8a5B869b57df1a0A5C7B4E71aF29656",
+  "type": "ERC20",
+  "symbol": "LVL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x569d4018e8a5b869b57df1a0a5c7b4e71af29656",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Level_on_PLS?t=eczDwnDXAeknjSR3T6E0gA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Level_LVL"
+    }
+  ]
+}

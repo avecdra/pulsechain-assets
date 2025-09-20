@@ -1,0 +1,25 @@
+{
+  "name": "PeiPei",
+  "website": "",
+  "description": "PeiPei token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2ed9f275219f5261D09CF5C6Ab722a7376c45C72",
+  "type": "ERC20",
+  "symbol": "PEIPEI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2ed9f275219f5261d09cf5c6ab722a7376c45c72",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/i/communities/1952548519438328083"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/peipeionpulse"
+    }
+  ]
+}

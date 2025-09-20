@@ -1,0 +1,29 @@
+{
+  "name": "Charizard リザードン",
+  "website": "https://pokemondb.net/pokedex/charizard",
+  "description": "Charizard リザードン token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDa7B9b34ed19f7d26374515CA38a268f6C880B9F",
+  "type": "ERC20",
+  "symbol": "Charizard",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xda7b9b34ed19f7d26374515ca38a268f6c880b9f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pokemondb.net/pokedex/charizard"
+    },
+    {
+      "name": "twitter",
+      "url": "http://x.com/CharizardPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsecharizard"
+    }
+  ]
+}

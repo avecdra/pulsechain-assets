@@ -1,0 +1,15 @@
+{
+  "name": "Atropine",
+  "website": "",
+  "description": "Atropine token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe846884430d527168b4eaac80af9268515d2f0cc",
+  "type": "ERC20",
+  "symbol": "PINE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe846884430d527168b4eaac80af9268515d2f0cc",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "FRESH START SHOWER",
+  "website": "https://freshstartshower.com/",
+  "description": "FRESH START SHOWER token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4B8dA1baCdc416A1Cc339F462e2DE97A4D7cE891",
+  "type": "ERC20",
+  "symbol": "FSS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4b8da1bacdc416a1cc339f462e2de97a4d7ce891",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://freshstartshower.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/FreshStartShower"
+    }
+  ]
+}

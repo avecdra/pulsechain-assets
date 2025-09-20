@@ -1,0 +1,29 @@
+{
+  "name": "Pulse Dai",
+  "website": "https://pai-mkr.pages.dev",
+  "description": "Pulse Dai token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc40c58afFf0A8908c392a752F4951EfF381AA0b2",
+  "type": "ERC20",
+  "symbol": "PAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc40c58afff0a8908c392a752f4951eff381aa0b2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pai-mkr.pages.dev"
+    },
+    {
+      "name": "website",
+      "url": "https://pai-mkr.pages.dev/docs"
+    },
+    {
+      "name": "website",
+      "url": "https://gitlab.com/pai2300315/PAI-MKR"
+    }
+  ]
+}

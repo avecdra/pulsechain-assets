@@ -1,0 +1,25 @@
+{
+  "name": "Good DAI",
+  "website": "",
+  "description": "Good DAI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x75C84Ca7eC3F14e4f53aCAbf6eDD628cd1B22bC1",
+  "type": "ERC20",
+  "symbol": "PDAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x75c84ca7ec3f14e4f53acabf6edd628cd1b22bc1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/pDaiConference"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pDaiAirdrop"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Paxos Gold",
+  "website": "",
+  "description": "Paxos Gold token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+  "type": "ERC20",
+  "symbol": "PAXG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

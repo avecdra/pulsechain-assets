@@ -1,0 +1,25 @@
+{
+  "name": "Magikarp コイキング",
+  "website": "",
+  "description": "Magikarp コイキング token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0c6861A673A10C272bEa7947De5E60ab44B6BAc6",
+  "type": "ERC20",
+  "symbol": "RAGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0c6861a673a10c272bea7947de5e60ab44b6bac6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/RagingMagikarp1"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+IlEwHKsCay05YWUx"
+    }
+  ]
+}

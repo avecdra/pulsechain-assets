@@ -1,0 +1,16 @@
+{
+  "name": "Genesis P-Orridge Coin ㉾",
+  "website": "",
+  "description": "Genesis P-Orridge Coin ㉾ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc7eB14e178220E84530748a71b91F07c3545dE50",
+  "type": "ERC20",
+  "symbol": "GNE㉾ESIS㉾",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc7eb14e178220e84530748a71b91f07c3545de50",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

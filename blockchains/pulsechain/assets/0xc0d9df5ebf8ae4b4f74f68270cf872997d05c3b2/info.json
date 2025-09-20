@@ -1,0 +1,29 @@
+{
+  "name": "Doomguy",
+  "website": "https://m.youtube.com/watch?v=QHRuTYtSbJQ\u0026pp=ygUMYmZnIGRpdmlzaW9u",
+  "description": "Doomguy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC0D9DF5EbF8aE4B4F74F68270CF872997d05C3b2",
+  "type": "ERC20",
+  "symbol": "DOOM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc0d9df5ebf8ae4b4f74f68270cf872997d05c3b2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://m.youtube.com/watch?v=QHRuTYtSbJQ\u0026pp=ygUMYmZnIGRpdmlzaW9u"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/DOOM?t=6sNAv50jQicKq9grxf_tMA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/doomonpulsechain"
+    }
+  ]
+}

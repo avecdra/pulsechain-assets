@@ -1,0 +1,16 @@
+{
+  "name": "69",
+  "website": "",
+  "description": "69 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6cb1EB8Db9569a4Eb347730cf910e59D68f92B9d",
+  "type": "ERC20",
+  "symbol": "69",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6cb1eb8db9569a4eb347730cf910e59d68f92b9d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Degen Anonymous",
+  "website": "https://degenanon.io/",
+  "description": "Degen Anonymous token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x075F7F657AEAD0e698EDb4E0A47d1DEF869536B4",
+  "type": "ERC20",
+  "symbol": "ANON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x075f7f657aead0e698edb4e0a47d1def869536b4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://degenanon.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/degenanonpulse?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ANONPULSE"
+    }
+  ]
+}

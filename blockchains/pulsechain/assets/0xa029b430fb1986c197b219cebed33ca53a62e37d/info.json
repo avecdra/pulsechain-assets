@@ -1,0 +1,29 @@
+{
+  "name": "YieldFlow",
+  "website": "https://myrewardsdashboard.com/",
+  "description": "YieldFlow token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA029b430Fb1986C197B219ceBED33Ca53a62E37d",
+  "type": "ERC20",
+  "symbol": "💠",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa029b430fb1986c197b219cebed33ca53a62e37d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://myrewardsdashboard.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/YieldFlow_Pulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/YieldFlowCollective"
+    }
+  ]
+}

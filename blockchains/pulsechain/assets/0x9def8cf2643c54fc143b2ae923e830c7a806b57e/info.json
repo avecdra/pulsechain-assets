@@ -1,0 +1,29 @@
+{
+  "name": "BrokeNoMo",
+  "website": "https://BrokeNoMo.io",
+  "description": "BrokeNoMo token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9DeF8cf2643C54fc143B2aE923e830C7a806b57E",
+  "type": "ERC20",
+  "symbol": "Mo💰",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9def8cf2643c54fc143b2ae923e830c7a806b57e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://BrokeNoMo.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/BrokeNoMo_PLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BrokeNoMo_entry"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PulseKitten",
+  "website": "",
+  "description": "PulseKitten token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x378b04A0E24DbF08dcA65F3c87aD9dafc1d0dd9d",
+  "type": "ERC20",
+  "symbol": "PKTTN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x378b04a0e24dbf08dca65f3c87ad9dafc1d0dd9d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

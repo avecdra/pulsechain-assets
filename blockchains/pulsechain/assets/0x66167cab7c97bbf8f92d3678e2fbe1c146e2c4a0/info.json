@@ -1,0 +1,15 @@
+{
+  "name": "CLOUD",
+  "website": "",
+  "description": "CLOUD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x66167cab7c97bbf8f92d3678e2fbe1c146e2c4a0",
+  "type": "ERC20",
+  "symbol": "CLOUD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x66167cab7c97bbf8f92d3678e2fbe1c146e2c4a0",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

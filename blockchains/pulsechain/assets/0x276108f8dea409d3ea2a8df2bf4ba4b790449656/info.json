@@ -1,0 +1,15 @@
+{
+  "name": "ackchyually",
+  "website": "",
+  "description": "ackchyually token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x276108f8dea409d3ea2a8df2bf4ba4b790449656",
+  "type": "ERC20",
+  "symbol": "ACTLY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x276108f8dea409d3ea2a8df2bf4ba4b790449656",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

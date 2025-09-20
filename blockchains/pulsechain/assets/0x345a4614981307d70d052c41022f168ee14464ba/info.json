@@ -1,0 +1,15 @@
+{
+  "name": "AMERICA FIRST",
+  "website": "",
+  "description": "AMERICA FIRST token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x345a4614981307d70d052c41022f168ee14464ba",
+  "type": "ERC20",
+  "symbol": "FREEDOM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x345a4614981307d70d052c41022f168ee14464ba",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

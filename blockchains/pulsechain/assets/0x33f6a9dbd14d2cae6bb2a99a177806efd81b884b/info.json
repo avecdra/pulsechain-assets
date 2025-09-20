@@ -1,0 +1,29 @@
+{
+  "name": "GREED",
+  "website": "https://nexionpulse.com/Flux",
+  "description": "GREED token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x33F6a9dBD14D2cAE6bB2a99A177806eFD81B884B",
+  "type": "ERC20",
+  "symbol": "GREED💰",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x33f6a9dbd14d2cae6bb2a99a177806efd81b884b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://nexionpulse.com/Flux"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RN_Radon_10"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Radon86Greed"
+    }
+  ]
+}

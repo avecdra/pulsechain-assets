@@ -1,0 +1,21 @@
+{
+  "name": "Whale Bay",
+  "website": "",
+  "description": "Whale Bay token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x03B1A1B10151733bcEfa52178aadf9d7239407b4",
+  "type": "ERC20",
+  "symbol": "WHALE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03b1a1b10151733bcefa52178aadf9d7239407b4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Humpback_Holder?t=lHKoEUscFZlKY87Shz49MA\u0026s=09"
+    }
+  ]
+}

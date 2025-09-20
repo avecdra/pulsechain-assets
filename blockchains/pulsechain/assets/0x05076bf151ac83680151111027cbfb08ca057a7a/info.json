@@ -1,0 +1,29 @@
+{
+  "name": "E = mc²",
+  "website": "https://www.jamestakeover.com/",
+  "description": "E = mc² token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x05076bf151AC83680151111027CBfb08cA057a7A",
+  "type": "ERC20",
+  "symbol": "JAMES",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x05076bf151ac83680151111027cbfb08ca057a7a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.jamestakeover.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ATROPAstew"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/JAMEStakeover"
+    }
+  ]
+}

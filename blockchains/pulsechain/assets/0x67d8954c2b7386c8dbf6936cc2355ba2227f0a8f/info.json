@@ -1,0 +1,21 @@
+{
+  "name": "StackedItalian",
+  "website": "",
+  "description": "StackedItalian token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x67d8954C2B7386c8Dbf6936Cc2355bA2227F0a8f",
+  "type": "ERC20",
+  "symbol": "Stack",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x67d8954c2b7386c8dbf6936cc2355ba2227f0a8f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/StackedItalian"
+    }
+  ]
+}

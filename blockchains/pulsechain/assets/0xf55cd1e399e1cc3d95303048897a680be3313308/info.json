@@ -1,0 +1,16 @@
+{
+  "name": "Maximus Trio",
+  "website": "",
+  "description": "Maximus Trio token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF55cD1e399e1cc3D95303048897a680be3313308",
+  "type": "ERC20",
+  "symbol": "TRIO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf55cd1e399e1cc3d95303048897a680be3313308",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

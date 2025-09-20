@@ -1,0 +1,29 @@
+{
+  "name": "BRIAN",
+  "website": "https://v0-file-to-website.vercel.app/",
+  "description": "BRIAN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x42218E474cB63D35267E31fb15fb030A3c594d7D",
+  "type": "ERC20",
+  "symbol": "BRIAN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x42218e474cb63d35267e31fb15fb030a3c594d7d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://v0-file-to-website.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/BRIAN_ON_PULSE"
+    },
+    {
+      "name": "telegram",
+      "url": "http://t.me/BrianOnPulse"
+    }
+  ]
+}

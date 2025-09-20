@@ -1,0 +1,33 @@
+{
+  "name": "H420 from Ethereum",
+  "website": "https://helios.win/",
+  "description": "H420 from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfbd5CBCaE1Aa264F92E6868aDE836c5077dB1479",
+  "type": "ERC20",
+  "symbol": "H420",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfbd5cbcae1aa264f92e6868ade836c5077db1479",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://helios.win/"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.helios-hlx.win/helios/h420"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Helios_HLX"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Helios_HLX/1"
+    }
+  ]
+}

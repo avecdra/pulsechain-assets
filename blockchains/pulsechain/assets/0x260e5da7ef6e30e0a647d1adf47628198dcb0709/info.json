@@ -1,0 +1,29 @@
+{
+  "name": "PulseChain",
+  "website": "https://pulsechain.com/",
+  "description": "PulseChain token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x260e5dA7eF6E30e0A647d1aDF47628198DCb0709",
+  "type": "ERC20",
+  "symbol": "PLS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x260e5da7ef6e30e0a647d1adf47628198dcb0709",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsechain.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseXcom"
+    }
+  ]
+}

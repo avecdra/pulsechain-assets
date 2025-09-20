@@ -1,0 +1,15 @@
+{
+  "name": "Pulse Cereal",
+  "website": "",
+  "description": "Pulse Cereal token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6de1bb62c13394b7db57a25477dbedd76b3e9a90",
+  "type": "ERC20",
+  "symbol": "CEREAL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6de1bb62c13394b7db57a25477dbedd76b3e9a90",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

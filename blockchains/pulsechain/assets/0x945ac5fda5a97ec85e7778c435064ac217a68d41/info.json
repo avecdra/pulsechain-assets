@@ -1,0 +1,29 @@
+{
+  "name": "HoneyPot",
+  "website": "https://honeypotpulse.vercel.app/",
+  "description": "HoneyPot token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x945Ac5FDa5A97ec85e7778C435064AC217A68d41",
+  "type": "ERC20",
+  "symbol": "🍯",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x945ac5fda5a97ec85e7778c435064ac217a68d41",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://honeypotpulse.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulseHoneyPot"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pHoneyPot"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ibiza Crypto Bosses",
+  "website": "",
+  "description": "Ibiza Crypto Bosses token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA7704061372a523912B743139BcF447c23dB5e5E",
+  "type": "ERC20",
+  "symbol": "pBOSS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa7704061372a523912b743139bcf447c23db5e5e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/CryptoBossesPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CryptoBossesPLS"
+    }
+  ]
+}

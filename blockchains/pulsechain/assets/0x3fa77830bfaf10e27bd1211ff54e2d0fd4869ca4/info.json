@@ -1,0 +1,29 @@
+{
+  "name": "Audio Ecstasy, Inc",
+  "website": "https://audioxtc.com",
+  "description": "Audio Ecstasy, Inc token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3Fa77830bFaF10e27bd1211Ff54E2D0Fd4869cA4",
+  "type": "ERC20",
+  "symbol": "XTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3fa77830bfaf10e27bd1211ff54e2d0fd4869ca4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://audioxtc.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/AudioEcstasyInc"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AudioXTC"
+    }
+  ]
+}

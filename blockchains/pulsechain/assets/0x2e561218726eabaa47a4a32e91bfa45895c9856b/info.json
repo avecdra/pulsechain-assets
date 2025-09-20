@@ -1,0 +1,15 @@
+{
+  "name": "LAMBO",
+  "website": "",
+  "description": "LAMBO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2e561218726eabaa47a4a32e91bfa45895c9856b",
+  "type": "ERC20",
+  "symbol": "LAMBO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2e561218726eabaa47a4a32e91bfa45895c9856b",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

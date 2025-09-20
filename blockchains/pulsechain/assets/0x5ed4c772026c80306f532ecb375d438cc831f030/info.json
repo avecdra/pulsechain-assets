@@ -1,0 +1,21 @@
+{
+  "name": "pDAI Besties",
+  "website": "",
+  "description": "pDAI Besties token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5ed4c772026C80306f532eCb375D438CC831f030",
+  "type": "ERC20",
+  "symbol": "💛",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5ed4c772026c80306f532ecb375d438cc831f030",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/pDAIRiders"
+    }
+  ]
+}

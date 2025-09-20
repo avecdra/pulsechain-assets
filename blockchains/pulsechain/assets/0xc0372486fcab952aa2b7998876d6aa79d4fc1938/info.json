@@ -1,0 +1,49 @@
+{
+  "name": "INDIKIN",
+  "website": "https://indikin.online",
+  "description": "INDIKIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC0372486fCab952aA2B7998876d6aa79d4Fc1938",
+  "type": "ERC20",
+  "symbol": "INDIKIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc0372486fcab952aa2b7998876d6aa79d4fc1938",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://indikin.online"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@IndiKin"
+    },
+    {
+      "name": "website",
+      "url": "https://www.instagram.com/indikinoffical"
+    },
+    {
+      "name": "website",
+      "url": "https://www.linkedin.com/showcase/indikin"
+    },
+    {
+      "name": "website",
+      "url": "https://www.reddit.com/r/indikin/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/IndiKinofficial"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/indikin"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/4peav9QJtv"
+    }
+  ]
+}

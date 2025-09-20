@@ -1,0 +1,29 @@
+{
+  "name": "N",
+  "website": "https://vox.finance/token/n",
+  "description": "N token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x474B8DA5fdCfb36e6E7253Ccc3f448745F6c6eB5",
+  "type": "ERC20",
+  "symbol": "NAK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x474b8da5fdcfb36e6e7253ccc3f448745f6c6eb5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://vox.finance/token/n"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Nakamoto369"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/passive_income0x"
+    }
+  ]
+}

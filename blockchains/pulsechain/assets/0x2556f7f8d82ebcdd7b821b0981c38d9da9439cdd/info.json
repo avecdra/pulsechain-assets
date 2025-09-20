@@ -1,0 +1,16 @@
+{
+  "name": "dOWN",
+  "website": "",
+  "description": "dOWN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2556F7f8d82EbcdD7b821b0981C38D9dA9439CdD",
+  "type": "ERC20",
+  "symbol": "dOWN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2556f7f8d82ebcdd7b821b0981c38d9da9439cdd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Furieverse",
+  "website": "https://furieverse.co/",
+  "description": "Furieverse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x79C1353366F779a938A45E0e405E2b4454Ca4f6F",
+  "type": "ERC20",
+  "symbol": "FURIE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x79c1353366f779a938a45e0e405e2b4454ca4f6f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://furieverse.co/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/furieverseco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/furieverse"
+    }
+  ]
+}

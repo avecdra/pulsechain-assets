@@ -1,0 +1,25 @@
+{
+  "name": "Dragon Mint Council",
+  "website": "https://dragonmintcouncil.com/",
+  "description": "Dragon Mint Council token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x47cd1790BBA178894ce245D022ce869C674275dE",
+  "type": "ERC20",
+  "symbol": "DMC404",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x47cd1790bba178894ce245d022ce869c674275de",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dragonmintcouncil.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+ZO0DhJxCEu84NDdh"
+    }
+  ]
+}

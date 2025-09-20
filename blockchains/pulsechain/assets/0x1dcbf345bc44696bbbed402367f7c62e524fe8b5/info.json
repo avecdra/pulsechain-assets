@@ -1,0 +1,29 @@
+{
+  "name": "pBSKR - pulselorian.com",
+  "website": "https://pulselorian.com/pBSKR",
+  "description": "pBSKR - pulselorian.com token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1DcbF345bC44696BbBed402367f7C62e524Fe8B5",
+  "type": "ERC20",
+  "symbol": "pBSKR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1dcbf345bc44696bbbed402367f7c62e524fe8b5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulselorian.com/pBSKR"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ThePulseLorian"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ThePulselorian"
+    }
+  ]
+}

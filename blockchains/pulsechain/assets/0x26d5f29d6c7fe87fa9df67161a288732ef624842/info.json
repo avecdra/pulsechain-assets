@@ -1,0 +1,25 @@
+{
+  "name": "Pikki Pikki",
+  "website": "",
+  "description": "Pikki Pikki token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x26d5F29D6c7fe87fA9Df67161A288732EF624842",
+  "type": "ERC20",
+  "symbol": "PIKI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x26d5f29d6c7fe87fa9df67161a288732ef624842",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PMTUpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PLSKITTIE"
+    }
+  ]
+}

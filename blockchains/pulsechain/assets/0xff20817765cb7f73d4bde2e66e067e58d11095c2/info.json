@@ -1,0 +1,16 @@
+{
+  "name": "Amp",
+  "website": "",
+  "description": "Amp token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+  "type": "ERC20",
+  "symbol": "AMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Dark Horse",
+  "website": "",
+  "description": "Dark Horse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xf40a744B60e15FeBfa63189216212F9a35f5a420",
+  "type": "ERC20",
+  "symbol": "DARK ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf40a744b60e15febfa63189216212f9a35f5a420",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/MrDarkHorsePls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DarkOnPulse"
+    }
+  ]
+}

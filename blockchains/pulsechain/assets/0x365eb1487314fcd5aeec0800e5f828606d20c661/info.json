@@ -1,0 +1,29 @@
+{
+  "name": "MCTolkien",
+  "website": "https://mctolkien.com/info",
+  "description": "MCTolkien token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x365eB1487314fCd5AEEC0800e5f828606d20C661",
+  "type": "ERC20",
+  "symbol": "MCT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x365eb1487314fcd5aeec0800e5f828606d20c661",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://mctolkien.com/info"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/MCSOUTHPARK"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MCSouthPark"
+    }
+  ]
+}

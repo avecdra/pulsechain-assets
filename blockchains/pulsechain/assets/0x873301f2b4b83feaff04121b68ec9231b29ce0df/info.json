@@ -1,0 +1,25 @@
+{
+  "name": "SOLANA",
+  "website": "",
+  "description": "SOLANA token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x873301F2B4B83FeaFF04121B68eC9231B29Ce0df",
+  "type": "ERC20",
+  "symbol": "SOL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x873301f2b4b83feaff04121b68ec9231b29ce0df",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/SolOnPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SolanaBackshots"
+    }
+  ]
+}

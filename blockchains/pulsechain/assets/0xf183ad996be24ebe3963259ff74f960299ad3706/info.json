@@ -1,0 +1,16 @@
+{
+  "name": "Hearts Law Bulls",
+  "website": "",
+  "description": "Hearts Law Bulls token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF183AD996Be24EBE3963259ff74f960299AD3706",
+  "type": "ERC20",
+  "symbol": "XLAW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf183ad996be24ebe3963259ff74f960299ad3706",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

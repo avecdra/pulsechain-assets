@@ -1,0 +1,16 @@
+{
+  "name": "Shih Tzu",
+  "website": "",
+  "description": "Shih Tzu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x841FB148863454A3b3570f515414759BE9091465",
+  "type": "ERC20",
+  "symbol": "SHIH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x841fb148863454a3b3570f515414759be9091465",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

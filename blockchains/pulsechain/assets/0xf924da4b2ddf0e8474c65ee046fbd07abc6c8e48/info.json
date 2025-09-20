@@ -1,0 +1,33 @@
+{
+  "name": "mLINK",
+  "website": "https://a1a.eco/",
+  "description": "mLINK token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF924dA4B2dDf0e8474c65eE046FBd07aBC6c8E48",
+  "type": "ERC20",
+  "symbol": "mLINK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf924da4b2ddf0e8474c65ee046fbd07abc6c8e48",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://a1a.eco/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MiniEthLaB"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MiniEthLab"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Power to Profit",
+  "website": "https://www.power2profit.win/",
+  "description": "Power to Profit token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA831a35f48664fE357c584540fb79e172157CBF3",
+  "type": "ERC20",
+  "symbol": "POWER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa831a35f48664fe357c584540fb79e172157cbf3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.power2profit.win/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PowerToProfit"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Taxation Is Theft",
+  "website": "",
+  "description": "Taxation Is Theft token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x77cD3B203C085a3EA1b56e523DBC419b26847fFC",
+  "type": "ERC20",
+  "symbol": "TIT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x77cd3b203c085a3ea1b56e523dbc419b26847ffc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/metalheadmosh"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TaxationIsTheft_TIT"
+    }
+  ]
+}

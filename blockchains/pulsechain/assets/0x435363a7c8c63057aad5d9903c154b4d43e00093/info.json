@@ -1,0 +1,25 @@
+{
+  "name": "ELON",
+  "website": "https://pump.tires/token/0x435363A7C8C63057aAD5d9903c154b4d43E00093",
+  "description": "ELON token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x435363A7C8C63057aAD5d9903c154b4d43E00093",
+  "type": "ERC20",
+  "symbol": "ELON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x435363a7c8c63057aad5d9903c154b4d43e00093",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0x435363A7C8C63057aAD5d9903c154b4d43E00093"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1885883764347486278"
+    }
+  ]
+}

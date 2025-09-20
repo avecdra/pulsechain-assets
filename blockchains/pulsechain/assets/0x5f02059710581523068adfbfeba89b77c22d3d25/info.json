@@ -1,0 +1,15 @@
+{
+  "name": "Christian Dyor",
+  "website": "",
+  "description": "Christian Dyor token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5f02059710581523068adfbfeba89b77c22d3d25",
+  "type": "ERC20",
+  "symbol": "DYOR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5f02059710581523068adfbfeba89b77c22d3d25",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

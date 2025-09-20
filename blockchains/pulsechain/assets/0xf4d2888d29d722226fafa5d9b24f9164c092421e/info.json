@@ -1,0 +1,16 @@
+{
+  "name": "LooksRare Token",
+  "website": "",
+  "description": "LooksRare Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+  "type": "ERC20",
+  "symbol": "LOOKS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

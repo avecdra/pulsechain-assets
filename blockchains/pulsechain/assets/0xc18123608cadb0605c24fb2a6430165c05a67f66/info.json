@@ -1,0 +1,15 @@
+{
+  "name": "Tard",
+  "website": "",
+  "description": "Tard token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc18123608cadb0605c24fb2a6430165c05a67f66",
+  "type": "ERC20",
+  "symbol": "TARD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc18123608cadb0605c24fb2a6430165c05a67f66",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

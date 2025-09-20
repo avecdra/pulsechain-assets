@@ -1,0 +1,29 @@
+{
+  "name": "Dumb Amplifier",
+  "website": "https://www.dumbmoney.win/",
+  "description": "Dumb Amplifier token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8357aA9070dc7d8d154Da74561CEc58cA30c41C3",
+  "type": "ERC20",
+  "symbol": "DAMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8357aa9070dc7d8d154da74561cec58ca30c41c3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.dumbmoney.win/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.dumbmoney.win/docs/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dumbmoneydotwin"
+    }
+  ]
+}

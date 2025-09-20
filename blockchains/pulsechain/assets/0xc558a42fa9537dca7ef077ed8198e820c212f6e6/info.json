@@ -1,0 +1,29 @@
+{
+  "name": "Golden Ratio",
+  "website": "https://fibonpulse.vercel.app/",
+  "description": "Golden Ratio token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC558a42Fa9537Dca7EF077ED8198E820c212F6e6",
+  "type": "ERC20",
+  "symbol": "FIB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc558a42fa9537dca7ef077ed8198e820c212f6e6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://fibonpulse.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/fibonpulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/FIBmeme"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "PLSZEN",
+  "website": "https://pulsezen.app/",
+  "description": "PLSZEN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5a24D7129B6f3FcAd2220296df28911880AD22B0",
+  "type": "ERC20",
+  "symbol": "PZEN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5a24d7129b6f3fcad2220296df28911880ad22b0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsezen.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsezen.app/wp-content/uploads/2022/08/PulseZenWhitepaper.pdf"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/askconradzen"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pzenofficial"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Icosa Burn",
+  "website": "https://icosaburn.win/",
+  "description": "Icosa Burn token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBd2826B7823537fcD30D738aBe4250AD6262209c",
+  "type": "ERC20",
+  "symbol": "iBurn",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbd2826b7823537fcd30d738abe4250ad6262209c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://icosaburn.win/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/GIFFORDwear"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GIFFORDwear_win"
+    }
+  ]
+}

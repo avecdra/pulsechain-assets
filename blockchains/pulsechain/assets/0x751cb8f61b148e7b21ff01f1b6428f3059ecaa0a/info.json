@@ -1,0 +1,25 @@
+{
+  "name": "ALIEN POOP 👽💩",
+  "website": "",
+  "description": "ALIEN POOP 👽💩 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x751CB8f61b148e7b21FF01f1B6428f3059EcAa0A",
+  "type": "ERC20",
+  "symbol": "👽🍔🍟🌮💩",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x751cb8f61b148e7b21ff01f1b6428f3059ecaa0a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/AlienPoopPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AlienPoopPLS"
+    }
+  ]
+}

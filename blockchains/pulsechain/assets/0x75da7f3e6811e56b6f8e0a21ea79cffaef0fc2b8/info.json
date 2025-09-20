@@ -1,0 +1,33 @@
+{
+  "name": "INCr",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "INCr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x75DA7F3e6811E56B6F8e0a21ea79cffAeF0Fc2B8",
+  "type": "ERC20",
+  "symbol": "INCr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x75da7f3e6811e56b6f8e0a21ea79cffaef0fc2b8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plsXmas"
+    }
+  ]
+}

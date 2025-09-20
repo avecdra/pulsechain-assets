@@ -1,0 +1,15 @@
+{
+  "name": "Granny Token",
+  "website": "",
+  "description": "Granny Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xfcf7f3915a899b9133b0d10f6b84f6a849c212df",
+  "type": "ERC20",
+  "symbol": "GRANN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfcf7f3915a899b9133b0d10f6b84f6a849c212df",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "9INCH from Ethereum",
+  "website": "",
+  "description": "9INCH from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xed22494279e0f3f1ab491f823c6ec4055afeb21f",
+  "type": "ERC20",
+  "symbol": "9INCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xed22494279e0f3f1ab491f823c6ec4055afeb21f",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Αεί δω",
+  "website": "",
+  "description": "Αεί δω token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb3781607F5D3Ff89940FAcB9A0722de86FC4435C",
+  "type": "ERC20",
+  "symbol": "Αδ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb3781607f5d3ff89940facb9a0722de86fc4435c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/AEIDO_Pulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/AEIDO_Pulse"
+    }
+  ]
+}

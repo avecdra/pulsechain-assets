@@ -1,0 +1,29 @@
+{
+  "name": "Richards first Car",
+  "website": "https://Bonnie-pls.com",
+  "description": "Richards first Car token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xeF7A713C3F10c12D8b12B7CBB78b79b92303Ccd4",
+  "type": "ERC20",
+  "symbol": "BONNIE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xef7a713c3f10c12d8b12b7cbb78b79b92303ccd4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://Bonnie-pls.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/bonnieOnPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BonniePLS"
+    }
+  ]
+}

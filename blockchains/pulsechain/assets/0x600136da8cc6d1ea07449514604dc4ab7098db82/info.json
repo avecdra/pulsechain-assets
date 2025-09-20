@@ -1,0 +1,16 @@
+{
+  "name": "Coast",
+  "website": "",
+  "description": "Coast token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
+  "type": "ERC20",
+  "symbol": "CST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x600136da8cc6d1ea07449514604dc4ab7098db82",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

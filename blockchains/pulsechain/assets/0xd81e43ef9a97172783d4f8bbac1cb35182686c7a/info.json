@@ -1,0 +1,21 @@
+{
+  "name": "Charles Hoskinson",
+  "website": "",
+  "description": "Charles Hoskinson token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD81E43eF9A97172783D4F8BbAC1CB35182686c7a",
+  "type": "ERC20",
+  "symbol": "Charles",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd81e43ef9a97172783d4f8bbac1cb35182686c7a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/IOHK_Charles"
+    }
+  ]
+}

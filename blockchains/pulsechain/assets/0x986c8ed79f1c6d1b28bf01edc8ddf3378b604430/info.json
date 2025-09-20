@@ -1,0 +1,29 @@
+{
+  "name": "WAGMI  ㉾",
+  "website": "https://www.atropa414.com/",
+  "description": "WAGMI  ㉾ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x986C8Ed79f1c6D1b28bF01edC8ddf3378B604430",
+  "type": "ERC20",
+  "symbol": "WAGMI  ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x986c8ed79f1c6d1b28bf01edc8ddf3378b604430",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.atropa414.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/414Atropa"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Atropa414"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Bullseye Bot Token",
+  "website": "https://www.bullseyebot.com/",
+  "description": "Bullseye Bot Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xeAb7c22B8F5111559A2c2B1A3402d3FC713CAc27",
+  "type": "ERC20",
+  "symbol": "BLSEYE🎯",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeab7c22b8f5111559a2c2b1a3402d3fc713cac27",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.bullseyebot.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://bullseye-bot.gitbook.io/bullseyebot"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/BullseyeBotWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/bullseyebotportal"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "🔥 Heart Tribute 🔥",
+  "website": "https://pump.tires/token/0xCbD3B8BbE0Ecd05545B3584AF0be88F24a7cB6b7",
+  "description": "🔥 Heart Tribute 🔥 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCbD3B8BbE0Ecd05545B3584AF0be88F24a7cB6b7",
+  "type": "ERC20",
+  "symbol": "$HRT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcbd3b8bbe0ecd05545b3584af0be88f24a7cb6b7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xCbD3B8BbE0Ecd05545B3584AF0be88F24a7cB6b7"
+    }
+  ]
+}

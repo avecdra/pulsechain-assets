@@ -1,0 +1,33 @@
+{
+  "name": "XBURN.win",
+  "website": "https://xburn.win",
+  "description": "XBURN.win token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6518dD379F02DDDb65C027fE8b4042E91337ba62",
+  "type": "ERC20",
+  "symbol": "XBURN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6518dd379f02dddb65c027fe8b4042e91337ba62",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://xburn.win"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.xburn.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/axeldefinance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/axeldefinance"
+    }
+  ]
+}

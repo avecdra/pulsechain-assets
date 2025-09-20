@@ -1,0 +1,16 @@
+{
+  "name": "SNAIPUR",
+  "website": "",
+  "description": "SNAIPUR token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF691eEf03fD475c0C1b8d84B0d2182c55DEfdfDD",
+  "type": "ERC20",
+  "symbol": "SNAIP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf691eef03fd475c0c1b8d84b0d2182c55defdfdd",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

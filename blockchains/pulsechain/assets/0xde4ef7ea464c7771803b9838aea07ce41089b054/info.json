@@ -1,0 +1,25 @@
+{
+  "name": "ՔՈՏ",
+  "website": "",
+  "description": "ՔՈՏ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdE4Ef7Ea464c7771803b9838AeA07cE41089b054",
+  "type": "ERC20",
+  "symbol": "ԳՐԵՆԼԱՆԴԻԱ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde4ef7ea464c7771803b9838aea07ce41089b054",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Greenland414"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GREENLAND414"
+    }
+  ]
+}

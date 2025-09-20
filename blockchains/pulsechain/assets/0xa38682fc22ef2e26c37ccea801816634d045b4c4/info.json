@@ -1,0 +1,21 @@
+{
+  "name": "Degen RoundTable",
+  "website": "",
+  "description": "Degen RoundTable token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA38682fc22eF2E26C37cceA801816634d045b4c4",
+  "type": "ERC20",
+  "symbol": "DRT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa38682fc22ef2e26c37ccea801816634d045b4c4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/+PaZ7dTm8u0wxYzJh"
+    }
+  ]
+}

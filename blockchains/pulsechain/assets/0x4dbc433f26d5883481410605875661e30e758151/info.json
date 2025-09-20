@@ -1,0 +1,25 @@
+{
+  "name": "Bidet",
+  "website": "",
+  "description": "Bidet token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4dBc433F26D5883481410605875661E30E758151",
+  "type": "ERC20",
+  "symbol": "BIDET",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4dbc433f26d5883481410605875661e30e758151",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/bidetonpls?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/bidetonpls"
+    }
+  ]
+}

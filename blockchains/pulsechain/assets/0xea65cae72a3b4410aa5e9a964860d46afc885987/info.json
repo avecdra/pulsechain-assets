@@ -1,0 +1,29 @@
+{
+  "name": "Core Coin",
+  "website": "https://www.corecoin.win",
+  "description": "Core Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xEa65cae72a3B4410aa5e9A964860D46AFc885987",
+  "type": "ERC20",
+  "symbol": "CORE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xea65cae72a3b4410aa5e9a964860d46afc885987",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.corecoin.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/COREcoinPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/corecoinpls"
+    }
+  ]
+}

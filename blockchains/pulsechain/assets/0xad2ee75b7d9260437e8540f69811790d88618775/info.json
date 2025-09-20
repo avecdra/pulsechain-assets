@@ -1,0 +1,29 @@
+{
+  "name": "Richard Heart Win",
+  "website": "https://PUMP.tires",
+  "description": "Richard Heart Win token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xad2eE75b7D9260437e8540F69811790D88618775",
+  "type": "ERC20",
+  "symbol": "WIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xad2ee75b7d9260437e8540f69811790d88618775",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://PUMP.tires"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1886537089329848462"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/WINandGASTokens"
+    }
+  ]
+}

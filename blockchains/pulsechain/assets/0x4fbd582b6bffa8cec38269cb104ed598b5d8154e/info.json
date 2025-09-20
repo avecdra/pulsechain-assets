@@ -1,0 +1,16 @@
+{
+  "name": "Where’d the Farms Go?",
+  "website": "",
+  "description": "Where’d the Farms Go? token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4fBD582B6bfFa8cEc38269Cb104Ed598b5D8154E",
+  "type": "ERC20",
+  "symbol": "WF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4fbd582b6bffa8cec38269cb104ed598b5d8154e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Doomer",
+  "website": "https://plsdoomer.xyz",
+  "description": "Doomer token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC3dDb5fbC71B9E4582b115596c42dbd168117085",
+  "type": "ERC20",
+  "symbol": "Doomer",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc3ddb5fbc71b9e4582b115596c42dbd168117085",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://plsdoomer.xyz"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DoomerCoin69"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PLSDOOMER"
+    }
+  ]
+}

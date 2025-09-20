@@ -1,0 +1,29 @@
+{
+  "name": "doggwifweed",
+  "website": "https://doggwifweed.com/",
+  "description": "doggwifweed token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x220E4cF83eCa26bDF4eA5BB250842c63FcA0813D",
+  "type": "ERC20",
+  "symbol": "PLIFF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x220e4cf83eca26bdf4ea5bb250842c63fca0813d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://doggwifweed.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/doggwifweed"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/dogwifweedPLS"
+    }
+  ]
+}

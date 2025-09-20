@@ -1,0 +1,16 @@
+{
+  "name": "PulseLitecoin",
+  "website": "",
+  "description": "PulseLitecoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x68eA849F92998D54555B33F45825c42Ee56866Fb",
+  "type": "ERC20",
+  "symbol": "pLTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x68ea849f92998d54555b33f45825c42ee56866fb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

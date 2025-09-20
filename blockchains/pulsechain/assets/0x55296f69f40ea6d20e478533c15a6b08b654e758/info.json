@@ -1,0 +1,16 @@
+{
+  "name": "XY Oracle",
+  "website": "",
+  "description": "XY Oracle token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+  "type": "ERC20",
+  "symbol": "XYO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

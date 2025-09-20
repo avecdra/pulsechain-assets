@@ -1,0 +1,29 @@
+{
+  "name": "WOJAK",
+  "website": "https://wojakpulse.com/",
+  "description": "WOJAK token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6156C1F4b001Bb07081CfeF99757Fd470a9c3A9C",
+  "type": "ERC20",
+  "symbol": "WOJAK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6156c1f4b001bb07081cfef99757fd470a9c3a9c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://wojakpulse.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/WojakPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/wojakpulsechain"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Lazy",
+  "website": "",
+  "description": "Lazy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x97df6a05AEaaeF7b461ef6d08aCB058f02868c17",
+  "type": "ERC20",
+  "symbol": "LZY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x97df6a05aeaaef7b461ef6d08acb058f02868c17",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

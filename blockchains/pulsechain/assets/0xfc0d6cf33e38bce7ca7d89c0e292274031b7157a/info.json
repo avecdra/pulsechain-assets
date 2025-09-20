@@ -1,0 +1,16 @@
+{
+  "name": "NETVRK",
+  "website": "",
+  "description": "NETVRK token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A",
+  "type": "ERC20",
+  "symbol": "NTVRK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

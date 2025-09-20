@@ -1,0 +1,16 @@
+{
+  "name": "DAI Reflections",
+  "website": "",
+  "description": "DAI Reflections token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x17637e738D095f4E480CabBF55038E4E9e2B235E",
+  "type": "ERC20",
+  "symbol": "DRS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x17637e738d095f4e480cabbf55038e4e9e2b235e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

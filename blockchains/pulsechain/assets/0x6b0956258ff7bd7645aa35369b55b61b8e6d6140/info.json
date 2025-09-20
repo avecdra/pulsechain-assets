@@ -1,0 +1,16 @@
+{
+  "name": "Maximus Lucky",
+  "website": "",
+  "description": "Maximus Lucky token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6B0956258fF7bd7645aa35369B55B61b8e6d6140",
+  "type": "ERC20",
+  "symbol": "LUCKY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6b0956258ff7bd7645aa35369b55b61b8e6d6140",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

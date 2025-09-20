@@ -1,0 +1,25 @@
+{
+  "name": "ImOldGregg",
+  "website": "https://www.dailymotion.com/video/x5rg8i",
+  "description": "ImOldGregg token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBbf1A9b310655e0360AB671a2b32dc1A7c91c09C",
+  "type": "ERC20",
+  "symbol": "OldGregg",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbbf1a9b310655e0360ab671a2b32dc1a7c91c09c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.dailymotion.com/video/x5rg8i"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Imoldgreeeg"
+    }
+  ]
+}

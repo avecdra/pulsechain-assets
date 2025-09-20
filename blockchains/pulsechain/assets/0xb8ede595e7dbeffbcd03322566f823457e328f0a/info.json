@@ -1,0 +1,29 @@
+{
+  "name": "XUSD Reflections",
+  "website": "https://pulsexxusd.win",
+  "description": "XUSD Reflections token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb8eDE595E7dBEffBCd03322566f823457e328f0a",
+  "type": "ERC20",
+  "symbol": "XXUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb8ede595e7dbeffbcd03322566f823457e328f0a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsexxusd.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseXXUSD?t=7XEAyvv3JBwU2nZ_Ys11Xw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseXXUSD"
+    }
+  ]
+}

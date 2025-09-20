@@ -1,0 +1,25 @@
+{
+  "name": "GAYSTOP",
+  "website": "",
+  "description": "GAYSTOP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x200F99a2fd789A38e44fD9Ec039193bEDf719791",
+  "type": "ERC20",
+  "symbol": "TOP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x200f99a2fd789a38e44fd9ec039193bedf719791",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/gaystoppls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/GayStopPLS"
+    }
+  ]
+}

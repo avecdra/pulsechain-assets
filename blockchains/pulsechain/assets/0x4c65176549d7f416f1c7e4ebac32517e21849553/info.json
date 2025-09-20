@@ -1,0 +1,29 @@
+{
+  "name": "SER",
+  "website": "https://www.strategicethreserve.xyz/",
+  "description": "SER token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4C65176549d7F416F1C7E4ebac32517e21849553",
+  "type": "ERC20",
+  "symbol": "SER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4c65176549d7f416f1c7e4ebac32517e21849553",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.strategicethreserve.xyz/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/EthReserve"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/StrategicEthReserve"
+    }
+  ]
+}

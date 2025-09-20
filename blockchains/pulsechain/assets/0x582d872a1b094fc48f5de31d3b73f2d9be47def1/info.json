@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped TON Coin",
+  "website": "",
+  "description": "Wrapped TON Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+  "type": "ERC20",
+  "symbol": "TONCOIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

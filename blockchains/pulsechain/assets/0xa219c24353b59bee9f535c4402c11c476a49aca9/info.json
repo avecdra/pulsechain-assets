@@ -1,0 +1,29 @@
+{
+  "name": "Landwolf",
+  "website": "https://boysclubpls.io",
+  "description": "Landwolf token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa219C24353B59bEE9F535C4402c11C476A49ACA9",
+  "type": "ERC20",
+  "symbol": "WOLF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa219c24353b59bee9f535c4402c11c476a49aca9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://boysclubpls.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/boysclubpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/boysclubpulse"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Cream",
+  "website": "https://app.cream.finance/",
+  "description": "Cream token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2ba592F78dB6436527729929AAf6c908497cB200",
+  "type": "ERC20",
+  "symbol": "CREAM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2ba592f78db6436527729929aaf6c908497cb200",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://app.cream.finance/"
+    },
+    {
+      "name": "website",
+      "url": "http://chiitan.club/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/CreamdotFi_JP?t=72Gbrk6h-ViaesLWFpGnjA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/CreamdotFinance"
+    }
+  ]
+}

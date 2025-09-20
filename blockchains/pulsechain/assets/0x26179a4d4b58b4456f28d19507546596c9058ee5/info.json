@@ -1,0 +1,16 @@
+{
+  "name": "Wait",
+  "website": "",
+  "description": "Wait token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x26179a4d4B58b4456F28d19507546596c9058ee5",
+  "type": "ERC20",
+  "symbol": "WAIT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x26179a4d4b58b4456f28d19507546596c9058ee5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

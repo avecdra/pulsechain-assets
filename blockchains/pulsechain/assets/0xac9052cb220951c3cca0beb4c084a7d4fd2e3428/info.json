@@ -1,0 +1,29 @@
+{
+  "name": "New York City Pizza Rat",
+  "website": "https://hexoacoin.com/",
+  "description": "New York City Pizza Rat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xaC9052cb220951c3CCA0Beb4C084A7D4fd2e3428",
+  "type": "ERC20",
+  "symbol": "PIZZA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xac9052cb220951c3cca0beb4c084a7d4fd2e3428",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hexoacoin.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky?t=zqEFI-BdFXeFXw1MbuOHEw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

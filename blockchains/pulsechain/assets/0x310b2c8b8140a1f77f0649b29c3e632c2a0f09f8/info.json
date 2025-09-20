@@ -1,0 +1,29 @@
+{
+  "name": "OB-One",
+  "website": "https://zeroinflation.tech/",
+  "description": "OB-One token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x310B2C8b8140a1F77f0649B29c3E632c2a0F09f8",
+  "type": "ERC20",
+  "symbol": "OB1",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x310b2c8b8140a1f77f0649b29c3e632c2a0f09f8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://zeroinflation.tech/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/zero_inflation?s=21\u0026t=iz5Z5EVhQt2Kn3M6bpk8pw"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mission_controls"
+    }
+  ]
+}

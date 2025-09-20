@@ -1,0 +1,15 @@
+{
+  "name": "XIO Network",
+  "website": "",
+  "description": "XIO Network token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
+  "type": "ERC20",
+  "symbol": "XIO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

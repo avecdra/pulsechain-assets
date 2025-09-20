@@ -1,0 +1,16 @@
+{
+  "name": "Lido DAO Token",
+  "website": "",
+  "description": "Lido DAO Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+  "type": "ERC20",
+  "symbol": "LDO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

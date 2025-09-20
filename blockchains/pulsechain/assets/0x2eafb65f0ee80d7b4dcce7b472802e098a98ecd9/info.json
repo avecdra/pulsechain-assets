@@ -1,0 +1,15 @@
+{
+  "name": "TOTAL FOMO",
+  "website": "",
+  "description": "TOTAL FOMO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2eafb65f0ee80d7b4dcce7b472802e098a98ecd9",
+  "type": "ERC20",
+  "symbol": "TF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2eafb65f0ee80d7b4dcce7b472802e098a98ecd9",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

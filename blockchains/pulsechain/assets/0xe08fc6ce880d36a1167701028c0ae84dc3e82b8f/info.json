@@ -1,0 +1,29 @@
+{
+  "name": "Yep",
+  "website": "https://yeponpulse.com",
+  "description": "Yep token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE08FC6Ce880D36a1167701028c0ae84dc3e82b8f",
+  "type": "ERC20",
+  "symbol": "YEP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe08fc6ce880d36a1167701028c0ae84dc3e82b8f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://yeponpulse.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/YepOnPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/yeptokenofficial"
+    }
+  ]
+}

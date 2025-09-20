@@ -1,0 +1,21 @@
+{
+  "name": "Dark Charizard わるいリザードン",
+  "website": "",
+  "description": "Dark Charizard わるいリザードン token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa2bf2639C6517705d2BF097C0e63983Eb2871F61",
+  "type": "ERC20",
+  "symbol": "dCHAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa2bf2639c6517705d2bf097c0e63983eb2871f61",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/darkmagapls"
+    }
+  ]
+}

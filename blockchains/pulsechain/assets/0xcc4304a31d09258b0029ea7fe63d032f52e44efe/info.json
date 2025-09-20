@@ -1,0 +1,16 @@
+{
+  "name": "TrustSwap Token",
+  "website": "",
+  "description": "TrustSwap Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+  "type": "ERC20",
+  "symbol": "SWAP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

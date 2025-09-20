@@ -1,0 +1,53 @@
+{
+  "name": "Internet Money",
+  "website": "https://internetmoney.io/",
+  "description": "Internet Money token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
+  "type": "ERC20",
+  "symbol": "IM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbbcf895bfcb57d0f457d050bb806d1499436c0ce",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/"
+    },
+    {
+      "name": "website",
+      "url": "https://gitlab.com/internetmoneyio/"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/ios"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/android"
+    },
+    {
+      "name": "website",
+      "url": "https://internetmoney.io/chrome"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/internetmoneyio"
+    },
+    {
+      "name": "website",
+      "url": "https://www.reddit.com/r/internetmoneyio/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/InternetMoneyio"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/internetmoneyio"
+    }
+  ]
+}

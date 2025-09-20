@@ -1,0 +1,16 @@
+{
+  "name": "The Grays Curency",
+  "website": "",
+  "description": "The Grays Curency token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3557DE59D75817C5EC218B8cDe95Bbd0f16707Ab",
+  "type": "ERC20",
+  "symbol": "pTGC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3557de59d75817c5ec218b8cde95bbd0f16707ab",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "HeartWifDog",
+  "website": "https://heartwifdog.com",
+  "description": "HeartWifDog token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x16757fa456F06AAB7aDa2Be7a5FF47fef96572DC",
+  "type": "ERC20",
+  "symbol": "HOG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x16757fa456f06aab7ada2be7a5ff47fef96572dc",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://heartwifdog.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/HeartWifDog"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HeartWifDogOfficial"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Pony Picture",
+  "website": "",
+  "description": "Pony Picture token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x81D89f5D3c6CBCB026531f4c586274B9a199f0d2",
+  "type": "ERC20",
+  "symbol": "PONY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x81d89f5d3c6cbcb026531f4c586274b9a199f0d2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PonyPicturePLS"
+    }
+  ]
+}

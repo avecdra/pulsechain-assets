@@ -1,0 +1,29 @@
+{
+  "name": "$Heartcore",
+  "website": "https://pump.tires/token/0xD8469907B610ed4DCCab1e98aA4779b5E068C443",
+  "description": "$Heartcore token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD8469907B610ed4DCCab1e98aA4779b5E068C443",
+  "type": "ERC20",
+  "symbol": "$Heartcore",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd8469907b610ed4dccab1e98aa4779b5e068c443",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xD8469907B610ed4DCCab1e98aA4779b5E068C443"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Heartcore5555"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HEARTCOREMAINCHAT"
+    }
+  ]
+}

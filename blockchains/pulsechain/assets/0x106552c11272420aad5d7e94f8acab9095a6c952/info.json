@@ -1,0 +1,16 @@
+{
+  "name": "Keanu Inu",
+  "website": "",
+  "description": "Keanu Inu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x106552C11272420aAd5d7e94f8AcAb9095A6c952",
+  "type": "ERC20",
+  "symbol": "KEANU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x106552c11272420aad5d7e94f8acab9095a6c952",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

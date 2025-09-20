@@ -1,0 +1,16 @@
+{
+  "name": "E-RADIX",
+  "website": "",
+  "description": "E-RADIX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
+  "type": "ERC20",
+  "symbol": "eXRD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

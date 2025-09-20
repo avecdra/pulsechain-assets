@@ -1,0 +1,29 @@
+{
+  "name": "BOOMER",
+  "website": "https://pulseboomer.com/",
+  "description": "BOOMER token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x27b67bd4b710C352a5716b77ce1bfc2beb5CA1e2",
+  "type": "ERC20",
+  "symbol": "BOOMER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x27b67bd4b710c352a5716b77ce1bfc2beb5ca1e2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulseboomer.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulseBoomer"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulseboomer"
+    }
+  ]
+}

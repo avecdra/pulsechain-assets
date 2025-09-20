@@ -1,0 +1,25 @@
+{
+  "name": "Direct Buy Pressure",
+  "website": "https://libertyswap.finance/",
+  "description": "Direct Buy Pressure token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9DDeA7d549B979Ca511788Be494EDC66AB8111B3",
+  "type": "ERC20",
+  "symbol": "$DBP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9ddea7d549b979ca511788be494edc66ab8111b3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://libertyswap.finance/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/d_buy_pressure"
+    }
+  ]
+}

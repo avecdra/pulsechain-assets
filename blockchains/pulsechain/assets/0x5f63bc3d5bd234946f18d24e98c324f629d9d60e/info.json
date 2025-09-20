@@ -1,0 +1,16 @@
+{
+  "name": "IMPLS Token",
+  "website": "",
+  "description": "IMPLS Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5f63BC3d5bd234946f18d24e98C324f629D9d60e",
+  "type": "ERC20",
+  "symbol": "IMPLS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5f63bc3d5bd234946f18d24e98c324f629d9d60e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Free-Gold",
+  "website": "",
+  "description": "Free-Gold token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc57169b5e803F83c28970f0d8a73e2b35d56CE32",
+  "type": "ERC20",
+  "symbol": "Franc",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc57169b5e803f83c28970f0d8a73e2b35d56ce32",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

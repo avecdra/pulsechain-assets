@@ -1,0 +1,29 @@
+{
+  "name": "BABY PEACOCK",
+  "website": "https://libertyswap.finance/",
+  "description": "BABY PEACOCK token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x459eD11589312C86552406c5142Eb0DBeC37Bf15",
+  "type": "ERC20",
+  "symbol": "BPCOCK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x459ed11589312c86552406c5142eb0dbec37bf15",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://libertyswap.finance/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/libertyswapfi?s=21\u0026t=gK01uKWVN64u5gKae7wPIw"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulseBabyPeacock"
+    }
+  ]
+}

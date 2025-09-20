@@ -1,0 +1,29 @@
+{
+  "name": "TitsWifVag",
+  "website": "https://www.twv.life/",
+  "description": "TitsWifVag token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3bE6A0ED144A5A39d423765b2DC3109d2E7ed8Be",
+  "type": "ERC20",
+  "symbol": "TWV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3be6a0ed144a5a39d423765b2dc3109d2e7ed8be",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.twv.life/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/titswifvag69"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TitsWifVag_Official_1"
+    }
+  ]
+}

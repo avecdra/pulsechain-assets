@@ -1,0 +1,29 @@
+{
+  "name": "EvmBitcoinToken",
+  "website": "https://www.notyourmomsbitcoin.com/",
+  "description": "EvmBitcoinToken token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x10d46D6F8f691d3439A781FC5E7BE598Ab67b393",
+  "type": "ERC20",
+  "symbol": "E.BTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x10d46d6f8f691d3439a781fc5e7be598ab67b393",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.notyourmomsbitcoin.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/evmbitcoin?s=21\u0026t=GyS12xY7pZKNSdoeOGFKWQ"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+AluUSMn-TVY1OTc0"
+    }
+  ]
+}

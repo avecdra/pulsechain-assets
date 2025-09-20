@@ -1,0 +1,29 @@
+{
+  "name": "BUZZ",
+  "website": "https://www.buzzprc20.com/",
+  "description": "BUZZ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD7C953110823460820c5BECD487EEA030177055D",
+  "type": "ERC20",
+  "symbol": "BUZZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd7c953110823460820c5becd487eea030177055d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.buzzprc20.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Buzzprc20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BuzzPulseChain"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Hathor-Golden Ω",
+  "website": "",
+  "description": "Hathor-Golden Ω token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x80b70890C81Ec56AA772e6D70B6E73778a2a0B38",
+  "type": "ERC20",
+  "symbol": "Bull",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x80b70890c81ec56aa772e6d70b6e73778a2a0b38",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

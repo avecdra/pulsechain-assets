@@ -1,0 +1,16 @@
+{
+  "name": "HEX.COM DIAMOND ",
+  "website": "",
+  "description": "HEX.COM DIAMOND  token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xCF409C91B49DD3F796d20Eec20535fDC79A08798",
+  "type": "ERC20",
+  "symbol": "DMND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcf409c91b49dd3f796d20eec20535fdc79a08798",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

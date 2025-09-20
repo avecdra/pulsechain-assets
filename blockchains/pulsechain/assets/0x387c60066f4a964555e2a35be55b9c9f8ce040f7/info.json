@@ -1,0 +1,21 @@
+{
+  "name": "DickWifPepe",
+  "website": "",
+  "description": "DickWifPepe token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x387C60066F4a964555E2A35bE55B9c9F8Ce040F7",
+  "type": "ERC20",
+  "symbol": "DWPE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x387c60066f4a964555e2a35be55b9c9f8ce040f7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/dickwifpepe"
+    }
+  ]
+}

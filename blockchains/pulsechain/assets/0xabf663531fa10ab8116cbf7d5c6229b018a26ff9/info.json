@@ -1,0 +1,16 @@
+{
+  "name": "Hedron from Ethereum",
+  "website": "",
+  "description": "Hedron from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9",
+  "type": "ERC20",
+  "symbol": "HDRN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xabf663531fa10ab8116cbf7d5c6229b018a26ff9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

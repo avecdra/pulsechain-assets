@@ -1,0 +1,37 @@
+{
+  "name": "Project Pi Liquid Staking Token",
+  "website": "https://www.projectpi.xyz/",
+  "description": "Project Pi Liquid Staking Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x21dCB2c16C3773A565AcB45f6c34348EC78a8385",
+  "type": "ERC20",
+  "symbol": "stPLS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x21dcb2c16c3773a565acb45f6c34348ec78a8385",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.projectpi.xyz/"
+    },
+    {
+      "name": "website",
+      "url": "https://docs.projectpi.xyz/welcome"
+    },
+    {
+      "name": "website",
+      "url": "https://github.com/ProjectPi314"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ProjectPi314"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Project_Pi314"
+    }
+  ]
+}

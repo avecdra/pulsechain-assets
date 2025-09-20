@@ -1,0 +1,16 @@
+{
+  "name": "HoloToken",
+  "website": "",
+  "description": "HoloToken token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+  "type": "ERC20",
+  "symbol": "HOT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Sayeret",
+  "website": "",
+  "description": "Sayeret token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x18cD97e099D81Ab48D50DA565B50fc4DD5791602",
+  "type": "ERC20",
+  "symbol": "Sayeret",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x18cd97e099d81ab48d50da565b50fc4dd5791602",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/Sayeret369"
+    }
+  ]
+}

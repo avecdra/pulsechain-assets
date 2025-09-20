@@ -1,0 +1,16 @@
+{
+  "name": "Euro Tether",
+  "website": "",
+  "description": "Euro Tether token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC581b735A1688071A1746c968e0798D642EDE491",
+  "type": "ERC20",
+  "symbol": "EURT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc581b735a1688071a1746c968e0798d642ede491",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

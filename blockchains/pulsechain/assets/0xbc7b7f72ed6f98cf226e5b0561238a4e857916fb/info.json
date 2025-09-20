@@ -1,0 +1,25 @@
+{
+  "name": "Fuck Coin",
+  "website": "https://cphd.club/",
+  "description": "Fuck Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xbC7B7f72ED6F98cf226E5B0561238a4e857916fb",
+  "type": "ERC20",
+  "symbol": "BTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbc7b7f72ed6f98cf226e5b0561238a4e857916fb",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://cphd.club/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/seedyelbow"
+    }
+  ]
+}

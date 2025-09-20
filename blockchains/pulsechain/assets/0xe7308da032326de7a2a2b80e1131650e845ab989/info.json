@@ -1,0 +1,29 @@
+{
+  "name": "Knights of the Orion",
+  "website": "https://knightsoforion.com",
+  "description": "Knights of the Orion token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE7308da032326dE7A2a2b80E1131650E845Ab989",
+  "type": "ERC20",
+  "symbol": "KORD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe7308da032326de7a2a2b80e1131650e845ab989",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://knightsoforion.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/KnightsOfOrion"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KnightsOfTheOrionDirective"
+    }
+  ]
+}

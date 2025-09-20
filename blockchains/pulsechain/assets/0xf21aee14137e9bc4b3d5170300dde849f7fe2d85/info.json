@@ -1,0 +1,21 @@
+{
+  "name": "Orange Man Good",
+  "website": "",
+  "description": "Orange Man Good token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xf21aeE14137E9bC4B3D5170300dde849f7fE2D85",
+  "type": "ERC20",
+  "symbol": "OMG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf21aee14137e9bc4b3d5170300dde849f7fe2d85",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/omgonpls?s=21"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "BANE",
+  "website": "",
+  "description": "BANE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xeb824a450eC7546E72A8Dd2C766f461553f6C7EF",
+  "type": "ERC20",
+  "symbol": "BANE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeb824a450ec7546e72a8dd2c766f461553f6c7ef",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/banepulsechain"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/banepulsechain"
+    }
+  ]
+}

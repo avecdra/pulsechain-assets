@@ -1,0 +1,21 @@
+{
+  "name": "TERMINATOR T800",
+  "website": "https://gopulse.com/token/0x4600d68ac3d1418bf8b7a2fa0a551f525de16f36",
+  "description": "TERMINATOR T800 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4600D68ac3d1418Bf8b7a2Fa0A551f525dE16f36",
+  "type": "ERC20",
+  "symbol": "T800",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4600d68ac3d1418bf8b7a2fa0a551f525de16f36",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gopulse.com/token/0x4600d68ac3d1418bf8b7a2fa0a551f525de16f36"
+    }
+  ]
+}

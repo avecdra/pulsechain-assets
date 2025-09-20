@@ -1,0 +1,15 @@
+{
+  "name": "PulseCoin",
+  "website": "",
+  "description": "PulseCoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4c8218dc22e478963c02748857245fad79aad0c6",
+  "type": "ERC20",
+  "symbol": "PLSC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4c8218dc22e478963c02748857245fad79aad0c6",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

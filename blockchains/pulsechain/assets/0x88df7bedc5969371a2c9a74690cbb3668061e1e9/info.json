@@ -1,0 +1,21 @@
+{
+  "name": "MORE",
+  "website": "",
+  "description": "MORE token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x88dF7BEdc5969371A2C9A74690cBB3668061E1E9",
+  "type": "ERC20",
+  "symbol": "MORE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x88df7bedc5969371a2c9a74690cbb3668061e1e9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/TrVon"
+    }
+  ]
+}

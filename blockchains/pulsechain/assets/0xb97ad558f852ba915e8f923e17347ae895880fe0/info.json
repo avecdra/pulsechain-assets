@@ -1,0 +1,29 @@
+{
+  "name": "PEGGERHEAD",
+  "website": "https://peggerhead.meme",
+  "description": "PEGGERHEAD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb97aD558f852ba915E8f923e17347ae895880Fe0",
+  "type": "ERC20",
+  "symbol": "PHEAD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb97ad558f852ba915e8f923e17347ae895880fe0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://peggerhead.meme"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PeggerHead"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/peggerhead"
+    }
+  ]
+}

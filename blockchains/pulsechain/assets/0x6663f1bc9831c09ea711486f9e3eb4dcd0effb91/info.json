@@ -1,0 +1,29 @@
+{
+  "name": "pulsetraffic",
+  "website": "https://pulsetraffic.io/",
+  "description": "pulsetraffic token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6663f1bc9831C09eA711486f9e3Eb4dcD0eFfb91",
+  "type": "ERC20",
+  "symbol": "PLST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6663f1bc9831c09ea711486f9e3eb4dcd0effb91",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsetraffic.io/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Pulsetraff3399"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseTraffic1"
+    }
+  ]
+}

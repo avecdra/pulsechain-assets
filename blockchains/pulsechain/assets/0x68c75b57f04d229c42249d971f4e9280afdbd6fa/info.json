@@ -1,0 +1,21 @@
+{
+  "name": "Horse",
+  "website": "",
+  "description": "Horse token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x68C75B57F04d229c42249D971F4e9280afdBD6FA",
+  "type": "ERC20",
+  "symbol": "$Horse",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x68c75b57f04d229c42249d971f4e9280afdbd6fa",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Horsecryptos"
+    }
+  ]
+}

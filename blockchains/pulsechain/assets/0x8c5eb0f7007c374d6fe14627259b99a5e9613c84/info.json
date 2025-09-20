@@ -1,0 +1,25 @@
+{
+  "name": "$CAVIAR",
+  "website": "https://caviar0x.com/",
+  "description": "$CAVIAR token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8C5eB0F7007c374D6FE14627259B99a5e9613C84",
+  "type": "ERC20",
+  "symbol": "$CAVIAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8c5eb0f7007c374d6fe14627259b99a5e9613c84",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://caviar0x.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Caviar0x"
+    }
+  ]
+}

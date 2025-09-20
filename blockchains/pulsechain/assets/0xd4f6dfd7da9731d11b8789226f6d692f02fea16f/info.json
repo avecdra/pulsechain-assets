@@ -1,0 +1,29 @@
+{
+  "name": "Orion Directive",
+  "website": "https://orion-directive.com/",
+  "description": "Orion Directive token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd4f6Dfd7dA9731D11B8789226F6d692f02fea16F",
+  "type": "ERC20",
+  "symbol": "ORD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd4f6dfd7da9731d11b8789226f6d692f02fea16f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://orion-directive.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/orion_directive"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/oriondirectivee"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Wojak Coin",
+  "website": "https://www.wojak.finance/",
+  "description": "Wojak Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5026F006B85729a8b14553FAE6af249aD16c9aaB",
+  "type": "ERC20",
+  "symbol": "WOJAK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.wojak.finance/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/wojakcoineth"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/wojak_ETH"
+    }
+  ]
+}

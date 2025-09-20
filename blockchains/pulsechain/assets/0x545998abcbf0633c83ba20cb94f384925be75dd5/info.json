@@ -1,0 +1,16 @@
+{
+  "name": "Prime PHUX",
+  "website": "",
+  "description": "Prime PHUX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x545998ABCbf0633C83bA20Cb94f384925BE75dd5",
+  "type": "ERC20",
+  "symbol": "Prime PHUX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x545998abcbf0633c83ba20cb94f384925be75dd5",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

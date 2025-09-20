@@ -1,0 +1,16 @@
+{
+  "name": "StarLink",
+  "website": "",
+  "description": "StarLink token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24",
+  "type": "ERC20",
+  "symbol": "STARL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

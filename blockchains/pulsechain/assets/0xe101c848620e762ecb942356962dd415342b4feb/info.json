@@ -1,0 +1,15 @@
+{
+  "name": "Launch",
+  "website": "",
+  "description": "Launch token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe101c848620e762ecb942356962dd415342b4feb",
+  "type": "ERC20",
+  "symbol": "LAUNCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe101c848620e762ecb942356962dd415342b4feb",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

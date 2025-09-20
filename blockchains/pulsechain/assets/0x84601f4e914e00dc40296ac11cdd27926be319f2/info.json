@@ -1,0 +1,29 @@
+{
+  "name": "BestEverything",
+  "website": "https://pump.tires/",
+  "description": "BestEverything token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x84601f4e914E00Dc40296Ac11CdD27926BE319f2",
+  "type": "ERC20",
+  "symbol": "BEST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x84601f4e914e00dc40296ac11cdd27926be319f2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/richardheartwin/status/1886537089329848462?s=46"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pulsechaincom"
+    }
+  ]
+}

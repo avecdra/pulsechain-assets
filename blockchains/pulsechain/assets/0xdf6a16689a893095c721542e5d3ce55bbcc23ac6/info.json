@@ -1,0 +1,16 @@
+{
+  "name": "㉣",
+  "website": "",
+  "description": "㉣ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDf6A16689A893095C721542e5d3CE55bBcc23aC6",
+  "type": "ERC20",
+  "symbol": "㉣",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdf6a16689a893095c721542e5d3ce55bbcc23ac6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

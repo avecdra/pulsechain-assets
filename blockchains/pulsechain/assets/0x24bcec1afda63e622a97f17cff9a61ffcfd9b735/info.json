@@ -1,0 +1,33 @@
+{
+  "name": "Crab Market",
+  "website": "https://crab.finance",
+  "description": "Crab Market token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x24BCeC1AFda63E622a97F17cFf9a61FFCfd9b735",
+  "type": "ERC20",
+  "symbol": "CRAB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x24bcec1afda63e622a97f17cff9a61ffcfd9b735",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://crab.finance"
+    },
+    {
+      "name": "website",
+      "url": "https://crab.finance/#staking"
+    },
+    {
+      "name": "website",
+      "url": "https://crab.finance/#nfts"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/crabmarketcoin"
+    }
+  ]
+}

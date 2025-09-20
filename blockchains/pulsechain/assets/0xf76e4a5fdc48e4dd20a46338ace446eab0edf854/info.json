@@ -1,0 +1,33 @@
+{
+  "name": "Monkey The Cat",
+  "website": "https://plsmonkey.com/",
+  "description": "Monkey The Cat token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF76e4A5fdC48e4DD20a46338aCe446EAB0EDf854",
+  "type": "ERC20",
+  "symbol": "Monkey",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf76e4a5fdc48e4dd20a46338ace446eab0edf854",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://plsmonkey.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PlsMonkey"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/plsmonkey"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/FdYXgUFNMj"
+    }
+  ]
+}

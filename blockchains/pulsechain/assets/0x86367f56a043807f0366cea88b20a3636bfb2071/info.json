@@ -1,0 +1,21 @@
+{
+  "name": "This Little Piggy",
+  "website": "",
+  "description": "This Little Piggy token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x86367f56A043807f0366CeA88B20A3636bfb2071",
+  "type": "ERC20",
+  "symbol": "WEE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x86367f56a043807f0366cea88b20a3636bfb2071",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/WEEweeWEEweeWEEweePiG"
+    }
+  ]
+}

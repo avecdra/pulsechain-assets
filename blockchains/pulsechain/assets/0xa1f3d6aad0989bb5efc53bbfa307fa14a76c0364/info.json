@@ -1,0 +1,21 @@
+{
+  "name": "Harambe",
+  "website": "",
+  "description": "Harambe token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA1f3d6Aad0989bB5eFc53bBFa307Fa14A76c0364",
+  "type": "ERC20",
+  "symbol": "HARAMBE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa1f3d6aad0989bb5efc53bbfa307fa14a76c0364",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/HarambePulse"
+    }
+  ]
+}

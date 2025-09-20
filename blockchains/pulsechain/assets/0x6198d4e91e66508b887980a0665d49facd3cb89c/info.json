@@ -1,0 +1,33 @@
+{
+  "name": "DaiLP",
+  "website": "https://DaiLP.REWARDr.CASH",
+  "description": "DaiLP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6198D4E91E66508b887980A0665D49FAcd3CB89c",
+  "type": "ERC20",
+  "symbol": "DaiLP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6198d4e91e66508b887980a0665d49facd3cb89c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://DaiLP.REWARDr.CASH"
+    },
+    {
+      "name": "website",
+      "url": "https://bento.me/rwdr"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

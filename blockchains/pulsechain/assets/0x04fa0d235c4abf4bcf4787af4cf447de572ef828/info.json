@@ -1,0 +1,16 @@
+{
+  "name": "UMA Voting Token v1",
+  "website": "",
+  "description": "UMA Voting Token v1 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+  "type": "ERC20",
+  "symbol": "UMA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

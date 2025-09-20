@@ -1,0 +1,16 @@
+{
+  "name": "Magic Carpet Ride",
+  "website": "",
+  "description": "Magic Carpet Ride token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7FF1C0e8C968a8Ddc1F25e3D891562EA549Ee32e",
+  "type": "ERC20",
+  "symbol": "MCR369",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7ff1c0e8c968a8ddc1f25e3d891562ea549ee32e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

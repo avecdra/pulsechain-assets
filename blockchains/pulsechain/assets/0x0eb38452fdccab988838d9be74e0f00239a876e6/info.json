@@ -1,0 +1,21 @@
+{
+  "name": "Liberty Swap Mascot",
+  "website": "",
+  "description": "Liberty Swap Mascot token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0eB38452FdCCab988838d9BE74e0f00239A876E6",
+  "type": "ERC20",
+  "symbol": "INTERN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0eb38452fdccab988838d9be74e0f00239a876e6",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/LibertySwapMascot"
+    }
+  ]
+}

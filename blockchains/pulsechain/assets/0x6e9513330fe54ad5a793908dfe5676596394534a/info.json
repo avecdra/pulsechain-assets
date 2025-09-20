@@ -1,0 +1,29 @@
+{
+  "name": "Artificial Ignorance",
+  "website": "https://artificialignorance.ai",
+  "description": "Artificial Ignorance token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6e9513330fe54AD5a793908dFE5676596394534a",
+  "type": "ERC20",
+  "symbol": "AIG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6e9513330fe54ad5a793908dfe5676596394534a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://artificialignorance.ai"
+    },
+    {
+      "name": "website",
+      "url": "https://artificialignorance.ai/staking.html"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ArtificialIgnorance"
+    }
+  ]
+}

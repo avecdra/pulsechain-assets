@@ -1,0 +1,16 @@
+{
+  "name": "Maximus from Ethereum",
+  "website": "",
+  "description": "Maximus from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x352511c9bC5D47DBC122883Ed9353E987d10A3BA",
+  "type": "ERC20",
+  "symbol": "MAXI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x352511c9bc5d47dbc122883ed9353e987d10a3ba",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

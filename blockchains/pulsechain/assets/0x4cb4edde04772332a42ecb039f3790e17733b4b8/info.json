@@ -1,0 +1,41 @@
+{
+  "name": "PUSSY",
+  "website": "https://9mm.pro/",
+  "description": "PUSSY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4CB4eDdE04772332a42ECb039f3790e17733B4B8",
+  "type": "ERC20",
+  "symbol": "PUSSY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4cb4edde04772332a42ecb039f3790e17733b4b8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://9mm.pro/"
+    },
+    {
+      "name": "website",
+      "url": "https://linktr.ee/9mm.pro"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsemarket.app/collection/0x99e714e18df08805d356753208b710287143c390"
+    },
+    {
+      "name": "website",
+      "url": "https://9x.9mm.pro"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/9mm_pro?t=ANudzJguxgk6pu12jIPXbw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ninemmpro"
+    }
+  ]
+}

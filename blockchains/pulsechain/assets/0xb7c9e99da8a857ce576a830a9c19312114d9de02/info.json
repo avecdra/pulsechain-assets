@@ -1,0 +1,16 @@
+{
+  "name": "Maximus Team",
+  "website": "",
+  "description": "Maximus Team token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB7c9E99Da8A857cE576A830A9c19312114d9dE02",
+  "type": "ERC20",
+  "symbol": "TEAM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb7c9e99da8a857ce576a830a9c19312114d9de02",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

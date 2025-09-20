@@ -1,0 +1,25 @@
+{
+  "name": "Snorlax カビゴン",
+  "website": "",
+  "description": "Snorlax カビゴン token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc1042c35A077F5c77e0FDec0E5Ea70E80b016d78",
+  "type": "ERC20",
+  "symbol": "Snorlax",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc1042c35a077f5c77e0fdec0e5ea70e80b016d78",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/Project_X_Pulse?t=KWfwmFj6hX1yNQncq6kZ_w\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PoolTokenEco"
+    }
+  ]
+}

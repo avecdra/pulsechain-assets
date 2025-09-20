@@ -1,0 +1,29 @@
+{
+  "name": "Blind Mans Bluff",
+  "website": "https://www.bliptocurrency.com/",
+  "description": "Blind Mans Bluff token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD7C34BAFbf1E1ed1b00570883bDBF8a8419348EA",
+  "type": "ERC20",
+  "symbol": "BMB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd7c34bafbf1e1ed1b00570883bdbf8a8419348ea",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.bliptocurrency.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/yeatersink"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/bliptocurrency"
+    }
+  ]
+}

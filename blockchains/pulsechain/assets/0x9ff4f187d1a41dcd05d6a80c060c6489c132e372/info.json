@@ -1,0 +1,29 @@
+{
+  "name": "XRP",
+  "website": "https://pump.tires/token/0x9Ff4f187D1a41DCD05d6a80c060c6489C132e372",
+  "description": "XRP token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9Ff4f187D1a41DCD05d6a80c060c6489C132e372",
+  "type": "ERC20",
+  "symbol": "XRP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9ff4f187d1a41dcd05d6a80c060c6489c132e372",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0x9Ff4f187D1a41DCD05d6a80c060c6489C132e372"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pXRPtoken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pXRPtoken"
+    }
+  ]
+}

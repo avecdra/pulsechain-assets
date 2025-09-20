@@ -1,0 +1,29 @@
+{
+  "name": "NPC",
+  "website": "https://www.npcpls.com/",
+  "description": "NPC token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa6C897bc61270073f998FbC8d2425f01D3aDEb65",
+  "type": "ERC20",
+  "symbol": "NPC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa6c897bc61270073f998fbc8d2425f01d3adeb65",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.npcpls.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pumptiresmascot"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PlsNPC"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Shiba-Floki",
+  "website": "",
+  "description": "Shiba-Floki token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7408930DB7a6A4a66effa858D49784f94Fb82cF7",
+  "type": "ERC20",
+  "symbol": "Maitreya",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7408930db7a6a4a66effa858d49784f94fb82cf7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

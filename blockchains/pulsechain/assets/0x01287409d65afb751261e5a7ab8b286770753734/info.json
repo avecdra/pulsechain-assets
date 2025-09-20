@@ -1,0 +1,29 @@
+{
+  "name": "FLUFFY DRINKS FANTA",
+  "website": "https://www.fluffydrinksfanta.com/",
+  "description": "FLUFFY DRINKS FANTA token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x01287409d65Afb751261e5A7AB8B286770753734",
+  "type": "ERC20",
+  "symbol": "FLUFFY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x01287409d65afb751261e5a7ab8b286770753734",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.fluffydrinksfanta.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/fluffyhoaprc20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/FluffyDrinksFanta"
+    }
+  ]
+}

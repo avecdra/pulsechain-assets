@@ -1,0 +1,16 @@
+{
+  "name": "DEGENS RUN THE CHAIN",
+  "website": "",
+  "description": "DEGENS RUN THE CHAIN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb8A7bC2c6d5C1f28a8a95Dd0E7676611cfF4b075",
+  "type": "ERC20",
+  "symbol": "ALMIGHTY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb8a7bc2c6d5c1f28a8a95dd0e7676611cff4b075",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

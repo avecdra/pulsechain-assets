@@ -1,0 +1,25 @@
+{
+  "name": "TANGMAN",
+  "website": "http://tangman.world/",
+  "description": "TANGMAN token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x79B3481BcF780749b9b69504C8902e7af2F56fA0",
+  "type": "ERC20",
+  "symbol": "CITRA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x79b3481bcf780749b9b69504c8902e7af2f56fa0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://tangman.world/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/TangmanWorld"
+    }
+  ]
+}

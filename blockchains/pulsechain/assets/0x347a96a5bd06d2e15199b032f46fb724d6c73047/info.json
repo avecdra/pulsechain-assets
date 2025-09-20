@@ -1,0 +1,16 @@
+{
+  "name": "Application Specific Internet Coin",
+  "website": "",
+  "description": "Application Specific Internet Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x347a96a5BD06D2E15199b032F46fB724d6c73047",
+  "type": "ERC20",
+  "symbol": "ASIC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x347a96a5bd06d2e15199b032f46fb724d6c73047",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

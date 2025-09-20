@@ -1,0 +1,29 @@
+{
+  "name": "Only Fud",
+  "website": "https://darkmagapls.com/",
+  "description": "Only Fud token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x24cB29bDf90119bFCf446eB490EF8A2DBdcf84af",
+  "type": "ERC20",
+  "symbol": "OFUD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x24cb29bdf90119bfcf446eb490ef8a2dbdcf84af",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://darkmagapls.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/onlyfudpls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/onlyfudpls"
+    }
+  ]
+}

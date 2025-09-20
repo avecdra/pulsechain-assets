@@ -1,0 +1,25 @@
+{
+  "name": "Cookies",
+  "website": "https://hexoacoin.com/",
+  "description": "Cookies token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7E461D9b06e8B7a4806beB6B9C5C5CB44da3E555",
+  "type": "ERC20",
+  "symbol": "COOKIES",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7e461d9b06e8b7a4806beb6b9c5c5cb44da3e555",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hexoacoin.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/AcceptC00kies"
+    }
+  ]
+}

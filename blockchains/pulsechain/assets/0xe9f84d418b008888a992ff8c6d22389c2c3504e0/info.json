@@ -1,0 +1,16 @@
+{
+  "name": "Maximus Base",
+  "website": "",
+  "description": "Maximus Base token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
+  "type": "ERC20",
+  "symbol": "BASE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

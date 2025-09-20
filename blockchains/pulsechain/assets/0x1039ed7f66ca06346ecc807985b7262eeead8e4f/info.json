@@ -1,0 +1,25 @@
+{
+  "name": "TIRES",
+  "website": "https://www.youtube.com/embed/ZBZgYUKYVdA?start=3104\u0026autoplay=1",
+  "description": "TIRES token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1039ED7f66Ca06346ecc807985b7262EeEad8e4f",
+  "type": "ERC20",
+  "symbol": "TIRES",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1039ed7f66ca06346ecc807985b7262eeead8e4f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/embed/ZBZgYUKYVdA?start=3104\u0026autoplay=1"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1885851195614396562"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "EROS Burn Baby Burn",
+  "website": "https://erosrevival.win",
+  "description": "EROS Burn Baby Burn token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0f1B7cfFC37547C5d189B08F255B60aa394C62cf",
+  "type": "ERC20",
+  "symbol": "EROS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0f1b7cffc37547c5d189b08f255b60aa394c62cf",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://erosrevival.win"
+    },
+    {
+      "name": "website",
+      "url": "https://erosrevival.win/documents/EROS_PLS_Whitepaper.pdf"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/eros_revival?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Eros_Revival"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "SOUL USD",
+  "website": "https://www.kindforthesoul.com/",
+  "description": "SOUL USD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8C9c31c740BA466BF2218dA2a78D40B123FC9495",
+  "type": "ERC20",
+  "symbol": "SUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8c9c31c740ba466bf2218da2a78d40b123fc9495",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.kindforthesoul.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/kindforthesoul?t=Ml16nrnRTUZ2tq6a63GupA\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KindnessFortheSoul"
+    }
+  ]
+}

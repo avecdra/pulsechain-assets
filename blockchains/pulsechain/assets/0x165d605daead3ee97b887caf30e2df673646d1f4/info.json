@@ -1,0 +1,21 @@
+{
+  "name": "Leonidas",
+  "website": "https://gopulse.com/token/0x165d605daead3ee97b887caf30e2df673646d1f4",
+  "description": "Leonidas token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x165D605DAEAD3ee97b887CAf30e2dF673646d1F4",
+  "type": "ERC20",
+  "symbol": "♆",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x165d605daead3ee97b887caf30e2df673646d1f4",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gopulse.com/token/0x165d605daead3ee97b887caf30e2df673646d1f4"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "American Institute of Mining, Metallurgical, and Petroleum Engineers",
+  "website": "",
+  "description": "American Institute of Mining, Metallurgical, and Petroleum Engineers token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1b98fCc59Ef301F22F6Af49F3aAB9794f9D0EE74",
+  "type": "ERC20",
+  "symbol": "MURDER™",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1b98fcc59ef301f22f6af49f3aab9794f9d0ee74",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/MurderToken666"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "REWARDr",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "REWARDr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5b17A3D673C47c30a1E87e238DD31AD437158141",
+  "type": "ERC20",
+  "symbol": "RWDr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5b17a3d673c47c30a1e87e238dd31ad437158141",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

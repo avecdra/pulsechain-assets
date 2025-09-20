@@ -1,0 +1,29 @@
+{
+  "name": "Chiitan",
+  "website": "https://chiitan.club/",
+  "description": "Chiitan token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xabeb72F153e050B3F8cCa3DD93fe1eEaD51123DB",
+  "type": "ERC20",
+  "symbol": "CHIITAN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xabeb72f153e050b3f8cca3dd93fe1eead51123db",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://chiitan.club/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ChiitanOnPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

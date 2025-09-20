@@ -1,0 +1,33 @@
+{
+  "name": "ICARUS",
+  "website": "https://icaruscoin.io/",
+  "description": "ICARUS token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8c4a50c87e348f602ac6a59f4Da857ee23307a42",
+  "type": "ERC20",
+  "symbol": "ICARUS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8c4a50c87e348f602ac6a59f4da857ee23307a42",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://icaruscoin.io/"
+    },
+    {
+      "name": "website",
+      "url": "https://songwhip.com/allangstevens/icarus"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/IcarusPRC20"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/icarusprc20"
+    }
+  ]
+}

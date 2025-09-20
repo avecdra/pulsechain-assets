@@ -1,0 +1,29 @@
+{
+  "name": "TETHr",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "TETHr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD5E6E4E24Cb3cee9277C7A957d39BFE83C8fFaa2",
+  "type": "ERC20",
+  "symbol": "TETHr",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd5e6e4e24cb3cee9277c7a957d39bfe83c8ffaa2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/REWARDrEco"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/REWARDrPulseChain"
+    }
+  ]
+}

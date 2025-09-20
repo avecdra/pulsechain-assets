@@ -1,0 +1,16 @@
+{
+  "name": "Wrapped BTC from Ethereum",
+  "website": "",
+  "description": "Wrapped BTC from Ethereum token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+  "type": "ERC20",
+  "symbol": "WBTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb17d901469b9208b17d916112988a3fed19b5ca1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

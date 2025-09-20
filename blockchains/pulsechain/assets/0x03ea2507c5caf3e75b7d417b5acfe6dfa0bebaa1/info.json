@@ -1,0 +1,29 @@
+{
+  "name": "ShareCoin",
+  "website": "https://sharecoinmining.com/",
+  "description": "ShareCoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x03EA2507C5cAF3E75B7D417b5ACfE6dfA0beBAa1",
+  "type": "ERC20",
+  "symbol": "SHARE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03ea2507c5caf3e75b7d417b5acfe6dfa0bebaa1",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://sharecoinmining.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://gateway.pinata.cloud/ipfs/bafkreih4bc3kzqz4545tmjkroybbewjk56nmlk43bklxpg4nqx7nzuqgly"
+    },
+    {
+      "name": "website",
+      "url": "https://sharecoinmining.com/"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "LEGAL",
+  "website": "",
+  "description": "LEGAL token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0b1307dc5D90a0B60Be18D2634843343eBc098AF",
+  "type": "ERC20",
+  "symbol": "LEGAL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0b1307dc5d90a0b60be18d2634843343ebc098af",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

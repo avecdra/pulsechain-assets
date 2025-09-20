@@ -1,0 +1,16 @@
+{
+  "name": "THICC",
+  "website": "",
+  "description": "THICC token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x88ECcCd296E3C9B75D71b8f96d8a1AAcB88B6ad2",
+  "type": "ERC20",
+  "symbol": "THICC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x88ecccd296e3c9b75d71b8f96d8a1aacb88b6ad2",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

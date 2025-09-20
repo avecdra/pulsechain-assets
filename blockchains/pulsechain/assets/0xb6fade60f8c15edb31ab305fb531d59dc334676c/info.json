@@ -1,0 +1,16 @@
+{
+  "name": "FAIRY DUST",
+  "website": "",
+  "description": "FAIRY DUST token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB6FadE60f8c15edB31ab305fB531D59DC334676C",
+  "type": "ERC20",
+  "symbol": "✨",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb6fade60f8c15edb31ab305fb531d59dc334676c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

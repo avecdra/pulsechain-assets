@@ -1,0 +1,29 @@
+{
+  "name": "Judge Carol",
+  "website": "https://medium.com/@nuclearherbs/defi-on-trial-4e83f9e81efb",
+  "description": "Judge Carol token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7e4Aab3cA9F821e4F6E8A2A01605B6995d20adAa",
+  "type": "ERC20",
+  "symbol": "$JUDGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7e4aab3ca9f821e4f6e8a2a01605b6995d20adaa",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://medium.com/@nuclearherbs/defi-on-trial-4e83f9e81efb"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/judgecarolpls?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/JudgeCarolPLS"
+    }
+  ]
+}

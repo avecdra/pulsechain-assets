@@ -1,0 +1,16 @@
+{
+  "name": "Real BIG Coin",
+  "website": "",
+  "description": "Real BIG Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x43eaba2E2d2F32f1207A11a18679287Dc7700015",
+  "type": "ERC20",
+  "symbol": "RBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x43eaba2e2d2f32f1207a11a18679287dc7700015",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

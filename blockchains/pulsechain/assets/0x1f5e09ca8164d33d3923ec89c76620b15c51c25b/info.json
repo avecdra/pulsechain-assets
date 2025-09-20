@@ -1,0 +1,29 @@
+{
+  "name": "Lunch Money",
+  "website": "https://justlunch.money/",
+  "description": "Lunch Money token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1F5E09CA8164d33d3923ec89c76620B15c51C25B",
+  "type": "ERC20",
+  "symbol": "LUNCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1f5e09ca8164d33d3923ec89c76620b15c51c25b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://justlunch.money/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/LunchMoneyPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseLunchMoney"
+    }
+  ]
+}

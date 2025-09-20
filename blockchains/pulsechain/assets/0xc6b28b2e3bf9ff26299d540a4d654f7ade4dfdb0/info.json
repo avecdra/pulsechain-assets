@@ -1,0 +1,25 @@
+{
+  "name": "Prime Ape Bananas",
+  "website": "https://prime-ape.com/",
+  "description": "Prime Ape Bananas token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC6B28B2E3Bf9fF26299D540a4D654F7ade4dFdB0",
+  "type": "ERC20",
+  "symbol": "Bananas",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc6b28b2e3bf9ff26299d540a4d654f7ade4dfdb0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://prime-ape.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PrimeApe_Pulse"
+    }
+  ]
+}

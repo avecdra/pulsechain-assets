@@ -1,0 +1,15 @@
+{
+  "name": "Snibbu",
+  "website": "",
+  "description": "Snibbu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x36bfd9b78f5bb5f1fc107f22b27b5bdf300e1b6a",
+  "type": "ERC20",
+  "symbol": "SNIBBU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x36bfd9b78f5bb5f1fc107f22b27b5bdf300e1b6a",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

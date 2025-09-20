@@ -1,0 +1,29 @@
+{
+  "name": "President Of PulseChain",
+  "website": "https://www.libertyswap.finance/XAVIER",
+  "description": "President Of PulseChain token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x79e8AE8F8a19280354dbb9ee844ED80CE9a8219d",
+  "type": "ERC20",
+  "symbol": "XAVIER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x79e8ae8f8a19280354dbb9ee844ed80ce9a8219d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.libertyswap.finance/XAVIER"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RealXavier011/status/1956776282357981511"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/XavierPLS"
+    }
+  ]
+}

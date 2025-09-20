@@ -1,0 +1,33 @@
+{
+  "name": "PulseDogecoin",
+  "website": "https://pulsedogecoin.net/",
+  "description": "PulseDogecoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x34F0915a5f15a66Eba86F6a58bE1A471FB7836A7",
+  "type": "ERC20",
+  "symbol": "PLSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x34f0915a5f15a66eba86f6a58be1a471fb7836a7",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsedogecoin.net/"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsedogecoin.net/white-paper-v1-%26-v2"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Pulse_Dogecoin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PLSDogecoin"
+    }
+  ]
+}

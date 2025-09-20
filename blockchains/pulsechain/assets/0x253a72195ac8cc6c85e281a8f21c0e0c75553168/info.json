@@ -1,0 +1,21 @@
+{
+  "name": "Bots Dont Eat 🤖",
+  "website": "",
+  "description": "Bots Dont Eat 🤖 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x253a72195ac8cC6C85e281A8F21C0E0C75553168",
+  "type": "ERC20",
+  "symbol": "🤖🚫🍔🍟",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x253a72195ac8cc6c85e281a8f21c0e0c75553168",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/BotsDontEat"
+    }
+  ]
+}

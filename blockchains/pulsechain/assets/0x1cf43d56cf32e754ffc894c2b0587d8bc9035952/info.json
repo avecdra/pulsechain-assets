@@ -1,0 +1,21 @@
+{
+  "name": "ChuckNorrisLuigiCIAKilledJFK007Mog",
+  "website": "",
+  "description": "ChuckNorrisLuigiCIAKilledJFK007Mog token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1Cf43d56cF32e754FfC894c2b0587d8BC9035952",
+  "type": "ERC20",
+  "symbol": "INCENTIVE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1cf43d56cf32e754ffc894c2b0587d8bc9035952",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/curtsMemeLand"
+    }
+  ]
+}

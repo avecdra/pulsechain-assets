@@ -1,0 +1,25 @@
+{
+  "name": "Linker",
+  "website": "",
+  "description": "Linker token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA99C95f034Cb10b725724f7679D10DE1748aD8ca",
+  "type": "ERC20",
+  "symbol": "LNKR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa99c95f034cb10b725724f7679d10de1748ad8ca",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/LNKRonPls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/cdaiprc20"
+    }
+  ]
+}

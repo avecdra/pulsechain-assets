@@ -1,0 +1,33 @@
+{
+  "name": "OPHIR Token",
+  "website": "https://ophircrypto.ph",
+  "description": "OPHIR Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC59Be55D22CB7967ee95e5bE0770e263EE014F78",
+  "type": "ERC20",
+  "symbol": "OPHIR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc59be55d22cb7967ee95e5be0770e263ee014f78",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://ophircrypto.ph"
+    },
+    {
+      "name": "website",
+      "url": "https://ophircrypto.ph/white-paper"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/ophir_crypto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ophircrypto"
+    }
+  ]
+}

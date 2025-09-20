@@ -1,0 +1,21 @@
+{
+  "name": "FUGAZI",
+  "website": "",
+  "description": "FUGAZI token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x80028eDf22a39E7DE07F4b6D9a559420e40b8761",
+  "type": "ERC20",
+  "symbol": "FGZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x80028edf22a39e7de07f4b6d9a559420e40b8761",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PulseMafia"
+    }
+  ]
+}

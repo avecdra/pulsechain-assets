@@ -1,0 +1,29 @@
+{
+  "name": "ETH",
+  "website": "http://rheth.info",
+  "description": "ETH token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBFcfA52225Baa5feec5fbb54E6458957D53ddD94",
+  "type": "ERC20",
+  "symbol": "ETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbfcfa52225baa5feec5fbb54e6458957d53ddd94",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://rheth.info"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/rhcoins"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "One Click Away",
+  "website": "https://oneclickawayonline.com/",
+  "description": "One Click Away token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xa17ff0061c1E3161fe281C5FBa23B48b23ce9636",
+  "type": "ERC20",
+  "symbol": "CLICK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa17ff0061c1e3161fe281c5fba23b48b23ce9636",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://oneclickawayonline.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/OCAPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/clickpulsechain"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/MjdmuAE8"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Shocker",
+  "website": "",
+  "description": "Shocker token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x97F50E6bAAA852701D2fb9d7542C87ac7cD8262D",
+  "type": "ERC20",
+  "symbol": "SHKR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x97f50e6baaa852701d2fb9d7542c87ac7cd8262d",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/ShockerPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Shockeroffical"
+    }
+  ]
+}

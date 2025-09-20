@@ -1,0 +1,29 @@
+{
+  "name": "Degen Protocol GOAT",
+  "website": "https://degenprotocol.io",
+  "description": "Degen Protocol GOAT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xF5D0140B4d53c9476DC1488BC6d8597d7393f074",
+  "type": "ERC20",
+  "symbol": "GOAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf5d0140b4d53c9476dc1488bc6d8597d7393f074",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://degenprotocol.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Degen__Protocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Degen_Protocol"
+    }
+  ]
+}

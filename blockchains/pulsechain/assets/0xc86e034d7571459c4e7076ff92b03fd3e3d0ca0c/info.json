@@ -1,0 +1,29 @@
+{
+  "name": "Dick Heart",
+  "website": "http://pump.tires",
+  "description": "Dick Heart token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xC86E034d7571459C4E7076Ff92b03fD3e3D0CA0C",
+  "type": "ERC20",
+  "symbol": "DICK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc86e034d7571459c4e7076ff92b03fd3e3d0ca0c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://pump.tires"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1886537089329848462"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DickHeartCoin"
+    }
+  ]
+}

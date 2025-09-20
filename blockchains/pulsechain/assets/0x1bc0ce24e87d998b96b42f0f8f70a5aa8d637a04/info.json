@@ -1,0 +1,29 @@
+{
+  "name": "Pulsican Store",
+  "website": "https://pulsicanstore.com/",
+  "description": "Pulsican Store token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1BC0CE24e87d998b96b42f0F8f70A5aa8d637a04",
+  "type": "ERC20",
+  "symbol": "PLSS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1bc0ce24e87d998b96b42f0f8f70a5aa8d637a04",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pulsicanstore.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulsicanStore"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulsicanStore"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Mega Inu",
+  "website": "https://www.minupls.com",
+  "description": "Mega Inu token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0E5E2d2480468561dFF0132317615F7D6C27D397",
+  "type": "ERC20",
+  "symbol": "MINU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0e5e2d2480468561dff0132317615f7d6c27d397",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.minupls.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MinuPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/megainupulse"
+    }
+  ]
+}

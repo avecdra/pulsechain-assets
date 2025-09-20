@@ -1,0 +1,15 @@
+{
+  "name": "DaiX",
+  "website": "",
+  "description": "DaiX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7663e79e09d78142e3f6e4dca19faf604159842d",
+  "type": "ERC20",
+  "symbol": "DaiX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7663e79e09d78142e3f6e4dca19faf604159842d",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "pCoin",
+  "website": "https://pcoinpls.com/",
+  "description": "pCoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x5C912eAd44c6FC1676BA376b868e5C038549dc63",
+  "type": "ERC20",
+  "symbol": "pCoin",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5c912ead44c6fc1676ba376b868e5c038549dc63",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pcoinpls.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://t.co/2610wBeWh6"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/pCoinpulse?"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/itspcoinseason"
+    }
+  ]
+}

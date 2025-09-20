@@ -1,0 +1,16 @@
+{
+  "name": "Carpe Diem Pension",
+  "website": "",
+  "description": "Carpe Diem Pension token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6f0dDa6b522fcC7807CcacA4D37eF6958e95E1B9",
+  "type": "ERC20",
+  "symbol": "CDP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6f0dda6b522fcc7807ccaca4d37ef6958e95e1b9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

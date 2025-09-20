@@ -1,0 +1,15 @@
+{
+  "name": "Teddy Bear INU",
+  "website": "",
+  "description": "Teddy Bear INU token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xee9082daea925be8f79f1b2c457fc9470a104414",
+  "type": "ERC20",
+  "symbol": "TBI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xee9082daea925be8f79f1b2c457fc9470a104414",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

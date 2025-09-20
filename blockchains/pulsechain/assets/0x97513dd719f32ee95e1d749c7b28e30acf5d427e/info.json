@@ -1,0 +1,29 @@
+{
+  "name": "404MON",
+  "website": "http://www.404.monster/",
+  "description": "404MON token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x97513DD719f32eE95E1D749c7b28e30acf5D427E",
+  "type": "ERC20",
+  "symbol": "FOFMON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x97513dd719f32ee95e1d749c7b28e30acf5d427e",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://www.404.monster/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/PULSE404MON"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/fofmon"
+    }
+  ]
+}

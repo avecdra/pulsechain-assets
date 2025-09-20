@@ -1,0 +1,29 @@
+{
+  "name": "Increase",
+  "website": "https://vox.finance/farmIncrease",
+  "description": "Increase token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE7f0394B48c999a58DEF8f9F558379800104A519",
+  "type": "ERC20",
+  "symbol": "INCREASE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe7f0394b48c999a58def8f9f558379800104a519",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://vox.finance/farmIncrease"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/VOX_DeFi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/VOX_DeFi"
+    }
+  ]
+}

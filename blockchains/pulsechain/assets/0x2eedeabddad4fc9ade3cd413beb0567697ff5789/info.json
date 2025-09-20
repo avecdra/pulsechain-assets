@@ -1,0 +1,15 @@
+{
+  "name": "Rolex",
+  "website": "",
+  "description": "Rolex token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2eedeabddad4fc9ade3cd413beb0567697ff5789",
+  "type": "ERC20",
+  "symbol": "ROLEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2eedeabddad4fc9ade3cd413beb0567697ff5789",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

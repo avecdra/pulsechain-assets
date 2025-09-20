@@ -1,0 +1,29 @@
+{
+  "name": "HUNNID CENT",
+  "website": "https://rekticans.my.canva.site/100c",
+  "description": "HUNNID CENT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xBb385f476fD02445BDc8590841D5e56501D2FE86",
+  "type": "ERC20",
+  "symbol": "💯¢",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbb385f476fd02445bdc8590841d5e56501d2fe86",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://rekticans.my.canva.site/100c"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/HunnidCent100"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/hunnidcent"
+    }
+  ]
+}

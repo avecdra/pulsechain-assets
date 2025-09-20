@@ -1,0 +1,25 @@
+{
+  "name": "Decentraland MANA",
+  "website": "https://decentraland-org.com/",
+  "description": "Decentraland MANA token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+  "type": "ERC20",
+  "symbol": "MANA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://decentraland-org.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/decentraland"
+    }
+  ]
+}

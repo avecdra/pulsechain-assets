@@ -1,0 +1,29 @@
+{
+  "name": "Bigfoot",
+  "website": "https://www.bigfootpls.com/",
+  "description": "Bigfoot token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x56c57426795174789dadBb1BA07452270e010448",
+  "type": "ERC20",
+  "symbol": "BFX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x56c57426795174789dadbb1ba07452270e010448",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.bigfootpls.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PlsBFX"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+Ipo9pqpSh3o1NmNk"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Richards Only Brothr",
+  "website": "https://rob.dextop.pro/",
+  "description": "Richards Only Brothr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1c2766F5949A4aA5d4cf0439067051135ffc1b28",
+  "type": "ERC20",
+  "symbol": "ROB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1c2766f5949a4aa5d4cf0439067051135ffc1b28",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://rob.dextop.pro/"
+    },
+    {
+      "name": "website",
+      "url": "https://robsidedstaking.netlify.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RobonPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RichardsBrotherV2"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/w9y2tAPn6R"
+    }
+  ]
+}

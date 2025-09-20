@@ -1,0 +1,29 @@
+{
+  "name": "More",
+  "website": "https://moretokens.com",
+  "description": "More token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0",
+  "type": "ERC20",
+  "symbol": "MORE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbeef3bb9da340ebdf0f5bae2e85368140d7d85d0",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://moretokens.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/buymoretokens"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/buymoretokens"
+    }
+  ]
+}

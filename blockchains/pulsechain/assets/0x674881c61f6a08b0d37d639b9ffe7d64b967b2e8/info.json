@@ -1,0 +1,33 @@
+{
+  "name": "Spiritomb ミカルゲ",
+  "website": "https://youtube.com/@spiritomb-alt",
+  "description": "Spiritomb ミカルゲ token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x674881C61F6a08B0d37d639b9ffE7D64B967B2e8",
+  "type": "ERC20",
+  "symbol": "STB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x674881c61f6a08b0d37d639b9ffe7d64b967b2e8",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://youtube.com/@spiritomb-alt"
+    },
+    {
+      "name": "website",
+      "url": "https://www.tiktok.com/@spiritomb8"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/SPIRITOMB180336"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DGSZONE/843"
+    }
+  ]
+}

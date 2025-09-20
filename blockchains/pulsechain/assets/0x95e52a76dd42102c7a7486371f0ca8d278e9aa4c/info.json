@@ -1,0 +1,29 @@
+{
+  "name": "Dudes Butts Coin",
+  "website": "https://dudesbuttscoin.com",
+  "description": "Dudes Butts Coin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x95E52A76DD42102c7a7486371F0Ca8D278E9aA4C",
+  "type": "ERC20",
+  "symbol": "DBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x95e52a76dd42102c7a7486371f0ca8d278e9aa4c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://dudesbuttscoin.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DudesButtsCoin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/DudesButtsCoinPortal"
+    }
+  ]
+}

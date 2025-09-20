@@ -1,0 +1,25 @@
+{
+  "name": "Pump Tires Mascot",
+  "website": "",
+  "description": "Pump Tires Mascot token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x208614c2db3e24ee2aF701538017c6a34030B1E3",
+  "type": "ERC20",
+  "symbol": "PUMPY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x208614c2db3e24ee2af701538017c6a34030b1e3",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/PumpyTiresWin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PUMPYtheMascot"
+    }
+  ]
+}

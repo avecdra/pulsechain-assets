@@ -1,0 +1,37 @@
+{
+  "name": "PulseChainFun",
+  "website": "https://PulseChain.Fun",
+  "description": "PulseChainFun token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x7c3B9e08ec1226204691A574c4731A7174DB799A",
+  "type": "ERC20",
+  "symbol": "PCF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7c3b9e08ec1226204691a574c4731a7174db799a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://PulseChain.Fun"
+    },
+    {
+      "name": "website",
+      "url": "https://pulsechain.fun/"
+    },
+    {
+      "name": "website",
+      "url": "https://v3.pulsechain.fun/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/PulseChainFun"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/PulseChainFun"
+    }
+  ]
+}

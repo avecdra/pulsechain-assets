@@ -1,0 +1,29 @@
+{
+  "name": "TinFoilSociety",
+  "website": "http://tinfoilsociety.xyz",
+  "description": "TinFoilSociety token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1d1Ee30b5cE807b61aBB138F805E9cc845487158",
+  "type": "ERC20",
+  "symbol": "TIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1d1ee30b5ce807b61abb138f805e9cc845487158",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "http://tinfoilsociety.xyz"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/TINfoilsociety_?t=6TGEDLzK4qrRafzlPD_fXA\u0026s=35"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TINfoilsociety"
+    }
+  ]
+}

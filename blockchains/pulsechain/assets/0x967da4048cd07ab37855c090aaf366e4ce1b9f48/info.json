@@ -1,0 +1,16 @@
+{
+  "name": "Ocean Token",
+  "website": "",
+  "description": "Ocean Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+  "type": "ERC20",
+  "symbol": "OCEAN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

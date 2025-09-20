@@ -1,0 +1,29 @@
+{
+  "name": "Flopcoin",
+  "website": "https://www.flopcoin.win",
+  "description": "Flopcoin token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xA8B4e655d77aC9AE98521b53bB6b9b26a7F93c68",
+  "type": "ERC20",
+  "symbol": "FLOP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa8b4e655d77ac9ae98521b53bb6b9b26a7f93c68",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.flopcoin.win"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/flop9inch"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Flopcoin"
+    }
+  ]
+}

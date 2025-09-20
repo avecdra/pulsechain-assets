@@ -1,0 +1,25 @@
+{
+  "name": "LIBELOOR",
+  "website": "https://pump.tires/token/0xc1cb1bDd29BBeD60594b3dB3E8b3B7971b3fd71A",
+  "description": "LIBELOOR token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xc1cb1bDd29BBeD60594b3dB3E8b3B7971b3fd71A",
+  "type": "ERC20",
+  "symbol": "LIBELOOR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc1cb1bdd29bbed60594b3db3e8b3b7971b3fd71a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xc1cb1bDd29BBeD60594b3dB3E8b3B7971b3fd71A"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/RichardHeartWin/status/1633271858823831552"
+    }
+  ]
+}

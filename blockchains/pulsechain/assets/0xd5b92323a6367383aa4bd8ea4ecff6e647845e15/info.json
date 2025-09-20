@@ -1,0 +1,15 @@
+{
+  "name": "Pie",
+  "website": "",
+  "description": "Pie token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd5b92323a6367383aa4bd8ea4ecff6e647845e15",
+  "type": "ERC20",
+  "symbol": "PIE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd5b92323a6367383aa4bd8ea4ecff6e647845e15",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

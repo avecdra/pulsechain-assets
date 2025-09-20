@@ -1,0 +1,29 @@
+{
+  "name": "UrDad",
+  "website": "https://pump.tires/token/0xB00F7cAf02257df77855e17D74E71DaAf3c9876a",
+  "description": "UrDad token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xB00F7cAf02257df77855e17D74E71DaAf3c9876a",
+  "type": "ERC20",
+  "symbol": "$UrDad",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb00f7caf02257df77855e17d74e71daaf3c9876a",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0xB00F7cAf02257df77855e17D74E71DaAf3c9876a"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/UrDadonPulse"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/UrDadonPulse"
+    }
+  ]
+}

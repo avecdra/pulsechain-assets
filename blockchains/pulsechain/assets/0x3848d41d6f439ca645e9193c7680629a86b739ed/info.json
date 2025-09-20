@@ -1,0 +1,25 @@
+{
+  "name": "Kenny John Pierre",
+  "website": "https://www.noface.buzz/",
+  "description": "Kenny John Pierre token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x3848D41D6f439Ca645e9193c7680629A86B739ED",
+  "type": "ERC20",
+  "symbol": "KJP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3848d41d6f439ca645e9193c7680629a86b739ed",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.noface.buzz/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/KennyJohnPierre"
+    }
+  ]
+}

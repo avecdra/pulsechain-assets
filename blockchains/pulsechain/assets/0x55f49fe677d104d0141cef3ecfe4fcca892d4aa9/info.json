@@ -1,0 +1,33 @@
+{
+  "name": "SoftTastyDonut",
+  "website": "https://www.stdpros.com/",
+  "description": "SoftTastyDonut token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x55f49Fe677d104D0141CEF3EcFE4FCcA892D4aa9",
+  "type": "ERC20",
+  "symbol": "STD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x55f49fe677d104d0141cef3ecfe4fcca892d4aa9",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.stdpros.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@patriotsway7208"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/way_patriots"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SoftTastyDonut"
+    }
+  ]
+}

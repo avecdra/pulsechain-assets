@@ -1,0 +1,15 @@
+{
+  "name": "New World Orange",
+  "website": "",
+  "description": "New World Orange token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x4c00e339f5dc4e97639d6c1c0a0ea4a022a66db0",
+  "type": "ERC20",
+  "symbol": "NWO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4c00e339f5dc4e97639d6c1c0a0ea4a022a66db0",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

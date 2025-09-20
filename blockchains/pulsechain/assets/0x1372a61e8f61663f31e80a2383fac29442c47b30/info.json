@@ -1,0 +1,15 @@
+{
+  "name": "My Yield Liquidity Pharm",
+  "website": "",
+  "description": "My Yield Liquidity Pharm token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1372a61e8f61663f31e80a2383fac29442c47b30",
+  "type": "ERC20",
+  "symbol": "MYLPH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1372a61e8f61663f31e80a2383fac29442c47b30",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MAGIC CARPET",
+  "website": "https://pump.tires/token/0x6794E23f0C09e4e54848eDd64502806876d42b0F",
+  "description": "MAGIC CARPET token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x6794E23f0C09e4e54848eDd64502806876d42b0F",
+  "type": "ERC20",
+  "symbol": "RIDE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6794e23f0c09e4e54848edd64502806876d42b0f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://pump.tires/token/0x6794E23f0C09e4e54848eDd64502806876d42b0F"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RichardHeartWin"
+    }
+  ]
+}

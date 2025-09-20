@@ -1,0 +1,29 @@
+{
+  "name": "VAULT",
+  "website": "https://hidden.secretinitiative.com/",
+  "description": "VAULT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x567E98869d346C004c7262CAc1111bAD53403691",
+  "type": "ERC20",
+  "symbol": "HIDDEN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x567e98869d346c004c7262cac1111bad53403691",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://hidden.secretinitiative.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/HIDDENTOKENPLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/secretresidents"
+    }
+  ]
+}

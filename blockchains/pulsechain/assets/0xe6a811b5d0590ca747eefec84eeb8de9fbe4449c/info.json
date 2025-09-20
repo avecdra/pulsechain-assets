@@ -1,0 +1,29 @@
+{
+  "name": "PEDRO",
+  "website": "https://www.pedrothetoken.com/",
+  "description": "PEDRO token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xE6A811b5D0590cA747eefeC84EEB8de9FbE4449c",
+  "type": "ERC20",
+  "symbol": "PEDRO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe6a811b5d0590ca747eefec84eeb8de9fbe4449c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.pedrothetoken.com/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Pedrothetoken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/pedroarmyofficial"
+    }
+  ]
+}

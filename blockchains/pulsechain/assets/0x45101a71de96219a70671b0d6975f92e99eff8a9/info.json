@@ -1,0 +1,15 @@
+{
+  "name": "The Bradford Club",
+  "website": "",
+  "description": "The Bradford Club token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x45101a71de96219a70671b0d6975f92e99eff8a9",
+  "type": "ERC20",
+  "symbol": "GRAND CRUS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x45101a71de96219a70671b0d6975f92e99eff8a9",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

@@ -1,0 +1,29 @@
+{
+  "name": "BURY",
+  "website": "https://suno.com/@369bury",
+  "description": "BURY token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xd3a756690b035b76d8bD11ccb85aDd6FE8859c44",
+  "type": "ERC20",
+  "symbol": "BURY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd3a756690b035b76d8bd11ccb85add6fe8859c44",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://suno.com/@369bury"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/BuryBear_PLS"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/BurberryBear"
+    }
+  ]
+}

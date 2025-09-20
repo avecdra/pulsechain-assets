@@ -1,0 +1,21 @@
+{
+  "name": "Hubert The Hemorrhoid",
+  "website": "",
+  "description": "Hubert The Hemorrhoid token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdfACB5E9E975A476001AE5F16a1395452bd9B120",
+  "type": "ERC20",
+  "symbol": "HTH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdfacb5e9e975a476001ae5f16a1395452bd9b120",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/HubertTheHemorrhoid"
+    }
+  ]
+}

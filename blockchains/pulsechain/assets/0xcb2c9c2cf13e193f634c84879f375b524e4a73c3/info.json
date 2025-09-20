@@ -1,0 +1,15 @@
+{
+  "name": "TOYBUX",
+  "website": "",
+  "description": "TOYBUX token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xcb2c9c2cf13e193f634c84879f375b524e4a73c3",
+  "type": "ERC20",
+  "symbol": "TBUX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcb2c9c2cf13e193f634c84879f375b524e4a73c3",
+  "tags": [
+    "pulsecoinlist"
+  ],
+  "links": []
+}

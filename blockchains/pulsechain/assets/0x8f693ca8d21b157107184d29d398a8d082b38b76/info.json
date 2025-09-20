@@ -1,0 +1,16 @@
+{
+  "name": "Streamr",
+  "website": "",
+  "description": "Streamr token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x8f693ca8D21b157107184d29D398A8D082b38b76",
+  "type": "ERC20",
+  "symbol": "DATA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

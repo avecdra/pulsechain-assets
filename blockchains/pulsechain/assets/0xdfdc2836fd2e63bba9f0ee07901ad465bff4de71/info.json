@@ -1,0 +1,16 @@
+{
+  "name": "WATT",
+  "website": "",
+  "description": "WATT token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xDfdc2836FD2E63Bba9f0eE07901aD465Bff4DE71",
+  "type": "ERC20",
+  "symbol": "WATT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdfdc2836fd2e63bba9f0ee07901ad465bff4de71",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "mEthLab",
+  "website": "https://r3wardr.vercel.app/",
+  "description": "mEthLab token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xD49688BDd162feaC18026CEA6c7546b4eaD67089",
+  "type": "ERC20",
+  "symbol": "mETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd49688bdd162feac18026cea6c7546b4ead67089",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://r3wardr.vercel.app/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MiniEthLaB"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MiniEthLab"
+    }
+  ]
+}

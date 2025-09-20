@@ -1,0 +1,25 @@
+{
+  "name": "Mary",
+  "website": "https://gopulse.com/token/0x2207e0be037cdc0cd92187dd0d9bc3a8f4d85a3b",
+  "description": "Mary token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2207E0BE037CdC0cd92187dD0d9bC3a8f4D85a3b",
+  "type": "ERC20",
+  "symbol": "Mary ☯",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2207e0be037cdc0cd92187dd0d9bc3a8f4d85a3b",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://gopulse.com/token/0x2207e0be037cdc0cd92187dd0d9bc3a8f4d85a3b"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+JKaeTPQZLis1OTVi"
+    }
+  ]
+}

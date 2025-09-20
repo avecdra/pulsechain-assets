@@ -1,0 +1,16 @@
+{
+  "name": "PHUX Governance Token",
+  "website": "",
+  "description": "PHUX Governance Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x9663c2d75ffd5F4017310405fCe61720aF45B829",
+  "type": "ERC20",
+  "symbol": "PHUX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9663c2d75ffd5f4017310405fce61720af45b829",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

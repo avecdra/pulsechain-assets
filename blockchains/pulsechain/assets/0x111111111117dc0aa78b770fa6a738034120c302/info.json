@@ -1,0 +1,16 @@
+{
+  "name": "1INCH Token",
+  "website": "",
+  "description": "1INCH Token token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x111111111117dC0aa78b770fA6A738034120C302",
+  "type": "ERC20",
+  "symbol": "1INCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": null
+}

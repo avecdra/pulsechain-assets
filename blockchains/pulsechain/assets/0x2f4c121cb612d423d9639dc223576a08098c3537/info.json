@@ -1,0 +1,33 @@
+{
+  "name": "redPILL",
+  "website": "https://www.stdpros.com/",
+  "description": "redPILL token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2f4C121cB612d423d9639dc223576A08098c3537",
+  "type": "ERC20",
+  "symbol": "RDPIL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2f4c121cb612d423d9639dc223576a08098c3537",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.stdpros.com/"
+    },
+    {
+      "name": "website",
+      "url": "https://www.youtube.com/@patriotsway7208"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/way_patriots"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SoftTastyDonut"
+    }
+  ]
+}

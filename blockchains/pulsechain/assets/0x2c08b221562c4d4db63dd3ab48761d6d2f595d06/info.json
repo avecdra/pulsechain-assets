@@ -1,0 +1,29 @@
+{
+  "name": "FEED THE BIRD",
+  "website": "https://docs.libertyswap.finance/general-information/roadmap",
+  "description": "FEED THE BIRD token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x2C08B221562c4d4db63dd3aB48761D6d2f595D06",
+  "type": "ERC20",
+  "symbol": "KEEPER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2c08b221562c4d4db63dd3ab48761d6d2f595d06",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://docs.libertyswap.finance/general-information/roadmap"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/keeperpls?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/keeperONpls"
+    }
+  ]
+}

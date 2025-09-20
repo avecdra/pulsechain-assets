@@ -1,0 +1,33 @@
+{
+  "name": "Mega Milk",
+  "website": "https://chiitan.club",
+  "description": "Mega Milk token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x1d98844528313Ed4fC743Cc106C15aee07C2072F",
+  "type": "ERC20",
+  "symbol": "MILK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1d98844528313ed4fc743cc106c15aee07c2072f",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://chiitan.club"
+    },
+    {
+      "name": "website",
+      "url": "https://dickwifbutt.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Toos_pooky?t=UU5o-Ev-_Bi0FpAbzjHmfw\u0026s=09"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/HexOrangeAddress_Official"
+    }
+  ]
+}

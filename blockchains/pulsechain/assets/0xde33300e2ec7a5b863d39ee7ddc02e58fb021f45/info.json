@@ -1,0 +1,33 @@
+{
+  "name": "SPX6900",
+  "website": "https://SPX6900pls.com",
+  "description": "SPX6900 token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0xdE33300e2Ec7A5b863d39eE7dDC02e58FB021F45",
+  "type": "ERC20",
+  "symbol": "SPX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde33300e2ec7a5b863d39ee7ddc02e58fb021f45",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://SPX6900pls.com"
+    },
+    {
+      "name": "website",
+      "url": "https://SPX6900.pls.fyi"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/SPX6900_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/SPX6900pls"
+    }
+  ]
+}
