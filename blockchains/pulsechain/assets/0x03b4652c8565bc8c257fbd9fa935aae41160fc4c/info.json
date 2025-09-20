@@ -1,0 +1,29 @@
+{
+  "name": "Firewhale",
+  "website": "https://solidx.win/",
+  "description": "Firewhale token on PulseChain",
+  "explorer": "https://scan.pulsechain.box/token/0x03b4652C8565BC8c257Fbd9fA935AAE41160fc4C",
+  "type": "ERC20",
+  "symbol": "FIREW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03b4652c8565bc8c257fbd9fa935aae41160fc4c",
+  "tags": [
+    "dexscreener",
+    "pulsecoinlist"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://solidx.win/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Solidx_pls"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Solidxpls"
+    }
+  ]
+}
