@@ -2,12 +2,12 @@
   "name": "Wrapped BTC",
   "website": "https://gopulse.com/token/pWBTC",
   "description": "Wrapped BTC token on PulseChain",
-  "explorer": "https://scan.pulsechain.box/token/0x46e27ea3a035ffc9e6d6d56702ce3d208ff1e58c",
+  "explorer": "https://scan.pulsechain.box/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
   "type": "ERC20",
   "symbol": "WBTC",
   "decimals": 18,
   "status": "active",
-  "id": "0x46e27ea3a035ffc9e6d6d56702ce3d208ff1e58c",
+  "id": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
   "tags": [
     "dexscreener"
   ],
