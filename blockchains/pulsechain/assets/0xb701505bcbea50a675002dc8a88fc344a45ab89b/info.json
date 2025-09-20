@@ -1,0 +1,35 @@
+{
+    "name": "pumpi on PulseChain",
+    "description": "pumpi token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xB701505bcBea50a675002dc8A88Fc344A45Ab89b",
+    "type": "ERC20",
+    "symbol": "pumpi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB701505bcBea50a675002dc8A88Fc344A45Ab89b",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xB701505bcBea50a675002dc8A88Fc344A45Ab89b"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xB701505bcBea50a675002dc8A88Fc344A45Ab89b"
+        },
+        {
+            "name": "website",
+            "url": "https://higherpump.tires/token/0xB701505bcBea50a675002dc8A88Fc344A45Ab89b"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/higherpumptires"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HigherPump_tires"
+        }
+    ]
+}

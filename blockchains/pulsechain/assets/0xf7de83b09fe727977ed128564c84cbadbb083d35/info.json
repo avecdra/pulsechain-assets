@@ -1,0 +1,35 @@
+{
+    "name": "White Rabbit on PulseChain",
+    "description": "White Rabbit token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xF7DE83B09fe727977Ed128564C84cbadBB083d35",
+    "type": "ERC20",
+    "symbol": "BUNS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF7DE83B09fe727977Ed128564C84cbadBB083d35",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xF7DE83B09fe727977Ed128564C84cbadBB083d35"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xF7DE83B09fe727977Ed128564C84cbadBB083d35"
+        },
+        {
+            "name": "website",
+            "url": "https://www.wonderland.cool/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/wonderlandpulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/WonderlandPls"
+        }
+    ]
+}

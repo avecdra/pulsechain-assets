@@ -1,0 +1,32 @@
+{
+    "name": "XUSD Vibratile Asset on PulseChain",
+    "description": "XUSD Vibratile Asset token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xbbeA78397d4d4590882EFcc4820f03074aB2AB29",
+    "type": "ERC20",
+    "symbol": "XUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbbeA78397d4d4590882EFcc4820f03074aB2AB29",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xbbeA78397d4d4590882EFcc4820f03074aB2AB29"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xbbeA78397d4d4590882EFcc4820f03074aB2AB29"
+        },
+        {
+            "name": "website",
+            "url": "https://www.x-usd.net/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/XUSDOfficial"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "In The Know on PulseChain",
+    "description": "In The Know token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x9DC72e4AD4d11841993F6c0a087F5B9fb458aA7C",
+    "type": "ERC20",
+    "symbol": "GBABY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9DC72e4AD4d11841993F6c0a087F5B9fb458aA7C",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x9DC72e4AD4d11841993F6c0a087F5B9fb458aA7C"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x9DC72e4AD4d11841993F6c0a087F5B9fb458aA7C"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GBABYtoken"
+        }
+    ]
+}

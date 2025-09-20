@@ -1,0 +1,24 @@
+{
+    "name": "USDL Stablecoin on PulseChain",
+    "description": "USDL Stablecoin - A stablecoin on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x0deed1486bc52aa0d3e6f8849cec5add6598a162",
+    "type": "ERC20",
+    "symbol": "USDL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0deed1486bc52aa0d3e6f8849cec5add6598a162",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x0deed1486bc52aa0d3e6f8849cec5add6598a162"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x0deed1486bc52aa0d3e6f8849cec5add6598a162"
+        }
+    ]
+}

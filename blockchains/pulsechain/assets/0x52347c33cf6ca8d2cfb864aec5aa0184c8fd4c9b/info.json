@@ -1,0 +1,23 @@
+{
+    "name": "Sparta on PulseChain",
+    "description": "Sparta token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x52347c33cf6ca8d2cfb864aec5aa0184c8fd4c9b",
+    "type": "ERC20",
+    "symbol": "SPARTA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x52347c33cf6ca8d2cfb864aec5aa0184c8fd4c9b",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x52347c33cf6ca8d2cfb864aec5aa0184c8fd4c9b"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x52347c33cf6ca8d2cfb864aec5aa0184c8fd4c9b"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "HEX on PulseChain",
+    "description": "HEX token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x55C50875e890c7eE5621480baB02511C380E12C6",
+    "type": "ERC20",
+    "symbol": "HEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x55C50875e890c7eE5621480baB02511C380E12C6",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x55C50875e890c7eE5621480baB02511C380E12C6"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x55C50875e890c7eE5621480baB02511C380E12C6"
+        },
+        {
+            "name": "website",
+            "url": "https://web.archive.org/web/20190401142642/https://www.bitcoinhex.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/RichardHeartWin/status/1094907896213790721"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BitcoinHEXmemes"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "UFO on PulseChain",
+    "description": "UFO token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018",
+    "type": "ERC20",
+    "symbol": "UFO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x456548a9b56efbbd89ca0309edd17a9e20b04018",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x456548a9b56efbbd89ca0309edd17a9e20b04018"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "FINANCE ON FIRE on PulseChain",
+    "description": "FINANCE ON FIRE token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xA86c51Aa78Ce5BffBb61E38a247164d598861ae4",
+    "type": "ERC20",
+    "symbol": "FINFIRE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA86c51Aa78Ce5BffBb61E38a247164d598861ae4",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xA86c51Aa78Ce5BffBb61E38a247164d598861ae4"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xA86c51Aa78Ce5BffBb61E38a247164d598861ae4"
+        },
+        {
+            "name": "website",
+            "url": "https://finvesta.io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/finfireprc"
+        }
+    ]
+}

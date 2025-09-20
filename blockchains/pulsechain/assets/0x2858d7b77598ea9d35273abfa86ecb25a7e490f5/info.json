@@ -1,0 +1,31 @@
+{
+    "name": "HEX.COM Diamond on PulseChain",
+    "description": "HEX.COM Diamond token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x2858D7b77598eA9D35273ABFa86ECb25A7e490F5",
+    "type": "ERC20",
+    "symbol": "5555",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2858D7b77598eA9D35273ABFa86ECb25A7e490F5",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x2858D7b77598eA9D35273ABFa86ECb25A7e490F5"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x2858D7b77598eA9D35273ABFa86ECb25A7e490F5"
+        },
+        {
+            "name": "website",
+            "url": "https://hex.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HEXcrypto"
+        }
+    ]
+}

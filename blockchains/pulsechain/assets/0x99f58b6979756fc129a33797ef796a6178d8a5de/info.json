@@ -1,0 +1,35 @@
+{
+    "name": "The Fitzgerald Company on PulseChain",
+    "description": "The Fitzgerald Company token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x99F58b6979756fc129a33797eF796a6178D8A5De",
+    "type": "ERC20",
+    "symbol": "TFC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x99F58b6979756fc129a33797eF796a6178D8A5De",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x99F58b6979756fc129a33797eF796a6178D8A5De"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x99F58b6979756fc129a33797eF796a6178D8A5De"
+        },
+        {
+            "name": "website",
+            "url": "http://fitzgerald.company"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/company_th83014"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Tim_Benjamin"
+        }
+    ]
+}

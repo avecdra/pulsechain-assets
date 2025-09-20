@@ -1,0 +1,32 @@
+{
+    "name": "dickwifbutt on PulseChain",
+    "description": "dickwifbutt token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68",
+    "type": "ERC20",
+    "symbol": "DWB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68",
+    "tags": [
+        "defi",
+        "wrapped"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xAEbcD0F8f69ECF9587e292bdfc4d731c1abedB68"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/dickwifbuttarmy?t=ctln7Ez9sAs0c9YDv5EXFA\u0026s=09"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dickwifbuttarmy"
+        }
+    ]
+}

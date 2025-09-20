@@ -1,0 +1,23 @@
+{
+    "name": "Teddy Bear on PulseChain",
+    "description": "Teddy Bear token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x91ab48c4988ae5bbeb02acb8b5cdbcd8225d7974",
+    "type": "ERC20",
+    "symbol": "TEDDY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x91ab48c4988ae5bbeb02acb8b5cdbcd8225d7974",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x91ab48c4988ae5bbeb02acb8b5cdbcd8225d7974"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x91ab48c4988ae5bbeb02acb8b5cdbcd8225d7974"
+        }
+    ]
+}

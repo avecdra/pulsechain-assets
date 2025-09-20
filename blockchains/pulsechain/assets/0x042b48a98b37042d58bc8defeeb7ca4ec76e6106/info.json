@@ -1,0 +1,35 @@
+{
+    "name": "GAS Money on PulseChain",
+    "description": "GAS Money token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106",
+    "type": "ERC20",
+    "symbol": "⛽",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x042b48a98B37042D58Bc8defEEB7cA4eC76E6106"
+        },
+        {
+            "name": "website",
+            "url": "http://www.finvesta.eco"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/gasmoney_pulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "$JEET on PulseChain",
+    "description": "$JEET token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6801fa8Ece9e6e021D2C925d2243ae3890Eb95A4",
+    "type": "ERC20",
+    "symbol": "$JEET",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6801fa8Ece9e6e021D2C925d2243ae3890Eb95A4",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6801fa8Ece9e6e021D2C925d2243ae3890Eb95A4"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6801fa8Ece9e6e021D2C925d2243ae3890Eb95A4"
+        },
+        {
+            "name": "website",
+            "url": "https://jeet0x.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TheMoonJeet0x"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TheMoonJeet"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PUPPERS on PulseChain",
+    "description": "PUPPERS token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xbd59a88754902b80922dfebc15c7ea94a8c21ce2",
+    "type": "ERC20",
+    "symbol": "PUPPERS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbd59a88754902b80922dfebc15c7ea94a8c21ce2",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xbd59a88754902b80922dfebc15c7ea94a8c21ce2"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xbd59a88754902b80922dfebc15c7ea94a8c21ce2"
+        }
+    ]
+}

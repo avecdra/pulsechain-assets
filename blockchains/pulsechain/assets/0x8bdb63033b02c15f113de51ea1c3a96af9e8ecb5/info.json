@@ -1,0 +1,23 @@
+{
+    "name": "AxisAlive on PulseChain",
+    "description": "AxisAlive token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x8bdb63033b02c15f113de51ea1c3a96af9e8ecb5",
+    "type": "ERC20",
+    "symbol": "AXIS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8bdb63033b02c15f113de51ea1c3a96af9e8ecb5",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x8bdb63033b02c15f113de51ea1c3a96af9e8ecb5"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x8bdb63033b02c15f113de51ea1c3a96af9e8ecb5"
+        }
+    ]
+}

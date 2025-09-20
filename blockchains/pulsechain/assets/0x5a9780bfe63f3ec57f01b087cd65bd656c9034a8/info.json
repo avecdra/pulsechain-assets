@@ -1,0 +1,23 @@
+{
+    "name": "Communis on PulseChain",
+    "description": "Communis token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x5a9780bfe63f3ec57f01b087cd65bd656c9034a8",
+    "type": "ERC20",
+    "symbol": "COM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5a9780bfe63f3ec57f01b087cd65bd656c9034a8",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x5a9780bfe63f3ec57f01b087cd65bd656c9034a8"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x5a9780bfe63f3ec57f01b087cd65bd656c9034a8"
+        }
+    ]
+}

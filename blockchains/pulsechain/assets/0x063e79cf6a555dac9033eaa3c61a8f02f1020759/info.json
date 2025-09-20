@@ -1,0 +1,35 @@
+{
+    "name": "MISSOR on PulseChain",
+    "description": "MISSOR token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x063E79CF6A555dac9033EAa3c61A8f02F1020759",
+    "type": "ERC20",
+    "symbol": "💤",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x063E79CF6A555dac9033EAa3c61A8f02F1020759",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x063E79CF6A555dac9033EAa3c61A8f02F1020759"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x063E79CF6A555dac9033EAa3c61A8f02F1020759"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.eco/missor"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/missor_pulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

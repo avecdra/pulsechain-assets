@@ -1,0 +1,27 @@
+{
+    "name": "A Free Slice Of Pizza on PulseChain",
+    "description": "A Free Slice Of Pizza token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B",
+    "type": "ERC20",
+    "symbol": "PIZZA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x3e7ae951d9925E6e5DE6140a99B90c3259445c9B"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/afreesliceofpizza"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "urmom on PulseChain",
+    "description": "urmom token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xe43b3cee3554e120213b8b69caf690b6c04a7ec0",
+    "type": "ERC20",
+    "symbol": "urmom",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe43b3cee3554e120213b8b69caf690b6c04a7ec0",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xe43b3cee3554e120213b8b69caf690b6c04a7ec0"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xe43b3cee3554e120213b8b69caf690b6c04a7ec0"
+        }
+    ]
+}

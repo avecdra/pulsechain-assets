@@ -1,0 +1,23 @@
+{
+    "name": "Finvesta on PulseChain",
+    "description": "Finvesta token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
+    "type": "ERC20",
+    "symbol": "Finvesta",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1c81b4358246d3088ab4361ab755f3d8d4dd62d2"
+        }
+    ]
+}

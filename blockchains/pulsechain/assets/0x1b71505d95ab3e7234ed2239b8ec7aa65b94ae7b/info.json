@@ -1,0 +1,27 @@
+{
+    "name": "PEPE on PulseChain",
+    "description": "PEPE token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1B71505D95Ab3e7234ed2239b8EC7aa65b94ae7B",
+    "type": "ERC20",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1B71505D95Ab3e7234ed2239b8EC7aa65b94ae7B",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1B71505D95Ab3e7234ed2239b8EC7aa65b94ae7B"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1B71505D95Ab3e7234ed2239b8EC7aa65b94ae7B"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/RichardHeartPepe"
+        }
+    ]
+}

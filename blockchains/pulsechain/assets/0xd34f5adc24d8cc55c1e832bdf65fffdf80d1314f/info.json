@@ -1,0 +1,23 @@
+{
+    "name": "Vouch on PulseChain",
+    "description": "Vouch token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xd34f5adc24d8cc55c1e832bdf65fffdf80d1314f",
+    "type": "ERC20",
+    "symbol": "VOUCH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd34f5adc24d8cc55c1e832bdf65fffdf80d1314f",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xd34f5adc24d8cc55c1e832bdf65fffdf80d1314f"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xd34f5adc24d8cc55c1e832bdf65fffdf80d1314f"
+        }
+    ]
+}

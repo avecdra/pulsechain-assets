@@ -1,0 +1,23 @@
+{
+    "name": "Hexagon on PulseChain",
+    "description": "Hexagon token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x0242d06e287edf5cc49c4fc78c86bb540f0dee8f",
+    "type": "ERC20",
+    "symbol": "HEXA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0242d06e287edf5cc49c4fc78c86bb540f0dee8f",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x0242d06e287edf5cc49c4fc78c86bb540f0dee8f"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x0242d06e287edf5cc49c4fc78c86bb540f0dee8f"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Trump on PulseChain",
+    "description": "Trump token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x8cC6d99114Edd628249fAbc8a4d64F9A759a77Bf",
+    "type": "ERC20",
+    "symbol": "Trump",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8cC6d99114Edd628249fAbc8a4d64F9A759a77Bf",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x8cC6d99114Edd628249fAbc8a4d64F9A759a77Bf"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x8cC6d99114Edd628249fAbc8a4d64F9A759a77Bf"
+        },
+        {
+            "name": "website",
+            "url": "https://pump.tires/token/0x10Ba79D6093358c33B22fb32425FC2D6a97Ec0FA"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/richardheartwin/status/1885851195614396562"
+        }
+    ]
+}

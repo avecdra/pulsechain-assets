@@ -1,0 +1,35 @@
+{
+    "name": "XEN Crypto on PulseChain",
+    "description": "XEN Crypto token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
+    "type": "ERC20",
+    "symbol": "pXEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8a7FDcA264e87b6da72D000f22186B4403081A2a",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x8a7FDcA264e87b6da72D000f22186B4403081A2a"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x8a7FDcA264e87b6da72D000f22186B4403081A2a"
+        },
+        {
+            "name": "website",
+            "url": "https://xen.network/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/xen_crypto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/XENCryptoTalk"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "LOAN on PulseChain",
+    "description": "LOAN token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+    "type": "ERC20",
+    "symbol": "LOAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B"
+        },
+        {
+            "name": "website",
+            "url": "https://www.liquidloans.io/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/liquidloansio"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/liquidloans"
+        }
+    ]
+}

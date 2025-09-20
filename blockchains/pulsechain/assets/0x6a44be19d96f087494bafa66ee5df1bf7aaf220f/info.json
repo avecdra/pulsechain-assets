@@ -1,0 +1,23 @@
+{
+    "name": "Blastar on PulseChain",
+    "description": "Blastar token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6a44be19d96f087494bafa66ee5df1bf7aaf220f",
+    "type": "ERC20",
+    "symbol": "BLAST",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6a44be19d96f087494bafa66ee5df1bf7aaf220f",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6a44be19d96f087494bafa66ee5df1bf7aaf220f"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6a44be19d96f087494bafa66ee5df1bf7aaf220f"
+        }
+    ]
+}

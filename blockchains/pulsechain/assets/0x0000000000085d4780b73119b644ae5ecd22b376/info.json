@@ -1,0 +1,36 @@
+{
+    "name": "TrueUSD on PulseChain",
+    "description": "TrueUSD token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x0000000000085d4780B73119b644AE5ecd22b376",
+    "type": "ERC20",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x0000000000085d4780B73119b644AE5ecd22b376"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x0000000000085d4780B73119b644AE5ecd22b376"
+        },
+        {
+            "name": "website",
+            "url": "https://gopulse.com/token/pTUSD"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PulseTUSD"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseTUSD"
+        }
+    ]
+}

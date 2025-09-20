@@ -1,0 +1,35 @@
+{
+    "name": "T.I.M.E. Dividend on PulseChain",
+    "description": "T.I.M.E. Dividend token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+    "type": "ERC20",
+    "symbol": "TIME",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58"
+        },
+        {
+            "name": "website",
+            "url": "https://internetmoney.io/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/InternetMoneyio"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/internetmoneyio"
+        }
+    ]
+}

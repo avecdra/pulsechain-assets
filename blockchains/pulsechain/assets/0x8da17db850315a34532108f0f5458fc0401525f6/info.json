@@ -1,0 +1,35 @@
+{
+    "name": "Solid X on PulseChain",
+    "description": "Solid X token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x8Da17Db850315A34532108f0f5458fc0401525f6",
+    "type": "ERC20",
+    "symbol": "SOLIDX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8Da17Db850315A34532108f0f5458fc0401525f6",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x8Da17Db850315A34532108f0f5458fc0401525f6"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x8Da17Db850315A34532108f0f5458fc0401525f6"
+        },
+        {
+            "name": "website",
+            "url": "https://solidx.win/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/solidx_pls"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Solidxpls"
+        }
+    ]
+}

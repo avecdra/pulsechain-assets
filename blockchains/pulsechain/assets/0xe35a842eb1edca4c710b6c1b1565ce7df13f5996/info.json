@@ -1,0 +1,35 @@
+{
+    "name": "𑀭𑀭𑀭𑀭𑀭 on PulseChain",
+    "description": "𑀭𑀭𑀭𑀭𑀭 token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996",
+    "type": "ERC20",
+    "symbol": "BFF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996"
+        },
+        {
+            "name": "website",
+            "url": "https://www.bffonpulsechain.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/atropa_pls"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BFFonPulseChain"
+        }
+    ]
+}

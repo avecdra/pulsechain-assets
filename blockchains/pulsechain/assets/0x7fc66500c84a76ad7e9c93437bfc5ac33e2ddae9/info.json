@@ -1,0 +1,35 @@
+{
+    "name": "Aave Token on PulseChain",
+    "description": "Aave Token token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "type": "ERC20",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+        },
+        {
+            "name": "website",
+            "url": "https://aave.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/pulseaave?s=21\u0026t=8vmArXsynLkocc_LD_X72w"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseChainAAVE"
+        }
+    ]
+}

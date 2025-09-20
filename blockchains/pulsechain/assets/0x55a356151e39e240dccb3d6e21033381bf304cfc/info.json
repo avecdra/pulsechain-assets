@@ -1,0 +1,35 @@
+{
+    "name": "Gasspas on PulseChain",
+    "description": "Gasspas token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x55a356151E39e240dCcB3D6e21033381bF304Cfc",
+    "type": "ERC20",
+    "symbol": "GASS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x55a356151E39e240dCcB3D6e21033381bF304Cfc",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x55a356151E39e240dCcB3D6e21033381bF304Cfc"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x55a356151E39e240dCcB3D6e21033381bF304Cfc"
+        },
+        {
+            "name": "website",
+            "url": "https://Gasspas.biz"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/GasspasPLS"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GasspasGASS"
+        }
+    ]
+}

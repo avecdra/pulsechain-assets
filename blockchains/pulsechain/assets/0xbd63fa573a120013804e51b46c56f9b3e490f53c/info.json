@@ -1,0 +1,35 @@
+{
+    "name": "SUN Minimeal SOIL on PulseChain",
+    "description": "SUN Minimeal SOIL token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xbd63FA573A120013804e51B46C56F9b3e490f53C",
+    "type": "ERC20",
+    "symbol": "SOIL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbd63FA573A120013804e51B46C56F9b3e490f53C",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xbd63FA573A120013804e51B46C56F9b3e490f53C"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xbd63FA573A120013804e51B46C56F9b3e490f53C"
+        },
+        {
+            "name": "website",
+            "url": "https://sun-ag-1.gitbook.io/soil-whitepaper-english"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/SUNMINIMEAL"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/minimealofficial"
+        }
+    ]
+}

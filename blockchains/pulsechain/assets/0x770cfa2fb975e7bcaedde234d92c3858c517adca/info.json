@@ -1,0 +1,31 @@
+{
+    "name": "WORLDS GREATEST PDAI PRINTER on PulseChain",
+    "description": "WORLDS GREATEST PDAI PRINTER token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x770CFA2FB975E7bCAEDDe234D92c3858C517Adca",
+    "type": "ERC20",
+    "symbol": "🖨️",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x770CFA2FB975E7bCAEDDe234D92c3858C517Adca",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x770CFA2FB975E7bCAEDDe234D92c3858C517Adca"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x770CFA2FB975E7bCAEDDe234D92c3858C517Adca"
+        },
+        {
+            "name": "website",
+            "url": "https://ogprinters-tracker.lovable.app/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

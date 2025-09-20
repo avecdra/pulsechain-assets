@@ -1,0 +1,31 @@
+{
+    "name": "FLEXMAS on PulseChain",
+    "description": "FLEXMAS token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x5ED5882164277cec6D5Ae6f420721b199C0e5693",
+    "type": "ERC20",
+    "symbol": "FLEXMAS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5ED5882164277cec6D5Ae6f420721b199C0e5693",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x5ED5882164277cec6D5Ae6f420721b199C0e5693"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x5ED5882164277cec6D5Ae6f420721b199C0e5693"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.eco/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/FLEXMAS_PULSE"
+        }
+    ]
+}

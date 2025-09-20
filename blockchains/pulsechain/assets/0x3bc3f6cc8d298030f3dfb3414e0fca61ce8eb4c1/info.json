@@ -1,0 +1,35 @@
+{
+    "name": "Apu Apustaja on PulseChain",
+    "description": "Apu Apustaja token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x3bC3f6CC8d298030F3DfB3414e0fca61ce8eB4c1",
+    "type": "ERC20",
+    "symbol": "APU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3bC3f6CC8d298030F3DfB3414e0fca61ce8eB4c1",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x3bC3f6CC8d298030F3DfB3414e0fca61ce8eB4c1"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x3bC3f6CC8d298030F3DfB3414e0fca61ce8eB4c1"
+        },
+        {
+            "name": "website",
+            "url": "https://furieverse.co/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/furieverseco"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/furieverse"
+        }
+    ]
+}

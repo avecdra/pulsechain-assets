@@ -1,0 +1,36 @@
+{
+    "name": "4-Way Mirror Money on PulseChain",
+    "description": "4-Way Mirror Money token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x8BF45680485b2aC15E452a9599E87b94c5A07792",
+    "type": "ERC20",
+    "symbol": "4WMM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8BF45680485b2aC15E452a9599E87b94c5A07792",
+    "tags": [
+        "defi",
+        "wrapped"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x8BF45680485b2aC15E452a9599E87b94c5A07792"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x8BF45680485b2aC15E452a9599E87b94c5A07792"
+        },
+        {
+            "name": "website",
+            "url": "https://growthdefi.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PerpetualDice3"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GBTCpWBTCxxHMINE"
+        }
+    ]
+}

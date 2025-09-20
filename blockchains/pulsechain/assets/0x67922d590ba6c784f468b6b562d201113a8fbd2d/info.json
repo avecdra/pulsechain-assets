@@ -1,0 +1,23 @@
+{
+    "name": "Just a pulse guy on PulseChain",
+    "description": "Just a pulse guy token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x67922d590ba6c784f468b6b562d201113a8fbd2d",
+    "type": "ERC20",
+    "symbol": "PULSEGUY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x67922d590ba6c784f468b6b562d201113a8fbd2d",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x67922d590ba6c784f468b6b562d201113a8fbd2d"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x67922d590ba6c784f468b6b562d201113a8fbd2d"
+        }
+    ]
+}

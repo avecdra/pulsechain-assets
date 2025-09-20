@@ -1,0 +1,23 @@
+{
+    "name": "Piteas Token on PulseChain",
+    "description": "Piteas Token token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x2a06a971fe6ffa002fd242d437e3db2b5cc5b433",
+    "type": "ERC20",
+    "symbol": "PTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2a06a971fe6ffa002fd242d437e3db2b5cc5b433",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x2a06a971fe6ffa002fd242d437e3db2b5cc5b433"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x2a06a971fe6ffa002fd242d437e3db2b5cc5b433"
+        }
+    ]
+}

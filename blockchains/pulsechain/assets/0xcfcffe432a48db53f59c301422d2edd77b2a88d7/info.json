@@ -1,0 +1,35 @@
+{
+    "name": "TEXAN Token on PulseChain",
+    "description": "TEXAN Token token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+    "type": "ERC20",
+    "symbol": "TEXAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xcFCFfE432A48dB53F59c301422d2EdD77B2A88d7"
+        },
+        {
+            "name": "website",
+            "url": "https://texan.cc/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/texan_token"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TexanToken"
+        }
+    ]
+}

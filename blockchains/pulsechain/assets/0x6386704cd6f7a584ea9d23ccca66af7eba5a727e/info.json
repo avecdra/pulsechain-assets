@@ -1,0 +1,35 @@
+{
+    "name": "Sparkswap on PulseChain",
+    "description": "Sparkswap token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e",
+    "type": "ERC20",
+    "symbol": "SPARK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6386704cD6f7A584EA9D23cccA66aF7EBA5a727e"
+        },
+        {
+            "name": "website",
+            "url": "https://sparkswap.xyz"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/sparkswap_"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/spark_swap"
+        }
+    ]
+}

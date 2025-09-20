@@ -1,0 +1,35 @@
+{
+    "name": "PLSP on PulseChain",
+    "description": "PLSP token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xC52F739f544d20725BA7aD47Bb42299034F06f4F",
+    "type": "ERC20",
+    "symbol": "PLSP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC52F739f544d20725BA7aD47Bb42299034F06f4F",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xC52F739f544d20725BA7aD47Bb42299034F06f4F"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xC52F739f544d20725BA7aD47Bb42299034F06f4F"
+        },
+        {
+            "name": "website",
+            "url": "https://pulsepot.io"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/JPulsepot"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pulsepot"
+        }
+    ]
+}

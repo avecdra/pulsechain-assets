@@ -1,0 +1,23 @@
+{
+    "name": "SURF on PulseChain",
+    "description": "SURF token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x12828d4cda7cbfacd7586e54708a9b9674641bed",
+    "type": "ERC20",
+    "symbol": "SURF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x12828d4cda7cbfacd7586e54708a9b9674641bed",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x12828d4cda7cbfacd7586e54708a9b9674641bed"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x12828d4cda7cbfacd7586e54708a9b9674641bed"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "DOMESHOT on PulseChain",
+    "description": "DOMESHOT token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x23c9945687c49eB8E65A2Fd690E1D92fD0c3efE7",
+    "type": "ERC20",
+    "symbol": "DOME",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x23c9945687c49eB8E65A2Fd690E1D92fD0c3efE7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x23c9945687c49eB8E65A2Fd690E1D92fD0c3efE7"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x23c9945687c49eB8E65A2Fd690E1D92fD0c3efE7"
+        },
+        {
+            "name": "website",
+            "url": "https://www.domeshot.io/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DOMESHOTTOKEN"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DOMESHOTCHAT"
+        }
+    ]
+}

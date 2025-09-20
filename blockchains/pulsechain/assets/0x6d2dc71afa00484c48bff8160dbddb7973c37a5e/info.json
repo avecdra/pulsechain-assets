@@ -1,0 +1,35 @@
+{
+    "name": "TokenB2B on PulseChain",
+    "description": "TokenB2B token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6d2dc71AFa00484C48bfF8160dbDdB7973c37A5E",
+    "type": "ERC20",
+    "symbol": "B2B",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6d2dc71AFa00484C48bfF8160dbDdB7973c37A5E",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6d2dc71AFa00484C48bfF8160dbDdB7973c37A5E"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6d2dc71AFa00484C48bfF8160dbDdB7973c37A5E"
+        },
+        {
+            "name": "website",
+            "url": "https://b2b.a1a.games/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/A1A_coin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TokenA1A"
+        }
+    ]
+}

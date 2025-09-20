@@ -1,0 +1,35 @@
+{
+    "name": "DaiHard on PulseChain",
+    "description": "DaiHard token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xB6Bad00525221EB28Eb911a0B1162a0709b4CE57",
+    "type": "ERC20",
+    "symbol": "HARD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB6Bad00525221EB28Eb911a0B1162a0709b4CE57",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xB6Bad00525221EB28Eb911a0B1162a0709b4CE57"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xB6Bad00525221EB28Eb911a0B1162a0709b4CE57"
+        },
+        {
+            "name": "website",
+            "url": "https://a1a.eco/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DaiHardPLS"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DaiHardPLS"
+        }
+    ]
+}

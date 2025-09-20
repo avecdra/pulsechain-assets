@@ -1,0 +1,36 @@
+{
+    "name": "Compound Dai on PulseChain",
+    "description": "Compound Dai token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "type": "ERC20",
+    "symbol": "cDAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643"
+        },
+        {
+            "name": "website",
+            "url": "https://gopulse.com/token/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/pcdai_/status/1868804627199934894?s=46"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/cdaiprc20"
+        }
+    ]
+}

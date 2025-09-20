@@ -1,0 +1,27 @@
+{
+    "name": "Atropa on PulseChain",
+    "description": "Atropa token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6",
+    "type": "ERC20",
+    "symbol": "ATROPA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xCc78A0acDF847A2C1714D2A925bB4477df5d48a6"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/atropapulsechain"
+        }
+    ]
+}

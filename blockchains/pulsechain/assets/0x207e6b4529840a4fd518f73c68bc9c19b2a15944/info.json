@@ -1,0 +1,23 @@
+{
+    "name": "Mintra on PulseChain",
+    "description": "Mintra token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x207e6b4529840a4fd518f73c68bc9c19b2a15944",
+    "type": "ERC20",
+    "symbol": "MINT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x207e6b4529840a4fd518f73c68bc9c19b2a15944",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x207e6b4529840a4fd518f73c68bc9c19b2a15944"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x207e6b4529840a4fd518f73c68bc9c19b2a15944"
+        }
+    ]
+}

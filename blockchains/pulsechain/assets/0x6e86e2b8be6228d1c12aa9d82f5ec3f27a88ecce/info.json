@@ -1,0 +1,35 @@
+{
+    "name": "GIFFORDwear on PulseChain",
+    "description": "GIFFORDwear token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce",
+    "type": "ERC20",
+    "symbol": "GIFF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6e86e2b8be6228d1c12aA9d82f5Ec3F27A88Ecce"
+        },
+        {
+            "name": "website",
+            "url": "https://giffordwear.win/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GIFFORDwear"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/+75AB_-UMFrA2YmEx"
+        }
+    ]
+}

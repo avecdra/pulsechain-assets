@@ -1,0 +1,31 @@
+{
+    "name": "NoExpectationsButPumpMyBagsRichardPlease on PulseChain",
+    "description": "NoExpectationsButPumpMyBagsRichardPlease token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xeD1Fb376A40E062af9Dbd4b4C19bAE7bd74c4691",
+    "type": "ERC20",
+    "symbol": "HEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xeD1Fb376A40E062af9Dbd4b4C19bAE7bd74c4691",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xeD1Fb376A40E062af9Dbd4b4C19bAE7bd74c4691"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xeD1Fb376A40E062af9Dbd4b4C19bAE7bd74c4691"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Project_X_Pulse?t=xmTP443XAJdEq7Dh-YZAhw\u0026s=09"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PoolTokenEco"
+        }
+    ]
+}

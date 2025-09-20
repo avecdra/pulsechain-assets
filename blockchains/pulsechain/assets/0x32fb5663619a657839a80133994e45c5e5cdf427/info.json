@@ -1,0 +1,23 @@
+{
+    "name": "EMIT on PulseChain",
+    "description": "EMIT token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x32fb5663619a657839a80133994e45c5e5cdf427",
+    "type": "ERC20",
+    "symbol": "EMIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x32fb5663619a657839a80133994e45c5e5cdf427",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x32fb5663619a657839a80133994e45c5e5cdf427"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x32fb5663619a657839a80133994e45c5e5cdf427"
+        }
+    ]
+}

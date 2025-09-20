@@ -1,0 +1,27 @@
+{
+    "name": "Ǝ𒑰 on PulseChain",
+    "description": "Ǝ𒑰 token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
+    "type": "ERC20",
+    "symbol": "monat money Ǝ𒑰",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/monatmoney"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Liquid staked Ether 2.0 on PulseChain",
+    "description": "Liquid staked Ether 2.0 token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "type": "ERC20",
+    "symbol": "stETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+        },
+        {
+            "name": "website",
+            "url": "https://pulsechainsteth.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PstEth"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulsechainstETH"
+        }
+    ]
+}

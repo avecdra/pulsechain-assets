@@ -1,0 +1,35 @@
+{
+    "name": "Mog Coin on PulseChain",
+    "description": "Mog Coin token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x495d9b70480A22a82D0FB81981480764BA55550e",
+    "type": "ERC20",
+    "symbol": "MOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x495d9b70480A22a82D0FB81981480764BA55550e",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x495d9b70480A22a82D0FB81981480764BA55550e"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x495d9b70480A22a82D0FB81981480764BA55550e"
+        },
+        {
+            "name": "website",
+            "url": "https://mogcoinpls.xyz/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PulsechainCom"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MogCoinPls"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Growth BTC on PulseChain",
+    "description": "Growth BTC token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x00febf86e8f0673f0feadac14b5ea1a05e744cb7",
+    "type": "ERC20",
+    "symbol": "GBTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x00febf86e8f0673f0feadac14b5ea1a05e744cb7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x00febf86e8f0673f0feadac14b5ea1a05e744cb7"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x00febf86e8f0673f0feadac14b5ea1a05e744cb7"
+        }
+    ]
+}

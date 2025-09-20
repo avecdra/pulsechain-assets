@@ -1,0 +1,23 @@
+{
+    "name": "AXEL.win on PulseChain",
+    "description": "AXEL.win token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xdd67d6523529294b50a1765769080034b6146ee7",
+    "type": "ERC20",
+    "symbol": "AXEL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdd67d6523529294b50a1765769080034b6146ee7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xdd67d6523529294b50a1765769080034b6146ee7"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xdd67d6523529294b50a1765769080034b6146ee7"
+        }
+    ]
+}

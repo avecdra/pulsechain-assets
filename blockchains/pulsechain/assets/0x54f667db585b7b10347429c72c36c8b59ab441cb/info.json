@@ -1,0 +1,35 @@
+{
+    "name": "Good Old Fashioned Un Registered Security on PulseChain",
+    "description": "Good Old Fashioned Un Registered Security token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x54f667dB585b7B10347429C72c36c8B59aB441cb",
+    "type": "ERC20",
+    "symbol": "GOFURS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x54f667dB585b7B10347429C72c36c8B59aB441cb",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x54f667dB585b7B10347429C72c36c8B59aB441cb"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x54f667dB585b7B10347429C72c36c8B59aB441cb"
+        },
+        {
+            "name": "website",
+            "url": "https://gofurs.cash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/GOFURS404"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GOFURS404"
+        }
+    ]
+}

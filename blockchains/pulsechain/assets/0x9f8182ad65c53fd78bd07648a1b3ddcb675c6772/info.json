@@ -1,0 +1,35 @@
+{
+    "name": "Daytona.Finance on PulseChain",
+    "description": "Daytona.Finance token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772",
+    "type": "ERC20",
+    "symbol": "TONI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x9F8182aD65c53Fd78bd07648a1b3DDcB675c6772"
+        },
+        {
+            "name": "website",
+            "url": "https://www.daytona.finance/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DaytonaFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/daytona_finance"
+        }
+    ]
+}

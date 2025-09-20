@@ -1,0 +1,23 @@
+{
+    "name": "BEAR on PulseChain",
+    "description": "BEAR token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xd6c31ba0754c4383a41c0e9df042c62b5e918f6d",
+    "type": "ERC20",
+    "symbol": "TEDDY BEAR ㉾",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd6c31ba0754c4383a41c0e9df042c62b5e918f6d",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xd6c31ba0754c4383a41c0e9df042c62b5e918f6d"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xd6c31ba0754c4383a41c0e9df042c62b5e918f6d"
+        }
+    ]
+}

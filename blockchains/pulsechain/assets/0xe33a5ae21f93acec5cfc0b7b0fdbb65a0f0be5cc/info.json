@@ -1,0 +1,35 @@
+{
+    "name": "MostWanted on PulseChain",
+    "description": "MostWanted token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC",
+    "type": "ERC20",
+    "symbol": "MOST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC"
+        },
+        {
+            "name": "website",
+            "url": "https://pump.tires/token/0xe33a5AE21F93aceC5CfC0b7b0FDBB65A0f0Be5cC"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/richardheartwin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MostWantedpls"
+        }
+    ]
+}

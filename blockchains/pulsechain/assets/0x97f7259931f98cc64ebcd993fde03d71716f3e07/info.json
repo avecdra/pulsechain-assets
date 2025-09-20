@@ -1,0 +1,35 @@
+{
+    "name": "Secret Squirrel Society on PulseChain",
+    "description": "Secret Squirrel Society token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x97f7259931f98CC64EbCd993fdE03d71716f3E07",
+    "type": "ERC20",
+    "symbol": "NUTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x97f7259931f98CC64EbCd993fdE03d71716f3E07",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x97f7259931f98CC64EbCd993fdE03d71716f3E07"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x97f7259931f98CC64EbCd993fdE03d71716f3E07"
+        },
+        {
+            "name": "website",
+            "url": "https://www.squirrelsociety.vip/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/404Squirrels"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/SecretSquirrelSociety"
+        }
+    ]
+}

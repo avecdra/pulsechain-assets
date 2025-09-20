@@ -1,0 +1,27 @@
+{
+    "name": "PulseX LP on PulseChain",
+    "description": "PulseX LP token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x474b13dB8Df722DB45F57950EBe0682D5933969B",
+    "type": "ERC20",
+    "symbol": "PLP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x474b13dB8Df722DB45F57950EBe0682D5933969B",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x474b13dB8Df722DB45F57950EBe0682D5933969B"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x474b13dB8Df722DB45F57950EBe0682D5933969B"
+        },
+        {
+            "name": "website",
+            "url": "https://a1a.eco/"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "NEXION on PulseChain",
+    "description": "NEXION token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xf2da3942616880e52e841e5c504b5a9fba23fff0",
+    "type": "ERC20",
+    "symbol": "NEON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf2da3942616880e52e841e5c504b5a9fba23fff0",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xf2da3942616880e52e841e5c504b5a9fba23fff0"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xf2da3942616880e52e841e5c504b5a9fba23fff0"
+        }
+    ]
+}

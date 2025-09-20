@@ -1,0 +1,31 @@
+{
+    "name": "ChainLink Token on PulseChain",
+    "description": "ChainLink Token token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "type": "ERC20",
+    "symbol": "LINK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        },
+        {
+            "name": "website",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/chainlink"
+        }
+    ]
+}

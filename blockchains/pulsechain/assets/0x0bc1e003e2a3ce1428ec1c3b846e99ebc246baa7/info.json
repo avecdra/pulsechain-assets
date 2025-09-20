@@ -1,0 +1,23 @@
+{
+    "name": "ENKI on PulseChain",
+    "description": "ENKI token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x0bc1e003e2a3ce1428ec1c3b846e99ebc246baa7",
+    "type": "ERC20",
+    "symbol": "ENKI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0bc1e003e2a3ce1428ec1c3b846e99ebc246baa7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x0bc1e003e2a3ce1428ec1c3b846e99ebc246baa7"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x0bc1e003e2a3ce1428ec1c3b846e99ebc246baa7"
+        }
+    ]
+}

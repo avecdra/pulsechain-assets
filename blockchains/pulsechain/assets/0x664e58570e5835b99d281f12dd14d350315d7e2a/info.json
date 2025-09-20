@@ -1,0 +1,35 @@
+{
+    "name": "uPX on PulseChain",
+    "description": "uPX token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x664E58570e5835B99d281f12dD14d350315D7E2a",
+    "type": "ERC20",
+    "symbol": "uPX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x664E58570e5835B99d281f12dD14d350315D7E2a",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x664E58570e5835B99d281f12dD14d350315D7E2a"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x664E58570e5835B99d281f12dD14d350315D7E2a"
+        },
+        {
+            "name": "website",
+            "url": "https://upx.plusx.app/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/officialuptoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/uPabns"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "PulseLN Founder Token on PulseChain",
+    "description": "PulseLN Founder Token token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xa685C45fd071DF23278069Db9137e124564897D0",
+    "type": "ERC20",
+    "symbol": "PLN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa685C45fd071DF23278069Db9137e124564897D0",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xa685C45fd071DF23278069Db9137e124564897D0"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xa685C45fd071DF23278069Db9137e124564897D0"
+        },
+        {
+            "name": "website",
+            "url": "https://app.pulseln.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PulseLN"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseLNcom"
+        }
+    ]
+}

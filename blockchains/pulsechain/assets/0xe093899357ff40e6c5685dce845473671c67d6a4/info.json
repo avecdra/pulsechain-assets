@@ -1,0 +1,35 @@
+{
+    "name": "Phoenix on PulseChain",
+    "description": "Phoenix token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xE093899357Ff40E6C5685Dce845473671C67d6A4",
+    "type": "ERC20",
+    "symbol": "PNX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE093899357Ff40E6C5685Dce845473671C67d6A4",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xE093899357Ff40E6C5685Dce845473671C67d6A4"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xE093899357Ff40E6C5685Dce845473671C67d6A4"
+        },
+        {
+            "name": "website",
+            "url": "https://phoenix0x.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PNXonPulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PNXonPulse"
+        }
+    ]
+}

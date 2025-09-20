@@ -1,0 +1,35 @@
+{
+    "name": "Louis The Duck on PulseChain",
+    "description": "Louis The Duck token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x88BdfdBbb5f6DeF9fA1B20eeFDB7FbF41Eb789CB",
+    "type": "ERC20",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x88BdfdBbb5f6DeF9fA1B20eeFDB7FbF41Eb789CB",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x88BdfdBbb5f6DeF9fA1B20eeFDB7FbF41Eb789CB"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x88BdfdBbb5f6DeF9fA1B20eeFDB7FbF41Eb789CB"
+        },
+        {
+            "name": "website",
+            "url": "https://louistheduck.xyz"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MonogramDuck"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Louistheduck"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "PulseSend on PulseChain",
+    "description": "PulseSend token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xd42b6cfa7a62d54124c5d78dd631fd4606bb3825",
+    "type": "ERC20",
+    "symbol": "SEND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd42b6cfa7a62d54124c5d78dd631fd4606bb3825",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xd42b6cfa7a62d54124c5d78dd631fd4606bb3825"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xd42b6cfa7a62d54124c5d78dd631fd4606bb3825"
+        }
+    ]
+}

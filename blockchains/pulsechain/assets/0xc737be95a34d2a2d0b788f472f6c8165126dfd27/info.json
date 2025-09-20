@@ -1,0 +1,23 @@
+{
+    "name": "Pulseium on PulseChain",
+    "description": "Pulseium token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xc737be95a34d2a2d0b788f472f6c8165126dfd27",
+    "type": "ERC20",
+    "symbol": "PSM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc737be95a34d2a2d0b788f472f6c8165126dfd27",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xc737be95a34d2a2d0b788f472f6c8165126dfd27"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xc737be95a34d2a2d0b788f472f6c8165126dfd27"
+        }
+    ]
+}

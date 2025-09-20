@@ -1,0 +1,24 @@
+{
+    "name": "Swarm on PulseChain",
+    "description": "Swarm token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1e2b066d068eb087ccf85620b8306a283ea70816",
+    "type": "ERC20",
+    "symbol": "SWRM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1e2b066d068eb087ccf85620b8306a283ea70816",
+    "tags": [
+        "defi",
+        "wrapped"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1e2b066d068eb087ccf85620b8306a283ea70816"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1e2b066d068eb087ccf85620b8306a283ea70816"
+        }
+    ]
+}

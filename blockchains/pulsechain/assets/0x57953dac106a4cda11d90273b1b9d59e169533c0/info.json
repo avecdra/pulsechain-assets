@@ -1,0 +1,35 @@
+{
+    "name": "DEX on PulseChain",
+    "description": "DEX token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x57953dAC106a4cDa11D90273b1B9D59E169533c0",
+    "type": "ERC20",
+    "symbol": "DEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x57953dAC106a4cDa11D90273b1B9D59E169533c0",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x57953dAC106a4cDa11D90273b1B9D59E169533c0"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x57953dAC106a4cDa11D90273b1B9D59E169533c0"
+        },
+        {
+            "name": "website",
+            "url": "https://dextop.pro/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/godextop"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dextoppro"
+        }
+    ]
+}

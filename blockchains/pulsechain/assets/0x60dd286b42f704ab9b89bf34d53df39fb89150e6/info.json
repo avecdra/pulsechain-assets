@@ -1,0 +1,23 @@
+{
+    "name": "FingerMonkey on PulseChain",
+    "description": "FingerMonkey token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x60dd286b42f704ab9b89bf34d53df39fb89150e6",
+    "type": "ERC20",
+    "symbol": "FM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x60dd286b42f704ab9b89bf34d53df39fb89150e6",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x60dd286b42f704ab9b89bf34d53df39fb89150e6"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x60dd286b42f704ab9b89bf34d53df39fb89150e6"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "DAI on PulseChain",
+    "description": "DAI token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+    "type": "ERC20",
+    "symbol": "DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xf598cB1D27Fb2c5C731F535AD6c1D0ec5EfE1320"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/RichardHeartWin"
+        }
+    ]
+}

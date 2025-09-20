@@ -1,0 +1,35 @@
+{
+    "name": "MegaSwap.io on PulseChain",
+    "description": "MegaSwap.io token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x603146141994fFAe2fa54324A8D0E532DA3000Ae",
+    "type": "ERC20",
+    "symbol": "Mega",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x603146141994fFAe2fa54324A8D0E532DA3000Ae",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x603146141994fFAe2fa54324A8D0E532DA3000Ae"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x603146141994fFAe2fa54324A8D0E532DA3000Ae"
+        },
+        {
+            "name": "website",
+            "url": "https://MegaSwap.io"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/TheRealMegaSwap/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/JoinMegaSwap"
+        }
+    ]
+}

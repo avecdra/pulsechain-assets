@@ -1,0 +1,35 @@
+{
+    "name": "MoonX on PulseChain",
+    "description": "MoonX token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568",
+    "type": "ERC20",
+    "symbol": "MOONX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1C9c8528f2a1672e0E7eaDA21167a596D126B568",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1C9c8528f2a1672e0E7eaDA21167a596D126B568"
+        },
+        {
+            "name": "website",
+            "url": "https://moonx.win"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/moonx_win"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/moonxwin"
+        }
+    ]
+}

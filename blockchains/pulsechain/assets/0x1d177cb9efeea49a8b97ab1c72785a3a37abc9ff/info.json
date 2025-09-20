@@ -1,0 +1,31 @@
+{
+    "name": "Reserve Teh ㉾ on PulseChain",
+    "description": "Reserve Teh ㉾ token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+    "type": "ERC20",
+    "symbol": "F㉾D",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1D177CB9EfEEa49A8B97ab1C72785a3A37ABc9Ff"
+        },
+        {
+            "name": "website",
+            "url": "https://treasurysystem.win/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ReserveTeh"
+        }
+    ]
+}

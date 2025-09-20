@@ -1,0 +1,35 @@
+{
+    "name": "Bull on PulseChain",
+    "description": "Bull token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xF4241f5E1f1037c2C12321F8F37163b3d1cD8177",
+    "type": "ERC20",
+    "symbol": "Bull",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF4241f5E1f1037c2C12321F8F37163b3d1cD8177",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xF4241f5E1f1037c2C12321F8F37163b3d1cD8177"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xF4241f5E1f1037c2C12321F8F37163b3d1cD8177"
+        },
+        {
+            "name": "website",
+            "url": "https://bull0x.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/bull0x_pls?s=21"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Bull_PLS"
+        }
+    ]
+}

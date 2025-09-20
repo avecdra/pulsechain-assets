@@ -1,0 +1,31 @@
+{
+    "name": "SHIBA INU on PulseChain",
+    "description": "SHIBA INU token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "type": "ERC20",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/SHIBTOSHI369"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseShibainu"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "DOMINANCE on PulseChain",
+    "description": "DOMINANCE token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x116D162d729E27E2E1D6478F1d2A8AEd9C7a2beA",
+    "type": "ERC20",
+    "symbol": "DOMINANCE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x116D162d729E27E2E1D6478F1d2A8AEd9C7a2beA",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x116D162d729E27E2E1D6478F1d2A8AEd9C7a2beA"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x116D162d729E27E2E1D6478F1d2A8AEd9C7a2beA"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.eco/dominance"
+        }
+    ]
+}

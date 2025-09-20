@@ -1,0 +1,23 @@
+{
+    "name": "SAC DADDY on PulseChain",
+    "description": "SAC DADDY token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xe7c6b52e6e7e463fef7640580d1c586d0622d5d1",
+    "type": "ERC20",
+    "symbol": "DADDY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe7c6b52e6e7e463fef7640580d1c586d0622d5d1",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xe7c6b52e6e7e463fef7640580d1c586d0622d5d1"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xe7c6b52e6e7e463fef7640580d1c586d0622d5d1"
+        }
+    ]
+}

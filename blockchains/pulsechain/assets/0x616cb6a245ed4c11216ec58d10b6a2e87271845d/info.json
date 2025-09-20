@@ -1,0 +1,23 @@
+{
+    "name": "Gelato on PulseChain",
+    "description": "Gelato token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x616cb6a245ed4c11216ec58d10b6a2e87271845d",
+    "type": "ERC20",
+    "symbol": "GEL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x616cb6a245ed4c11216ec58d10b6a2e87271845d",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x616cb6a245ed4c11216ec58d10b6a2e87271845d"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x616cb6a245ed4c11216ec58d10b6a2e87271845d"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "CashMachine on PulseChain",
+    "description": "CashMachine token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6c49074f17532AF9cdDeF84C5c3D898d3316fDc1",
+    "type": "ERC20",
+    "symbol": "CASH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6c49074f17532AF9cdDeF84C5c3D898d3316fDc1",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6c49074f17532AF9cdDeF84C5c3D898d3316fDc1"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6c49074f17532AF9cdDeF84C5c3D898d3316fDc1"
+        },
+        {
+            "name": "website",
+            "url": "https://www.cashmachine.cash/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/CashMachinedApp"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CashMachinedApp"
+        }
+    ]
+}

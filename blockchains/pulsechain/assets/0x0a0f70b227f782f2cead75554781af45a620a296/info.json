@@ -1,0 +1,23 @@
+{
+    "name": "PIKA to PIKO ピカとピコ on PulseChain",
+    "description": "PIKA to PIKO ピカとピコ token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x0a0f70b227f782f2cead75554781af45a620a296",
+    "type": "ERC20",
+    "symbol": "PIKA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0a0f70b227f782f2cead75554781af45a620a296",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x0a0f70b227f782f2cead75554781af45a620a296"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x0a0f70b227f782f2cead75554781af45a620a296"
+        }
+    ]
+}

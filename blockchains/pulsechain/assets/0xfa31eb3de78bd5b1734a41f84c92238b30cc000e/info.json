@@ -1,0 +1,35 @@
+{
+    "name": "Mask on PulseChain",
+    "description": "Mask token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xfA31EB3De78BD5B1734A41f84c92238b30Cc000E",
+    "type": "ERC20",
+    "symbol": "MSK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfA31EB3De78BD5B1734A41f84c92238b30Cc000E",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xfA31EB3De78BD5B1734A41f84c92238b30Cc000E"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xfA31EB3De78BD5B1734A41f84c92238b30Cc000E"
+        },
+        {
+            "name": "website",
+            "url": "https://incognito0x.com/mask"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/mask_pulsechain?s=21\u0026t=iz5Z5EVhQt2Kn3M6bpk8pw"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/masked_Arsonist"
+        }
+    ]
+}

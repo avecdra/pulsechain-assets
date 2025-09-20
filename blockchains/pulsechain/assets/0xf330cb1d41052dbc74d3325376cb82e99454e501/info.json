@@ -1,0 +1,31 @@
+{
+    "name": "HEXFIREIO on PulseChain",
+    "description": "HEXFIREIO token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xf330cb1d41052dbC74D3325376Cb82E99454e501",
+    "type": "ERC20",
+    "symbol": "FIRE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf330cb1d41052dbC74D3325376Cb82E99454e501",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xf330cb1d41052dbC74D3325376Cb82E99454e501"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xf330cb1d41052dbC74D3325376Cb82E99454e501"
+        },
+        {
+            "name": "website",
+            "url": "https://www.hexfire.io"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/hexfireio"
+        }
+    ]
+}

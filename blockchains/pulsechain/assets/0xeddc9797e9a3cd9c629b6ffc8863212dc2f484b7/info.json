@@ -1,0 +1,35 @@
+{
+    "name": "HigherPump.tires on PulseChain",
+    "description": "HigherPump.tires token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xEDdc9797e9a3cd9C629B6Ffc8863212DC2F484b7",
+    "type": "ERC20",
+    "symbol": "hPUMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEDdc9797e9a3cd9C629B6Ffc8863212DC2F484b7",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xEDdc9797e9a3cd9C629B6Ffc8863212DC2F484b7"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xEDdc9797e9a3cd9C629B6Ffc8863212DC2F484b7"
+        },
+        {
+            "name": "website",
+            "url": "https://higherpump.tires"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/higherpumptires"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HigherPump_tires"
+        }
+    ]
+}

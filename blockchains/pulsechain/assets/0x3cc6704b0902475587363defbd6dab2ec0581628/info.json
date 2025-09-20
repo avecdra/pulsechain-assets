@@ -1,0 +1,35 @@
+{
+    "name": "Freedom of Peach フリーダム オブ ピーチ on PulseChain",
+    "description": "Freedom of Peach フリーダム オブ ピーチ token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x3cC6704b0902475587363DEfbD6dAb2ec0581628",
+    "type": "ERC20",
+    "symbol": "PEACH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3cC6704b0902475587363DEfbD6dAb2ec0581628",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x3cC6704b0902475587363DEfbD6dAb2ec0581628"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x3cC6704b0902475587363DEfbD6dAb2ec0581628"
+        },
+        {
+            "name": "website",
+            "url": "https://hexoacoin.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Toos_pooky?t=6TY5G9uH3ycI-gzLeSDFlA\u0026s=09"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/HexOrangeAddress_Official"
+        }
+    ]
+}

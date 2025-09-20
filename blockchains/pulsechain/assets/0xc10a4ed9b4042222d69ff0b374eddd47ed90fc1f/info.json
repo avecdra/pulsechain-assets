@@ -1,0 +1,23 @@
+{
+    "name": "PulseChain Peacock on PulseChain",
+    "description": "PulseChain Peacock token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xc10a4ed9b4042222d69ff0b374eddd47ed90fc1f",
+    "type": "ERC20",
+    "symbol": "PCOCK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc10a4ed9b4042222d69ff0b374eddd47ed90fc1f",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xc10a4ed9b4042222d69ff0b374eddd47ed90fc1f"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xc10a4ed9b4042222d69ff0b374eddd47ed90fc1f"
+        }
+    ]
+}

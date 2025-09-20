@@ -1,0 +1,31 @@
+{
+    "name": "PUMP.tires on PulseChain",
+    "description": "PUMP.tires token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xec4252e62C6dE3D655cA9Ce3AfC12E553ebBA274",
+    "type": "ERC20",
+    "symbol": "PUMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xec4252e62C6dE3D655cA9Ce3AfC12E553ebBA274",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xec4252e62C6dE3D655cA9Ce3AfC12E553ebBA274"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xec4252e62C6dE3D655cA9Ce3AfC12E553ebBA274"
+        },
+        {
+            "name": "website",
+            "url": "https://pump.tires/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PUMPtires369"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Big Bonus Coin on PulseChain",
+    "description": "Big Bonus Coin token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E",
+    "type": "ERC20",
+    "symbol": "BBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x8b4cfb020aF9AcAd95AD80020cE8f67FBB2C700E"
+        },
+        {
+            "name": "website",
+            "url": "https://www.9inch.io/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/9inch_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DEX9inch"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Vouch Staked PLS on PulseChain",
+    "description": "Vouch Staked PLS token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x79bb3a0ee435f957ce4f54ee8c3cfadc7278da0c",
+    "type": "ERC20",
+    "symbol": "vPLS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x79bb3a0ee435f957ce4f54ee8c3cfadc7278da0c",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x79bb3a0ee435f957ce4f54ee8c3cfadc7278da0c"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x79bb3a0ee435f957ce4f54ee8c3cfadc7278da0c"
+        }
+    ]
+}

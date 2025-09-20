@@ -1,0 +1,35 @@
+{
+    "name": "PLSPUPPY on PulseChain",
+    "description": "PLSPUPPY token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xe3B3f5F95d263edc6A5e3D4b7314728A390a4342",
+    "type": "ERC20",
+    "symbol": "PLSPUP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe3B3f5F95d263edc6A5e3D4b7314728A390a4342",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xe3B3f5F95d263edc6A5e3D4b7314728A390a4342"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xe3B3f5F95d263edc6A5e3D4b7314728A390a4342"
+        },
+        {
+            "name": "website",
+            "url": "https://www.puptoken.xyz"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PLSPUP"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PLSPUP"
+        }
+    ]
+}

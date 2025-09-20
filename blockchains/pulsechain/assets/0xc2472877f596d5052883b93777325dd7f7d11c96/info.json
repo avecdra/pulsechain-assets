@@ -1,0 +1,23 @@
+{
+    "name": "TOP HAT on PulseChain",
+    "description": "TOP HAT token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xc2472877f596d5052883b93777325dd7f7d11c96",
+    "type": "ERC20",
+    "symbol": "TOPHAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc2472877f596d5052883b93777325dd7f7d11c96",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xc2472877f596d5052883b93777325dd7f7d11c96"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xc2472877f596d5052883b93777325dd7f7d11c96"
+        }
+    ]
+}

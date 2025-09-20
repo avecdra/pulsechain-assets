@@ -1,0 +1,35 @@
+{
+    "name": "ogwebchef888 on PulseChain",
+    "description": "ogwebchef888 token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x2bA6e201ad6f14522320BEA885A102dbb798C345",
+    "type": "ERC20",
+    "symbol": "∞",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2bA6e201ad6f14522320BEA885A102dbb798C345",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x2bA6e201ad6f14522320BEA885A102dbb798C345"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x2bA6e201ad6f14522320BEA885A102dbb798C345"
+        },
+        {
+            "name": "website",
+            "url": "https://www.infinityprc20.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/infinityprc20"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "GAS Station on PulseChain",
+    "description": "GAS Station token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xE547B798DA37Ecda21Cb1886f33CB34e85852657",
+    "type": "ERC20",
+    "symbol": "🏧",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE547B798DA37Ecda21Cb1886f33CB34e85852657",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xE547B798DA37Ecda21Cb1886f33CB34e85852657"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xE547B798DA37Ecda21Cb1886f33CB34e85852657"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.eco"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/GASSTATION_PLS"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

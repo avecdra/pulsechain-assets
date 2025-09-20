@@ -1,0 +1,23 @@
+{
+    "name": "INC Reward Service on PulseChain",
+    "description": "INC Reward Service token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x0107fa4f5b4ed84daf188770d7096654cb4ade35",
+    "type": "ERC20",
+    "symbol": "IRS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0107fa4f5b4ed84daf188770d7096654cb4ade35",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x0107fa4f5b4ed84daf188770d7096654cb4ade35"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x0107fa4f5b4ed84daf188770d7096654cb4ade35"
+        }
+    ]
+}

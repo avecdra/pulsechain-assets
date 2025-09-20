@@ -1,0 +1,31 @@
+{
+    "name": "DEV Coin on PulseChain",
+    "description": "DEV Coin token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xA804b9E522A2D1645a19227514CFe856Ad8C2fbC",
+    "type": "ERC20",
+    "symbol": "DEVC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA804b9E522A2D1645a19227514CFe856Ad8C2fbC",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xA804b9E522A2D1645a19227514CFe856Ad8C2fbC"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xA804b9E522A2D1645a19227514CFe856Ad8C2fbC"
+        },
+        {
+            "name": "website",
+            "url": "https://pulsechain.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/LibertySwapFi"
+        }
+    ]
+}

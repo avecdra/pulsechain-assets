@@ -1,0 +1,35 @@
+{
+    "name": "ALIEN on PulseChain",
+    "description": "ALIEN token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1",
+    "type": "ERC20",
+    "symbol": "ALIEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1B7B541BeA3aF39292FCe08649e4C4e1BEE408a1"
+        },
+        {
+            "name": "website",
+            "url": "https://www.pulsechainalien.tech"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/AliEnKinG369?t=xd7DSk9XWCv5ZrQEZTQg0g\u0026s=09"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseChainAlien"
+        }
+    ]
+}

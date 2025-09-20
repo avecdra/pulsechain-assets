@@ -1,0 +1,35 @@
+{
+    "name": "9INCH on PulseChain",
+    "description": "9INCH token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x3ca80d83277e721171284667829c686527B8b3c5",
+    "type": "ERC20",
+    "symbol": "9INCH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3ca80d83277e721171284667829c686527B8b3c5",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x3ca80d83277e721171284667829c686527B8b3c5"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x3ca80d83277e721171284667829c686527B8b3c5"
+        },
+        {
+            "name": "website",
+            "url": "https://www.9inch.io/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/9inch_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DEX9inch"
+        }
+    ]
+}

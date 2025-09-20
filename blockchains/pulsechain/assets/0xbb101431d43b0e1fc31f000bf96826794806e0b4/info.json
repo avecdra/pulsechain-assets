@@ -1,0 +1,35 @@
+{
+    "name": "Apin Pulse on PulseChain",
+    "description": "Apin Pulse token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xBb101431d43b0E1fc31f000bf96826794806e0b4",
+    "type": "ERC20",
+    "symbol": "APC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBb101431d43b0E1fc31f000bf96826794806e0b4",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xBb101431d43b0E1fc31f000bf96826794806e0b4"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xBb101431d43b0E1fc31f000bf96826794806e0b4"
+        },
+        {
+            "name": "website",
+            "url": "https://apinpulse.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ApinPulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ApinPulse"
+        }
+    ]
+}

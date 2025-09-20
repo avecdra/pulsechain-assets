@@ -1,0 +1,35 @@
+{
+    "name": "AFFECTION™ on PulseChain",
+    "description": "AFFECTION™ token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D",
+    "type": "ERC20",
+    "symbol": "Ⓐ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D"
+        },
+        {
+            "name": "website",
+            "url": "https://affection.icu"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/affection_pls"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/affection_pls"
+        }
+    ]
+}

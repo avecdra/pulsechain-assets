@@ -1,0 +1,35 @@
+{
+    "name": "RhinoFi on PulseChain",
+    "description": "RhinoFi token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6C6D7De6C5f366a1995ed5f1e273C5B3760C6043",
+    "type": "ERC20",
+    "symbol": "RHINO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6C6D7De6C5f366a1995ed5f1e273C5B3760C6043",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6C6D7De6C5f366a1995ed5f1e273C5B3760C6043"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6C6D7De6C5f366a1995ed5f1e273C5B3760C6043"
+        },
+        {
+            "name": "website",
+            "url": "https://rhinofi.win/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Rhinofi_win"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/RhinoFiWin"
+        }
+    ]
+}

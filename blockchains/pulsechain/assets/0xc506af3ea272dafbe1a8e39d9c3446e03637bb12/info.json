@@ -1,0 +1,35 @@
+{
+    "name": "REMEMBER REMEMBER THE 5TH OF NOVEMBER on PulseChain",
+    "description": "REMEMBER REMEMBER THE 5TH OF NOVEMBER token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12",
+    "type": "ERC20",
+    "symbol": "🎭",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xC506af3eA272dAFBE1A8E39d9C3446E03637bB12"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.eco/remember"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Remember_Pulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

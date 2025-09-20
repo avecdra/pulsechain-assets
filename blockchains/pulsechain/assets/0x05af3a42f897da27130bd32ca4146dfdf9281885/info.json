@@ -1,0 +1,23 @@
+{
+    "name": "Blitz on PulseChain",
+    "description": "Blitz token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x05af3a42f897da27130bd32ca4146dfdf9281885",
+    "type": "ERC20",
+    "symbol": "BLTZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x05af3a42f897da27130bd32ca4146dfdf9281885",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x05af3a42f897da27130bd32ca4146dfdf9281885"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x05af3a42f897da27130bd32ca4146dfdf9281885"
+        }
+    ]
+}

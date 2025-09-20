@@ -1,0 +1,35 @@
+{
+    "name": "PMX500 on PulseChain",
+    "description": "PMX500 token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xDc8D1cBDF7b6a2d5B503fF7BFFd85a6002358050",
+    "type": "ERC20",
+    "symbol": "PMX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xDc8D1cBDF7b6a2d5B503fF7BFFd85a6002358050",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xDc8D1cBDF7b6a2d5B503fF7BFFd85a6002358050"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xDc8D1cBDF7b6a2d5B503fF7BFFd85a6002358050"
+        },
+        {
+            "name": "website",
+            "url": "https://pmx500.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PMX500"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PMX500"
+        }
+    ]
+}

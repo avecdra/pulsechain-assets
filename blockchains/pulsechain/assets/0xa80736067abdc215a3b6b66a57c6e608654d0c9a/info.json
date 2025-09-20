@@ -1,0 +1,23 @@
+{
+    "name": "Briah on PulseChain",
+    "description": "Briah token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xa80736067abdc215a3b6b66a57c6e608654d0c9a",
+    "type": "ERC20",
+    "symbol": "Briah",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa80736067abdc215a3b6b66a57c6e608654d0c9a",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xa80736067abdc215a3b6b66a57c6e608654d0c9a"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xa80736067abdc215a3b6b66a57c6e608654d0c9a"
+        }
+    ]
+}

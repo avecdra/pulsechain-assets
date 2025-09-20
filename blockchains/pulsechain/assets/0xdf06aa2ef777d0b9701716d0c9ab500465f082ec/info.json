@@ -1,0 +1,35 @@
+{
+    "name": "OVERSOLD on PulseChain",
+    "description": "OVERSOLD token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xdF06aa2EF777D0B9701716d0C9aB500465f082ec",
+    "type": "ERC20",
+    "symbol": "RSI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdF06aa2EF777D0B9701716d0C9aB500465f082ec",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xdF06aa2EF777D0B9701716d0C9aB500465f082ec"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xdF06aa2EF777D0B9701716d0C9aB500465f082ec"
+        },
+        {
+            "name": "website",
+            "url": "https://secretinitiative.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/rsitokenpls"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/secretresidents"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Wonderland on PulseChain",
+    "description": "Wonderland token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x896Bed39C73d24D6d11Fc18c854f5b64ca16f638",
+    "type": "ERC20",
+    "symbol": "ALICE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x896Bed39C73d24D6d11Fc18c854f5b64ca16f638",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x896Bed39C73d24D6d11Fc18c854f5b64ca16f638"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x896Bed39C73d24D6d11Fc18c854f5b64ca16f638"
+        },
+        {
+            "name": "website",
+            "url": "https://wonderland.cool"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/wonderlandpulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/WonderlandPls"
+        }
+    ]
+}

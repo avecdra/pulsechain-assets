@@ -1,0 +1,35 @@
+{
+    "name": "Pulse Drip on PulseChain",
+    "description": "Pulse Drip token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68",
+    "type": "ERC20",
+    "symbol": "PDRIP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xeB2CEed77147893Ba8B250c796c2d4EF02a72B68"
+        },
+        {
+            "name": "website",
+            "url": "https://www.pulsedrip.io/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Pulsechaindrip"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pulsedripnetwork"
+        }
+    ]
+}

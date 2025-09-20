@@ -1,0 +1,35 @@
+{
+    "name": "PulseInu on PulseChain",
+    "description": "PulseInu token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd",
+    "type": "ERC20",
+    "symbol": "PINU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xa12E2661ec6603CBbB891072b2Ad5b3d5edb48bd"
+        },
+        {
+            "name": "website",
+            "url": "https://pulseinu.org/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PulseInu"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/pulseinuofficial"
+        }
+    ]
+}

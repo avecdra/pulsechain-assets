@@ -1,0 +1,23 @@
+{
+    "name": "ZeroTrust on PulseChain",
+    "description": "ZeroTrust token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xf6703dbff070f231eed966d33b1b6d7ef5207d26",
+    "type": "ERC20",
+    "symbol": "ZERØ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf6703dbff070f231eed966d33b1b6d7ef5207d26",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xf6703dbff070f231eed966d33b1b6d7ef5207d26"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xf6703dbff070f231eed966d33b1b6d7ef5207d26"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Compound on PulseChain",
+    "description": "Compound token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "type": "ERC20",
+    "symbol": "COMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xc00e94Cb662C3520282E6f5717214004A7f26888"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xc00e94Cb662C3520282E6f5717214004A7f26888"
+        }
+    ]
+}

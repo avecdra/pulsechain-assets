@@ -1,0 +1,35 @@
+{
+    "name": "$INCOGNITO on PulseChain",
+    "description": "$INCOGNITO token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x9B3B6b8fF7434e9ec2b6D3B032b98152CCF4D266",
+    "type": "ERC20",
+    "symbol": "$INCOGNITO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9B3B6b8fF7434e9ec2b6D3B032b98152CCF4D266",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x9B3B6b8fF7434e9ec2b6D3B032b98152CCF4D266"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x9B3B6b8fF7434e9ec2b6D3B032b98152CCF4D266"
+        },
+        {
+            "name": "website",
+            "url": "https://incognito0x.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/INCTOSHI0x"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/INCTOSHI0x"
+        }
+    ]
+}

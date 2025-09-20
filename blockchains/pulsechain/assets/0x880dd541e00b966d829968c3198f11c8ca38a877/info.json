@@ -1,0 +1,35 @@
+{
+    "name": "PulseTrailerPark on PulseChain",
+    "description": "PulseTrailerPark token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x880Dd541e00B966d829968c3198F11C8ca38A877",
+    "type": "ERC20",
+    "symbol": "PTP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x880Dd541e00B966d829968c3198F11C8ca38A877",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x880Dd541e00B966d829968c3198F11C8ca38A877"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x880Dd541e00B966d829968c3198F11C8ca38A877"
+        },
+        {
+            "name": "website",
+            "url": "https://www.pulsetrailerpark.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/PlsTrailerpark"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/PulseTrailerPark"
+        }
+    ]
+}

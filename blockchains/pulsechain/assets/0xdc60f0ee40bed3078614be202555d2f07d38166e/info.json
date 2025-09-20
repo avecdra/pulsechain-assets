@@ -1,0 +1,35 @@
+{
+    "name": "BEAST on PulseChain",
+    "description": "BEAST token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0xdc60f0EE40bEd3078614bE202555d2f07d38166e",
+    "type": "ERC20",
+    "symbol": "BEAST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdc60f0EE40bEd3078614bE202555d2f07d38166e",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0xdc60f0EE40bEd3078614bE202555d2f07d38166e"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0xdc60f0EE40bEd3078614bE202555d2f07d38166e"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.eco/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/beastpulsechain?s=21"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

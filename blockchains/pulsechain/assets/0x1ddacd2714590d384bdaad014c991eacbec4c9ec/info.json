@@ -1,0 +1,35 @@
+{
+    "name": "Conspiracy on PulseChain",
+    "description": "Conspiracy token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1DDacd2714590D384bdAAD014C991EaCbeC4c9ec",
+    "type": "ERC20",
+    "symbol": "SECRET",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1DDacd2714590D384bdAAD014C991EaCbeC4c9ec",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1DDacd2714590D384bdAAD014C991EaCbeC4c9ec"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1DDacd2714590D384bdAAD014C991EaCbeC4c9ec"
+        },
+        {
+            "name": "website",
+            "url": "https://conspiracy.secretinitiative.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/rsitokenpls"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/secretresidents"
+        }
+    ]
+}

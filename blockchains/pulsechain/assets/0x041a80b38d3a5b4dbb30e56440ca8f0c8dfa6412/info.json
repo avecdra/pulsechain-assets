@@ -1,0 +1,35 @@
+{
+    "name": "SⒶVⒶNT on PulseChain",
+    "description": "SⒶVⒶNT token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x041a80B38D3a5B4dbB30e56440cA8F0C8DFA6412",
+    "type": "ERC20",
+    "symbol": "SⒶV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x041a80B38D3a5B4dbB30e56440cA8F0C8DFA6412",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x041a80B38D3a5B4dbB30e56440cA8F0C8DFA6412"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x041a80B38D3a5B4dbB30e56440cA8F0C8DFA6412"
+        },
+        {
+            "name": "website",
+            "url": "https://www.finvesta.io"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/savant_pulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogwebchef888_community"
+        }
+    ]
+}

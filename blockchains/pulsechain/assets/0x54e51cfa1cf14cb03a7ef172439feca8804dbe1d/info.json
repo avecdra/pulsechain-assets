@@ -1,0 +1,31 @@
+{
+    "name": "PeterParkerBushDid911KirbyPepe on PulseChain",
+    "description": "PeterParkerBushDid911KirbyPepe token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D",
+    "type": "ERC20",
+    "symbol": "PULSECHAIN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x54E51Cfa1CF14cB03A7eF172439fEca8804dBE1D"
+        },
+        {
+            "name": "website",
+            "url": "https://ppbd911kp.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OfficialTickerPULSECHAIN"
+        }
+    ]
+}

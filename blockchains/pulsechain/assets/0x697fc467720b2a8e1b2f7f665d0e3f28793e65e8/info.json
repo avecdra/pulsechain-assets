@@ -1,0 +1,23 @@
+{
+    "name": "TokenA1A on PulseChain",
+    "description": "TokenA1A token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x697fc467720B2a8e1b2F7F665d0e3f28793E65e8",
+    "type": "ERC20",
+    "symbol": "A1A",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x697fc467720B2a8e1b2F7F665d0e3f28793E65e8",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x697fc467720B2a8e1b2F7F665d0e3f28793E65e8"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x697fc467720B2a8e1b2F7F665d0e3f28793E65e8"
+        }
+    ]
+}

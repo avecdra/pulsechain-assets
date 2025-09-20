@@ -1,0 +1,35 @@
+{
+    "name": "CARDANO on PulseChain",
+    "description": "CARDANO token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x4774e075c16989be68C26cC146fE707Ef4393661",
+    "type": "ERC20",
+    "symbol": "ADA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4774e075c16989be68C26cC146fE707Ef4393661",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x4774e075c16989be68C26cC146fE707Ef4393661"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x4774e075c16989be68C26cC146fE707Ef4393661"
+        },
+        {
+            "name": "website",
+            "url": "https://www.adaonpulse.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/adaonpulse"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/RichardHeartADA"
+        }
+    ]
+}

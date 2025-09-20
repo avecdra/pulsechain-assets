@@ -1,0 +1,23 @@
+{
+    "name": "DOUBT on PulseChain",
+    "description": "DOUBT token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x6ba0876e30cce2a9afc4b82d8bd8a8349df4ca96",
+    "type": "ERC20",
+    "symbol": "DOUBT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6ba0876e30cce2a9afc4b82d8bd8a8349df4ca96",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x6ba0876e30cce2a9afc4b82d8bd8a8349df4ca96"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x6ba0876e30cce2a9afc4b82d8bd8a8349df4ca96"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "414 ペグの始まり on PulseChain",
+    "description": "414 ペグの始まり token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1d841B34F23712c25dab430cA27Dd64b7F9FEA8e",
+    "type": "ERC20",
+    "symbol": "414 🖨️",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1d841B34F23712c25dab430cA27Dd64b7F9FEA8e",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1d841B34F23712c25dab430cA27Dd64b7F9FEA8e"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1d841B34F23712c25dab430cA27Dd64b7F9FEA8e"
+        },
+        {
+            "name": "website",
+            "url": "https://www.atropa414.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/414Atropa"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Atropa414"
+        }
+    ]
+}
