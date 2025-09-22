@@ -1,0 +1,28 @@
+{
+    "name": "hUSDC",
+    "website": "https://hyperlane.xyz/",
+    "description": "hUSDC is the Hyperlane USDC token variant for PulseChain, enabling cross-chain transfers through the Hyperlane bridge.",
+    "explorer": "https://scan.pulsechain.box/token/0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
+    "type": "ERC20",
+    "symbol": "hUSDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa5B0D537CeBE97f087Dc5FE5732d70719caaEc1D",
+    "tags": [
+        "stablecoin",
+        "usd",
+        "hyperlane",
+        "bridge",
+        "pulsechain"
+    ],
+    "links": [
+        {
+            "name": "website",
+            "url": "https://hyperlane.xyz/"
+        },
+        {
+            "name": "pulsechain",
+            "url": "https://pulsechain.com/"
+        }
+    ]
+}
