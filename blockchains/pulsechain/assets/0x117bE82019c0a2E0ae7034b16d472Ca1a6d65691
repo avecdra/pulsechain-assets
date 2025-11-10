@@ -1,0 +1,8 @@
+{
+  "name": "PLSPUNKS",
+  "symbol": "PLSPUNKS",
+  "decimals": 18,
+  "description": "PLSPUNKS token on PulseChain",
+  "website": "https://apeking.netlify.app",
+  "explorer": "https://scan.pulsechain.com/address/0x117bE82019c0a2E0ae7034b16d472Ca1a6d65691"
+}
