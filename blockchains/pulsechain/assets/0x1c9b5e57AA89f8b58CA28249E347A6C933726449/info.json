@@ -1,0 +1,23 @@
+{
+    "name": "LEAN",
+    "description": "LEAN token on PulseChain",
+    "explorer": "https://scan.pulsechain.box/token/0x1c9b5e57AA89f8b58CA28249E347A6C933726449",
+    "type": "ERC20",
+    "symbol": "LEAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1c9b5e57AA89f8b58CA28249E347A6C933726449",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "explorer",
+            "url": "https://scan.pulsechain.box/token/0x1c9b5e57AA89f8b58CA28249E347A6C933726449"
+        },
+        {
+            "name": "dexscreener",
+            "url": "https://dexscreener.com/pulsechain/0x1c9b5e57AA89f8b58CA28249E347A6C933726449"
+        }
+    ]
+}
